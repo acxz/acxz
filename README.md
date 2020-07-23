@@ -1,4 +1,8 @@
-### Hi there 👋
+```
+contributing to robotics/aerospace/ml/rocm software
+packaging it for archlinux
+always updating but forever in dependency hell
+```
 
 <!--
 **acxz/acxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
