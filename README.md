@@ -1,6 +1,7 @@
 ```
 contributing to robotics/aerospace/ml/rocm software
 packaging it for archlinux
+ricer
 always updating but forever in dependency hell
 ```
 
