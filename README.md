@@ -6,8 +6,8 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
-2. 🗣 Commented on [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
+1. 🗣 Commented on [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
+2. ❗️ Closed issue [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
 3. 🗣 Commented on [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
 4. 🗣 Commented on [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
 5. 🗣 Commented on [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
