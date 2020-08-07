@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com//rocm-arch/rocm-arch/issues/262) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-2. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-plotjuggler/issues/1) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com//ros-noetic-arch/ros-noetic-plotjuggler)
-3. 🗣 Commented on [#313](https://github.com//facontidavide/PlotJuggler/issues/313) in [facontidavide/PlotJuggler](https://github.com//facontidavide/PlotJuggler)
-4. 🗣 Commented on [#308](https://github.com//facontidavide/PlotJuggler/issues/308) in [facontidavide/PlotJuggler](https://github.com//facontidavide/PlotJuggler)
-5. 💪 Opened PR [#313](https://github.com//facontidavide/PlotJuggler/pull/313) in [facontidavide/PlotJuggler](https://github.com//facontidavide/PlotJuggler)
+1. ❗️ Reopened issue [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
+2. 🗣 Commented on [#2](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp/issues/2) in [ros-noetic-arch/ros-noetic-xmlrpcpp](https://github.com//ros-noetic-arch/ros-noetic-xmlrpcpp)
+3. 🗣 Commented on [#262](https://github.com//rocm-arch/rocm-arch/issues/262) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-plotjuggler/issues/1) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com//ros-noetic-arch/ros-noetic-plotjuggler)
+5. 🗣 Commented on [#313](https://github.com//facontidavide/PlotJuggler/issues/313) in [facontidavide/PlotJuggler](https://github.com//facontidavide/PlotJuggler)
 <!--END_SECTION:activity-->
 
 
