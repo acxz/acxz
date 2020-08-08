@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#8](https://github.com//rocm-arch/tensorflow-rocm/issues/8) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-2. 🗣 Commented on [#8](https://github.com//rocm-arch/tensorflow-rocm/issues/8) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-3. 🗣 Commented on [#262](https://github.com//rocm-arch/rocm-arch/issues/262) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. 🗣 Commented on [#8](https://github.com//rocm-arch/tensorflow-rocm/issues/8) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#84](https://github.com//arch4edu/arch4edu/issues/84) in [arch4edu/arch4edu](https://github.com//arch4edu/arch4edu)
+1. 🗣 Commented on [#302](https://github.com//rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. ❗️ Reopened issue [#8](https://github.com//rocm-arch/tensorflow-rocm/issues/8) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+3. 🗣 Commented on [#8](https://github.com//rocm-arch/tensorflow-rocm/issues/8) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+4. 🗣 Commented on [#262](https://github.com//rocm-arch/rocm-arch/issues/262) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. 🗣 Commented on [#8](https://github.com//rocm-arch/tensorflow-rocm/issues/8) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 
