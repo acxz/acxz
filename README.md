@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1342](https://github.com//Jguer/yay/issues/1342) in [Jguer/yay](https://github.com//Jguer/yay)
-2. ❗️ Closed issue [#1](https://github.com//rocm-arch/tensorflow-rocm/issues/1) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-3. 🗣 Commented on [#1](https://github.com//rocm-arch/tensorflow-rocm/issues/1) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+1. ❗️ Closed issue [#1](https://github.com//rocm-arch/tensorflow-rocm/issues/1) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#10](https://github.com//rocm-arch/tensorflow-rocm/issues/10) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+3. ❗️ Reopened issue [#1](https://github.com//rocm-arch/tensorflow-rocm/issues/1) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
 4. 🗣 Commented on [#1](https://github.com//rocm-arch/tensorflow-rocm/issues/1) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#5](https://github.com//rocm-arch/python-pytorch-rocm/issues/5) in [rocm-arch/python-pytorch-rocm](https://github.com//rocm-arch/python-pytorch-rocm)
+5. 🗣 Commented on [#1342](https://github.com//Jguer/yay/issues/1342) in [Jguer/yay](https://github.com//Jguer/yay)
 <!--END_SECTION:activity-->
 
 
