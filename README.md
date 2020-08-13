@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com//rocm-arch/tensorflow-rocm/issues/11) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-2. 💪 Opened PR [#42292](https://github.com//tensorflow/tensorflow/pull/42292) in [tensorflow/tensorflow](https://github.com//tensorflow/tensorflow)
-3. ❗️ Opened issue [#42291](https://github.com//tensorflow/tensorflow/issues/42291) in [tensorflow/tensorflow](https://github.com//tensorflow/tensorflow)
-4. 🗣 Commented on [#78](https://github.com//arch4edu/arch4edu/issues/78) in [arch4edu/arch4edu](https://github.com//arch4edu/arch4edu)
-5. 🗣 Commented on [#14](https://github.com//ros-noetic-arch/ros-noetic-desktop-full/issues/14) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com//ros-noetic-arch/ros-noetic-desktop-full)
+1. ❗️ Opened issue [#12](https://github.com//rocm-arch/tensorflow-rocm/issues/12) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+2. ❗️ Opened issue [#11](https://github.com//rocm-arch/tensorflow-rocm/issues/11) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+3. 💪 Opened PR [#42292](https://github.com//tensorflow/tensorflow/pull/42292) in [tensorflow/tensorflow](https://github.com//tensorflow/tensorflow)
+4. ❗️ Opened issue [#42291](https://github.com//tensorflow/tensorflow/issues/42291) in [tensorflow/tensorflow](https://github.com//tensorflow/tensorflow)
+5. 🗣 Commented on [#78](https://github.com//arch4edu/arch4edu/issues/78) in [arch4edu/arch4edu](https://github.com//arch4edu/arch4edu)
 <!--END_SECTION:activity-->
 
 
