@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#380](https://github.com//rocm-arch/rocm-arch/issues/380) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-2. ❗️ Closed issue [#306](https://github.com//rocm-arch/rocm-arch/issues/306) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-3. 🗣 Commented on [#306](https://github.com//rocm-arch/rocm-arch/issues/306) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. 🎉 Merged PR [#374](https://github.com//rocm-arch/rocm-arch/pull/374) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. 🎉 Merged PR [#367](https://github.com//rocm-arch/rocm-arch/pull/367) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. 🎉 Merged PR [#373](https://github.com//rocm-arch/rocm-arch/pull/373) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. ❗️ Closed issue [#320](https://github.com//rocm-arch/rocm-arch/issues/320) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+3. 🎉 Merged PR [#368](https://github.com//rocm-arch/rocm-arch/pull/368) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. ❗️ Closed issue [#328](https://github.com//rocm-arch/rocm-arch/issues/328) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. ❗️ Opened issue [#380](https://github.com//rocm-arch/rocm-arch/issues/380) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
