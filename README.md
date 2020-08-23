@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//capuanomat/MattsPathPlanningLibrary/issues/1) in [capuanomat/MattsPathPlanningLibrary](https://github.com//capuanomat/MattsPathPlanningLibrary)
-2. 🗣 Commented on [#1](https://github.com//capuanomat/MattsPathPlanningLibrary/issues/1) in [capuanomat/MattsPathPlanningLibrary](https://github.com//capuanomat/MattsPathPlanningLibrary)
-3. 🎉 Merged PR [#381](https://github.com//rocm-arch/rocm-arch/pull/381) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. ❗️ Closed issue [#361](https://github.com//rocm-arch/rocm-arch/issues/361) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. ❗️ Opened issue [#383](https://github.com//rocm-arch/rocm-arch/issues/383) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. 🗣 Commented on [#380](https://github.com//rocm-arch/rocm-arch/issues/380) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. ❗️ Closed issue [#384](https://github.com//rocm-arch/rocm-arch/issues/384) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+3. 🗣 Commented on [#384](https://github.com//rocm-arch/rocm-arch/issues/384) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. ❗️ Closed issue [#1](https://github.com//capuanomat/MattsPathPlanningLibrary/issues/1) in [capuanomat/MattsPathPlanningLibrary](https://github.com//capuanomat/MattsPathPlanningLibrary)
+5. 🗣 Commented on [#1](https://github.com//capuanomat/MattsPathPlanningLibrary/issues/1) in [capuanomat/MattsPathPlanningLibrary](https://github.com//capuanomat/MattsPathPlanningLibrary)
 <!--END_SECTION:activity-->
 
 
