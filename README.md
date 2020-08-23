@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#348](https://github.com//rocm-arch/rocm-arch/issues/348) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-2. 🗣 Commented on [#348](https://github.com//rocm-arch/rocm-arch/issues/348) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-3. ❗️ Closed issue [#346](https://github.com//rocm-arch/rocm-arch/issues/346) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. 🗣 Commented on [#346](https://github.com//rocm-arch/rocm-arch/issues/346) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. ❗️ Closed issue [#350](https://github.com//rocm-arch/rocm-arch/issues/350) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. ❗️ Opened issue [#390](https://github.com//rocm-arch/rocm-arch/issues/390) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. ❗️ Closed issue [#329](https://github.com//rocm-arch/rocm-arch/issues/329) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+3. 🗣 Commented on [#329](https://github.com//rocm-arch/rocm-arch/issues/329) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. 🗣 Commented on [#579](https://github.com//ROCmSoftwarePlatform/AMDMIGraphX/issues/579) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com//ROCmSoftwarePlatform/AMDMIGraphX)
+5. ❗️ Closed issue [#348](https://github.com//rocm-arch/rocm-arch/issues/348) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
