@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#330](https://github.com//rocm-arch/rocm-arch/issues/330) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-2. 🗣 Commented on [#330](https://github.com//rocm-arch/rocm-arch/issues/330) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-3. 🗣 Commented on [#1](https://github.com//capuanomat/MattsPathPlanningLibrary/issues/1) in [capuanomat/MattsPathPlanningLibrary](https://github.com//capuanomat/MattsPathPlanningLibrary)
-4. ❗️ Closed issue [#353](https://github.com//rocm-arch/rocm-arch/issues/353) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. 🗣 Commented on [#353](https://github.com//rocm-arch/rocm-arch/issues/353) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. 🎉 Merged PR [#64](https://github.com//acxz/pkgbuilds/pull/64) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+2. ❗️ Closed issue [#332](https://github.com//rocm-arch/rocm-arch/issues/332) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+3. 🗣 Commented on [#332](https://github.com//rocm-arch/rocm-arch/issues/332) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. 🎉 Merged PR [#389](https://github.com//rocm-arch/rocm-arch/pull/389) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. ❗️ Closed issue [#388](https://github.com//rocm-arch/rocm-arch/issues/388) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
