@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#392](https://github.com//rocm-arch/rocm-arch/pull/392) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-2. 🗣 Commented on [#37](https://github.com//khancyr/ardupilot_gazebo/issues/37) in [khancyr/ardupilot_gazebo](https://github.com//khancyr/ardupilot_gazebo)
-3. 🗣 Commented on [#10657](https://github.com//pytorch/pytorch/issues/10657) in [pytorch/pytorch](https://github.com//pytorch/pytorch)
-4. ❗️ Closed issue [#352](https://github.com//rocm-arch/rocm-arch/issues/352) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. 🗣 Commented on [#352](https://github.com//rocm-arch/rocm-arch/issues/352) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. ❗️ Opened issue [#393](https://github.com//rocm-arch/rocm-arch/issues/393) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. 🗣 Commented on [#351](https://github.com//rocm-arch/rocm-arch/issues/351) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+3. ❗️ Reopened issue [#349](https://github.com//rocm-arch/rocm-arch/issues/349) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. 🗣 Commented on [#349](https://github.com//rocm-arch/rocm-arch/issues/349) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. ❗️ Reopened issue [#344](https://github.com//rocm-arch/rocm-arch/issues/344) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
