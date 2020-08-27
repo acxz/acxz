@@ -8,8 +8,8 @@ always updating but forever in dependency hell
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
 2. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-3. 🎉 Merged PR [#70](https://github.com//acxz/pkgbuilds/pull/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-4. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+3. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+4. 🎉 Merged PR [#70](https://github.com//acxz/pkgbuilds/pull/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
 5. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
