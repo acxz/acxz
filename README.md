@@ -6,10 +6,10 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-2. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+1. 🎉 Merged PR [#405](https://github.com//rocm-arch/rocm-arch/pull/405) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. ❗️ Closed issue [#404](https://github.com//rocm-arch/rocm-arch/issues/404) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 3. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-4. 🎉 Merged PR [#70](https://github.com//acxz/pkgbuilds/pull/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+4. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
 5. 🗣 Commented on [#70](https://github.com//acxz/pkgbuilds/issues/70) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
