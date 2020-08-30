@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#435](https://github.com//bitcraze/crazyflie-clients-python/issues/435) in [bitcraze/crazyflie-clients-python](https://github.com//bitcraze/crazyflie-clients-python)
-2. 🗣 Commented on [#435](https://github.com//bitcraze/crazyflie-clients-python/issues/435) in [bitcraze/crazyflie-clients-python](https://github.com//bitcraze/crazyflie-clients-python)
+1. ❗️ Opened issue [#185](https://github.com//whoenig/crazyflie_ros/issues/185) in [whoenig/crazyflie_ros](https://github.com//whoenig/crazyflie_ros)
+2. ❗️ Closed issue [#435](https://github.com//bitcraze/crazyflie-clients-python/issues/435) in [bitcraze/crazyflie-clients-python](https://github.com//bitcraze/crazyflie-clients-python)
 3. 🗣 Commented on [#435](https://github.com//bitcraze/crazyflie-clients-python/issues/435) in [bitcraze/crazyflie-clients-python](https://github.com//bitcraze/crazyflie-clients-python)
-4. ❗️ Opened issue [#435](https://github.com//bitcraze/crazyflie-clients-python/issues/435) in [bitcraze/crazyflie-clients-python](https://github.com//bitcraze/crazyflie-clients-python)
-5. 🎉 Merged PR [#408](https://github.com//rocm-arch/rocm-arch/pull/408) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. 🗣 Commented on [#435](https://github.com//bitcraze/crazyflie-clients-python/issues/435) in [bitcraze/crazyflie-clients-python](https://github.com//bitcraze/crazyflie-clients-python)
+5. ❗️ Opened issue [#435](https://github.com//bitcraze/crazyflie-clients-python/issues/435) in [bitcraze/crazyflie-clients-python](https://github.com//bitcraze/crazyflie-clients-python)
 <!--END_SECTION:activity-->
 
 
