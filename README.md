@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com//whoenig/crazyflie_ros/issues/185) in [whoenig/crazyflie_ros](https://github.com//whoenig/crazyflie_ros)
-2. 💪 Opened PR [#186](https://github.com//whoenig/crazyflie_ros/pull/186) in [whoenig/crazyflie_ros](https://github.com//whoenig/crazyflie_ros)
-3. 🗣 Commented on [#4](https://github.com//whoenig/crazyflie_tools/issues/4) in [whoenig/crazyflie_tools](https://github.com//whoenig/crazyflie_tools)
-4. 💪 Opened PR [#4](https://github.com//whoenig/crazyflie_tools/pull/4) in [whoenig/crazyflie_tools](https://github.com//whoenig/crazyflie_tools)
-5. 🗣 Commented on [#614](https://github.com//bitcraze/crazyflie-firmware/issues/614) in [bitcraze/crazyflie-firmware](https://github.com//bitcraze/crazyflie-firmware)
+1. 🗣 Commented on [#186](https://github.com//whoenig/crazyflie_ros/issues/186) in [whoenig/crazyflie_ros](https://github.com//whoenig/crazyflie_ros)
+2. 🗣 Commented on [#185](https://github.com//whoenig/crazyflie_ros/issues/185) in [whoenig/crazyflie_ros](https://github.com//whoenig/crazyflie_ros)
+3. 💪 Opened PR [#186](https://github.com//whoenig/crazyflie_ros/pull/186) in [whoenig/crazyflie_ros](https://github.com//whoenig/crazyflie_ros)
+4. 🗣 Commented on [#4](https://github.com//whoenig/crazyflie_tools/issues/4) in [whoenig/crazyflie_tools](https://github.com//whoenig/crazyflie_tools)
+5. 💪 Opened PR [#4](https://github.com//whoenig/crazyflie_tools/pull/4) in [whoenig/crazyflie_tools](https://github.com//whoenig/crazyflie_tools)
 <!--END_SECTION:activity-->
 
 
