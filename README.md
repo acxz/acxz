@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#614](https://github.com//bitcraze/crazyflie-firmware/issues/614) in [bitcraze/crazyflie-firmware](https://github.com//bitcraze/crazyflie-firmware)
-2. 🗣 Commented on [#614](https://github.com//bitcraze/crazyflie-firmware/issues/614) in [bitcraze/crazyflie-firmware](https://github.com//bitcraze/crazyflie-firmware)
-3. 🗣 Commented on [#614](https://github.com//bitcraze/crazyflie-firmware/issues/614) in [bitcraze/crazyflie-firmware](https://github.com//bitcraze/crazyflie-firmware)
-4. 🗣 Commented on [#614](https://github.com//bitcraze/crazyflie-firmware/issues/614) in [bitcraze/crazyflie-firmware](https://github.com//bitcraze/crazyflie-firmware)
-5. 🗣 Commented on [#2113](https://github.com//ROCm-Developer-Tools/HIP/issues/2113) in [ROCm-Developer-Tools/HIP](https://github.com//ROCm-Developer-Tools/HIP)
+1. 🗣 Commented on [#98](https://github.com//arch4edu/arch4edu/issues/98) in [arch4edu/arch4edu](https://github.com//arch4edu/arch4edu)
+2. ❗️ Opened issue [#42975](https://github.com//tensorflow/tensorflow/issues/42975) in [tensorflow/tensorflow](https://github.com//tensorflow/tensorflow)
+3. 🗣 Commented on [#41360](https://github.com//tensorflow/tensorflow/issues/41360) in [tensorflow/tensorflow](https://github.com//tensorflow/tensorflow)
+4. ❗️ Closed issue [#614](https://github.com//bitcraze/crazyflie-firmware/issues/614) in [bitcraze/crazyflie-firmware](https://github.com//bitcraze/crazyflie-firmware)
+5. 🗣 Commented on [#614](https://github.com//bitcraze/crazyflie-firmware/issues/614) in [bitcraze/crazyflie-firmware](https://github.com//bitcraze/crazyflie-firmware)
 <!--END_SECTION:activity-->
 
 
