@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com//acxz/pkgbuilds/issues/11) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-2. 🗣 Commented on [#11](https://github.com//acxz/pkgbuilds/issues/11) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-3. ❗️ Closed issue [#72](https://github.com//acxz/pkgbuilds/issues/72) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-4. 🗣 Commented on [#72](https://github.com//acxz/pkgbuilds/issues/72) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-5. 🗣 Commented on [#72](https://github.com//acxz/pkgbuilds/issues/72) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+1. ❗️ Closed issue [#27](https://github.com//acxz/pkgbuilds/issues/27) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+2. 🗣 Commented on [#27](https://github.com//acxz/pkgbuilds/issues/27) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+3. 🗣 Commented on [#104](https://github.com//ignitionrobotics/ign-math/issues/104) in [ignitionrobotics/ign-math](https://github.com//ignitionrobotics/ign-math)
+4. ❗️ Closed issue [#11](https://github.com//acxz/pkgbuilds/issues/11) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+5. 🗣 Commented on [#11](https://github.com//acxz/pkgbuilds/issues/11) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
