@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#411](https://github.com//rocm-arch/rocm-arch/issues/411) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-2. 🗣 Commented on [#411](https://github.com//rocm-arch/rocm-arch/issues/411) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-3. 🗣 Commented on [#412](https://github.com//rocm-arch/rocm-arch/issues/412) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. 🗣 Commented on [#5](https://github.com//rocm-arch/tensorflow-rocm/issues/5) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#71](https://github.com//acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+1. 🎉 Merged PR [#413](https://github.com//rocm-arch/rocm-arch/pull/413) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. ❗️ Closed issue [#411](https://github.com//rocm-arch/rocm-arch/issues/411) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+3. 🗣 Commented on [#411](https://github.com//rocm-arch/rocm-arch/issues/411) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. 🗣 Commented on [#411](https://github.com//rocm-arch/rocm-arch/issues/411) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. 🗣 Commented on [#412](https://github.com//rocm-arch/rocm-arch/issues/412) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
