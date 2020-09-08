@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com//rocm-arch/tensorflow-rocm/issues/5) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-2. 🗣 Commented on [#71](https://github.com//acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-3. 🗣 Commented on [#410](https://github.com//rocm-arch/rocm-arch/issues/410) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. 🗣 Commented on [#98](https://github.com//arch4edu/arch4edu/issues/98) in [arch4edu/arch4edu](https://github.com//arch4edu/arch4edu)
-5. 🗣 Commented on [#5](https://github.com//rocm-arch/tensorflow-rocm/issues/5) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+1. 🗣 Commented on [#412](https://github.com//rocm-arch/rocm-arch/issues/412) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. 🗣 Commented on [#5](https://github.com//rocm-arch/tensorflow-rocm/issues/5) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+3. 🗣 Commented on [#71](https://github.com//acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+4. 🗣 Commented on [#410](https://github.com//rocm-arch/rocm-arch/issues/410) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. 🗣 Commented on [#98](https://github.com//arch4edu/arch4edu/issues/98) in [arch4edu/arch4edu](https://github.com//arch4edu/arch4edu)
 <!--END_SECTION:activity-->
 
 
