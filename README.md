@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com//ericstoneking/42/issues/26) in [ericstoneking/42](https://github.com//ericstoneking/42)
-2. 🗣 Commented on [#26](https://github.com//ericstoneking/42/issues/26) in [ericstoneking/42](https://github.com//ericstoneking/42)
-3. ❗️ Closed issue [#420](https://github.com//rocm-arch/rocm-arch/issues/420) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. 🗣 Commented on [#420](https://github.com//rocm-arch/rocm-arch/issues/420) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. 🗣 Commented on [#421](https://github.com//rocm-arch/rocm-arch/issues/421) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. 🗣 Commented on [#74](https://github.com//acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+2. 💪 Opened PR [#42](https://github.com//ericstoneking/42/pull/42) in [ericstoneking/42](https://github.com//ericstoneking/42)
+3. ❗️ Opened issue [#41](https://github.com//ericstoneking/42/issues/41) in [ericstoneking/42](https://github.com//ericstoneking/42)
+4. ❌ Closed PR [#27](https://github.com//ericstoneking/42/pull/27) in [ericstoneking/42](https://github.com//ericstoneking/42)
+5. 🗣 Commented on [#27](https://github.com//ericstoneking/42/issues/27) in [ericstoneking/42](https://github.com//ericstoneking/42)
 <!--END_SECTION:activity-->
 
 
