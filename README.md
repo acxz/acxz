@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com//acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-2. 💪 Opened PR [#42](https://github.com//ericstoneking/42/pull/42) in [ericstoneking/42](https://github.com//ericstoneking/42)
-3. ❗️ Opened issue [#41](https://github.com//ericstoneking/42/issues/41) in [ericstoneking/42](https://github.com//ericstoneking/42)
-4. ❌ Closed PR [#27](https://github.com//ericstoneking/42/pull/27) in [ericstoneking/42](https://github.com//ericstoneking/42)
-5. 🗣 Commented on [#27](https://github.com//ericstoneking/42/issues/27) in [ericstoneking/42](https://github.com//ericstoneking/42)
+1. ❗️ Closed issue [#14](https://github.com//rocm-arch/tensorflow-rocm/issues/14) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#14](https://github.com//rocm-arch/tensorflow-rocm/issues/14) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+3. 🗣 Commented on [#74](https://github.com//acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+4. 💪 Opened PR [#42](https://github.com//ericstoneking/42/pull/42) in [ericstoneking/42](https://github.com//ericstoneking/42)
+5. ❗️ Opened issue [#41](https://github.com//ericstoneking/42/issues/41) in [ericstoneking/42](https://github.com//ericstoneking/42)
 <!--END_SECTION:activity-->
 
 
