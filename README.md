@@ -7,10 +7,10 @@ always updating but forever in dependency hell
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-class-loader/issues/1) in [ros-noetic-arch/ros-noetic-class-loader](https://github.com//ros-noetic-arch/ros-noetic-class-loader)
-2. 🗣 Commented on [#15](https://github.com//rocm-arch/tensorflow-rocm/issues/15) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-3. 🎉 Merged PR [#423](https://github.com//rocm-arch/rocm-arch/pull/423) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. ❗️ Closed issue [#420](https://github.com//rocm-arch/rocm-arch/issues/420) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. ❗️ Closed issue [#422](https://github.com//rocm-arch/rocm-arch/issues/422) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-class-loader/issues/1) in [ros-noetic-arch/ros-noetic-class-loader](https://github.com//ros-noetic-arch/ros-noetic-class-loader)
+3. 🗣 Commented on [#15](https://github.com//rocm-arch/tensorflow-rocm/issues/15) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
+4. 🎉 Merged PR [#423](https://github.com//rocm-arch/rocm-arch/pull/423) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. ❗️ Closed issue [#420](https://github.com//rocm-arch/rocm-arch/issues/420) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
