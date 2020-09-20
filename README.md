@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-class-loader/issues/1) in [ros-noetic-arch/ros-noetic-class-loader](https://github.com//ros-noetic-arch/ros-noetic-class-loader)
-2. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-class-loader/issues/1) in [ros-noetic-arch/ros-noetic-class-loader](https://github.com//ros-noetic-arch/ros-noetic-class-loader)
-3. 🗣 Commented on [#15](https://github.com//rocm-arch/tensorflow-rocm/issues/15) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
-4. 🎉 Merged PR [#423](https://github.com//rocm-arch/rocm-arch/pull/423) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. ❗️ Closed issue [#420](https://github.com//rocm-arch/rocm-arch/issues/420) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. 🗣 Commented on [#6](https://github.com//rocm-arch/python-pytorch-rocm/issues/6) in [rocm-arch/python-pytorch-rocm](https://github.com//rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#44384](https://github.com//pytorch/pytorch/issues/44384) in [pytorch/pytorch](https://github.com//pytorch/pytorch)
+3. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-class-loader/issues/1) in [ros-noetic-arch/ros-noetic-class-loader](https://github.com//ros-noetic-arch/ros-noetic-class-loader)
+4. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-class-loader/issues/1) in [ros-noetic-arch/ros-noetic-class-loader](https://github.com//ros-noetic-arch/ros-noetic-class-loader)
+5. 🗣 Commented on [#15](https://github.com//rocm-arch/tensorflow-rocm/issues/15) in [rocm-arch/tensorflow-rocm](https://github.com//rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 
