@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#431](https://github.com//rocm-arch/rocm-arch/issues/431) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-2. ❗️ Opened issue [#430](https://github.com//rocm-arch/rocm-arch/issues/430) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-3. ❗️ Opened issue [#429](https://github.com//rocm-arch/rocm-arch/issues/429) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. ❗️ Opened issue [#428](https://github.com//rocm-arch/rocm-arch/issues/428) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. ❗️ Opened issue [#427](https://github.com//rocm-arch/rocm-arch/issues/427) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. ❗️ Opened issue [#433](https://github.com//rocm-arch/rocm-arch/issues/433) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. ❗️ Opened issue [#432](https://github.com//rocm-arch/rocm-arch/issues/432) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+3. ❗️ Opened issue [#431](https://github.com//rocm-arch/rocm-arch/issues/431) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#430](https://github.com//rocm-arch/rocm-arch/issues/430) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. ❗️ Opened issue [#429](https://github.com//rocm-arch/rocm-arch/issues/429) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
