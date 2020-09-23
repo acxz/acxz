@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#390](https://github.com//rocm-arch/rocm-arch/issues/390) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-2. 🗣 Commented on [#2165](https://github.com//ROCm-Developer-Tools/HIP/issues/2165) in [ROCm-Developer-Tools/HIP](https://github.com//ROCm-Developer-Tools/HIP)
-3. 🗣 Commented on [#6](https://github.com//rocm-arch/python-pytorch-rocm/issues/6) in [rocm-arch/python-pytorch-rocm](https://github.com//rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#44384](https://github.com//pytorch/pytorch/issues/44384) in [pytorch/pytorch](https://github.com//pytorch/pytorch)
-5. 🗣 Commented on [#1](https://github.com//ros-noetic-arch/ros-noetic-class-loader/issues/1) in [ros-noetic-arch/ros-noetic-class-loader](https://github.com//ros-noetic-arch/ros-noetic-class-loader)
+1. ❗️ Opened issue [#428](https://github.com//rocm-arch/rocm-arch/issues/428) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+2. ❗️ Opened issue [#427](https://github.com//rocm-arch/rocm-arch/issues/427) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+3. ❗️ Opened issue [#426](https://github.com//rocm-arch/rocm-arch/issues/426) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#425](https://github.com//rocm-arch/rocm-arch/issues/425) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+5. ❗️ Opened issue [#424](https://github.com//rocm-arch/rocm-arch/issues/424) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
