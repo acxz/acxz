@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com//OpenVSP/OpenVSP/pull/158) in [OpenVSP/OpenVSP](https://github.com//OpenVSP/OpenVSP)
-2. 🎉 Merged PR [#436](https://github.com//rocm-arch/rocm-arch/pull/436) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-3. 🎉 Merged PR [#435](https://github.com//rocm-arch/rocm-arch/pull/435) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-4. ❗️ Closed issue [#426](https://github.com//rocm-arch/rocm-arch/issues/426) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
-5. 🎉 Merged PR [#434](https://github.com//rocm-arch/rocm-arch/pull/434) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
+1. ❗️ Closed issue [#73](https://github.com//acxz/pkgbuilds/issues/73) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+2. 🗣 Commented on [#73](https://github.com//acxz/pkgbuilds/issues/73) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+3. 🗣 Commented on [#74](https://github.com//acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+4. 💪 Opened PR [#158](https://github.com//OpenVSP/OpenVSP/pull/158) in [OpenVSP/OpenVSP](https://github.com//OpenVSP/OpenVSP)
+5. 🎉 Merged PR [#436](https://github.com//rocm-arch/rocm-arch/pull/436) in [rocm-arch/rocm-arch](https://github.com//rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
