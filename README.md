@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#74](https://github.com//acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-2. 🗣 Commented on [#74](https://github.com//acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-3. 🗣 Commented on [#75](https://github.com//acxz/pkgbuilds/issues/75) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-4. ❗️ Closed issue [#73](https://github.com//acxz/pkgbuilds/issues/73) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
-5. 🗣 Commented on [#73](https://github.com//acxz/pkgbuilds/issues/73) in [acxz/pkgbuilds](https://github.com//acxz/pkgbuilds)
+1. ❗️ Reopened issue [#74](https://github.com/acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#74](https://github.com/acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#75](https://github.com/acxz/pkgbuilds/issues/75) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#73](https://github.com/acxz/pkgbuilds/issues/73) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#73](https://github.com/acxz/pkgbuilds/issues/73) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
