@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#445](https://github.com/rocm-arch/rocm-arch/issues/445) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#445](https://github.com/rocm-arch/rocm-arch/issues/445) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#445](https://github.com/rocm-arch/rocm-arch/issues/445) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. ❗️ Closed issue [#444](https://github.com/rocm-arch/rocm-arch/issues/444) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#444](https://github.com/rocm-arch/rocm-arch/issues/444) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. ❗️ Closed issue [#15](https://github.com/rocm-arch/tensorflow-rocm/issues/15) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#15](https://github.com/rocm-arch/tensorflow-rocm/issues/15) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+3. ❗️ Closed issue [#75](https://github.com/acxz/pkgbuilds/issues/75) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#75](https://github.com/acxz/pkgbuilds/issues/75) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Closed issue [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
