@@ -6,11 +6,11 @@ always updating but forever in dependency hell
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45623](https://github.com/pytorch/pytorch/issues/45623) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. ❗️ Closed issue [#42975](https://github.com/tensorflow/tensorflow/issues/42975) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-3. 🗣 Commented on [#42975](https://github.com/tensorflow/tensorflow/issues/42975) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-4. 🗣 Commented on [#6](https://github.com/rocm-arch/python-pytorch-rocm/issues/6) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. ❗️ Opened issue [#7](https://github.com/rocm-arch/python-pytorch-rocm/issues/7) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. ❗️ Closed issue [#45623](https://github.com/pytorch/pytorch/issues/45623) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. 🗣 Commented on [#45623](https://github.com/pytorch/pytorch/issues/45623) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+3. ❗️ Opened issue [#45623](https://github.com/pytorch/pytorch/issues/45623) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. ❗️ Closed issue [#42975](https://github.com/tensorflow/tensorflow/issues/42975) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+5. 🗣 Commented on [#42975](https://github.com/tensorflow/tensorflow/issues/42975) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 <!--END_SECTION:activity-->
 
 
