@@ -8,8 +8,8 @@ ricer
 1. 🗣 Commented on [#138](https://github.com/python-control/Slycot/issues/138) in [python-control/Slycot](https://github.com/python-control/Slycot)
 2. 🗣 Commented on [#138](https://github.com/python-control/Slycot/issues/138) in [python-control/Slycot](https://github.com/python-control/Slycot)
 3. 🗣 Commented on [#138](https://github.com/python-control/Slycot/issues/138) in [python-control/Slycot](https://github.com/python-control/Slycot)
-4. ❗️ Closed issue [#2](https://github.com/rocm-arch/python-pytorch-rocm/issues/2) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. 🗣 Commented on [#2](https://github.com/rocm-arch/python-pytorch-rocm/issues/2) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#138](https://github.com/python-control/Slycot/issues/138) in [python-control/Slycot](https://github.com/python-control/Slycot)
+5. ❗️ Closed issue [#2](https://github.com/rocm-arch/python-pytorch-rocm/issues/2) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 
