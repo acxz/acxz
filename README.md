@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/unitedstates/congress/issues/265) in [unitedstates/congress](https://github.com/unitedstates/congress)
+1. 💪 Opened PR [#266](https://github.com/unitedstates/congress/pull/266) in [unitedstates/congress](https://github.com/unitedstates/congress)
 2. 🗣 Commented on [#265](https://github.com/unitedstates/congress/issues/265) in [unitedstates/congress](https://github.com/unitedstates/congress)
 3. 🗣 Commented on [#265](https://github.com/unitedstates/congress/issues/265) in [unitedstates/congress](https://github.com/unitedstates/congress)
 4. 🗣 Commented on [#265](https://github.com/unitedstates/congress/issues/265) in [unitedstates/congress](https://github.com/unitedstates/congress)
-5. 💪 Opened PR [#265](https://github.com/unitedstates/congress/pull/265) in [unitedstates/congress](https://github.com/unitedstates/congress)
+5. 🗣 Commented on [#265](https://github.com/unitedstates/congress/issues/265) in [unitedstates/congress](https://github.com/unitedstates/congress)
 <!--END_SECTION:activity-->
 
 
