@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 💪 Opened PR [#11238](https://github.com/ray-project/ray/pull/11238) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
-4. ❗️ Opened issue [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
-5. ❗️ Closed issue [#443](https://github.com/rocm-arch/rocm-arch/issues/443) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. 💪 Opened PR [#11238](https://github.com/ray-project/ray/pull/11238) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
