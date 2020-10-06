@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#443](https://github.com/rocm-arch/rocm-arch/issues/443) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#443](https://github.com/rocm-arch/rocm-arch/issues/443) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. ❗️ Opened issue [#2](https://github.com/stevesdawg/govstat/issues/2) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-5. 🗣 Commented on [#138](https://github.com/python-control/Slycot/issues/138) in [python-control/Slycot](https://github.com/python-control/Slycot)
+1. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. 💪 Opened PR [#11238](https://github.com/ray-project/ray/pull/11238) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
+4. ❗️ Opened issue [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
+5. ❗️ Closed issue [#443](https://github.com/rocm-arch/rocm-arch/issues/443) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
