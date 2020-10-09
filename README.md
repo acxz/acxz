@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❗️ Opened issue [#1](https://github.com/acxz/gym-continuous-classic-control/issues/1) in [acxz/gym-continuous-classic-control](https://github.com/acxz/gym-continuous-classic-control)
 2. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-4. 💪 Opened PR [#11238](https://github.com/ray-project/ray/pull/11238) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#11237](https://github.com/ray-project/ray/issues/11237) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+5. 💪 Opened PR [#11238](https://github.com/ray-project/ray/pull/11238) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
