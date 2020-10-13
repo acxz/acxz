@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#231](https://github.com/emlid/emlid-docs/issues/231) in [emlid/emlid-docs](https://github.com/emlid/emlid-docs)
-3. ❗️ Closed issue [#231](https://github.com/emlid/emlid-docs/issues/231) in [emlid/emlid-docs](https://github.com/emlid/emlid-docs)
-4. ❌ Closed PR [#232](https://github.com/emlid/emlid-docs/pull/232) in [emlid/emlid-docs](https://github.com/emlid/emlid-docs)
-5. ❗️ Closed issue [#5](https://github.com/emlid/pi-gen-navio/issues/5) in [emlid/pi-gen-navio](https://github.com/emlid/pi-gen-navio)
+1. 🗣 Commented on [#87](https://github.com/jdlangs/RobotOS.jl/issues/87) in [jdlangs/RobotOS.jl](https://github.com/jdlangs/RobotOS.jl)
+2. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#231](https://github.com/emlid/emlid-docs/issues/231) in [emlid/emlid-docs](https://github.com/emlid/emlid-docs)
+4. ❗️ Closed issue [#231](https://github.com/emlid/emlid-docs/issues/231) in [emlid/emlid-docs](https://github.com/emlid/emlid-docs)
+5. ❌ Closed PR [#232](https://github.com/emlid/emlid-docs/pull/232) in [emlid/emlid-docs](https://github.com/emlid/emlid-docs)
 <!--END_SECTION:activity-->
 
 
