@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/acxz/pkgbuilds/issues/76) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#87](https://github.com/jdlangs/RobotOS.jl/issues/87) in [jdlangs/RobotOS.jl](https://github.com/jdlangs/RobotOS.jl)
-3. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#231](https://github.com/emlid/emlid-docs/issues/231) in [emlid/emlid-docs](https://github.com/emlid/emlid-docs)
-5. ❗️ Closed issue [#231](https://github.com/emlid/emlid-docs/issues/231) in [emlid/emlid-docs](https://github.com/emlid/emlid-docs)
+1. 🗣 Commented on [#3637](https://github.com/PyCQA/pylint/issues/3637) in [PyCQA/pylint](https://github.com/PyCQA/pylint)
+2. 🗣 Commented on [#3139](https://github.com/PyCQA/pylint/issues/3139) in [PyCQA/pylint](https://github.com/PyCQA/pylint)
+3. 🗣 Commented on [#76](https://github.com/acxz/pkgbuilds/issues/76) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#87](https://github.com/jdlangs/RobotOS.jl/issues/87) in [jdlangs/RobotOS.jl](https://github.com/jdlangs/RobotOS.jl)
+5. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
