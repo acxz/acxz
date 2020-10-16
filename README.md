@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#447](https://github.com/rocm-arch/rocm-arch/issues/447) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🎉 Merged PR [#16](https://github.com/rocm-arch/tensorflow-rocm/pull/16) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-3. 🗣 Commented on [#76](https://github.com/acxz/pkgbuilds/issues/76) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#98](https://github.com/arch4edu/arch4edu/issues/98) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+2. 🗣 Commented on [#266](https://github.com/unitedstates/congress/issues/266) in [unitedstates/congress](https://github.com/unitedstates/congress)
+3. 🗣 Commented on [#447](https://github.com/rocm-arch/rocm-arch/issues/447) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 4. 🗣 Commented on [#447](https://github.com/rocm-arch/rocm-arch/issues/447) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#447](https://github.com/rocm-arch/rocm-arch/issues/447) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🎉 Merged PR [#16](https://github.com/rocm-arch/tensorflow-rocm/pull/16) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 
