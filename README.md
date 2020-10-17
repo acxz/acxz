@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#77](https://github.com/acxz/pkgbuilds/issues/77) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#98](https://github.com/arch4edu/arch4edu/issues/98) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
-4. 🗣 Commented on [#266](https://github.com/unitedstates/congress/issues/266) in [unitedstates/congress](https://github.com/unitedstates/congress)
-5. 🗣 Commented on [#447](https://github.com/rocm-arch/rocm-arch/issues/447) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 💪 Opened PR [#83](https://github.com/alandefreitas/matplotplusplus/pull/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+2. ❗️ Opened issue [#82](https://github.com/alandefreitas/matplotplusplus/issues/82) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+3. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#77](https://github.com/acxz/pkgbuilds/issues/77) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#98](https://github.com/arch4edu/arch4edu/issues/98) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
 <!--END_SECTION:activity-->
 
 
