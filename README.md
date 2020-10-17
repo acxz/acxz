@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-2. 💪 Opened PR [#83](https://github.com/alandefreitas/matplotplusplus/pull/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-3. ❗️ Opened issue [#82](https://github.com/alandefreitas/matplotplusplus/issues/82) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-4. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#77](https://github.com/acxz/pkgbuilds/issues/77) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+3. 💪 Opened PR [#83](https://github.com/alandefreitas/matplotplusplus/pull/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+4. ❗️ Opened issue [#82](https://github.com/alandefreitas/matplotplusplus/issues/82) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+5. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
