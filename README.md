@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/2) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
-2. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/2) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/2) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
-4. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-5. ❌ Reopened PR [#83](https://github.com/alandefreitas/matplotplusplus/pull/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+1. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/1) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
+2. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/1) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
+3. 💪 Opened PR [#95](https://github.com/ros-visualization/python_qt_binding/pull/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
+4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/2) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
+5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/2) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
 <!--END_SECTION:activity-->
 
 
