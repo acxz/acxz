@@ -6,8 +6,8 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#76](https://github.com/acxz/pkgbuilds/issues/76) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-3. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#76](https://github.com/acxz/pkgbuilds/issues/76) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
 4. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 5. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
