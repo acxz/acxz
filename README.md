@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/alandefreitas/matplotplusplus/pull/88) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-2. ❗️ Opened issue [#87](https://github.com/alandefreitas/matplotplusplus/issues/87) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-3. 🗣 Commented on [#76](https://github.com/acxz/pkgbuilds/issues/76) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. ❗️ Opened issue [#2](https://github.com/acxz/gym-continuous-classic-control/issues/2) in [acxz/gym-continuous-classic-control](https://github.com/acxz/gym-continuous-classic-control)
+2. 💪 Opened PR [#88](https://github.com/alandefreitas/matplotplusplus/pull/88) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+3. ❗️ Opened issue [#87](https://github.com/alandefreitas/matplotplusplus/issues/87) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
 4. 🗣 Commented on [#76](https://github.com/acxz/pkgbuilds/issues/76) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+5. 🗣 Commented on [#76](https://github.com/acxz/pkgbuilds/issues/76) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
