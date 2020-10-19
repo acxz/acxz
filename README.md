@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. ❗️ Opened issue [#448](https://github.com/rocm-arch/rocm-arch/issues/448) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 2. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-3. ❗️ Opened issue [#3](https://github.com/acxz/gym-continuous-classic-control/issues/3) in [acxz/gym-continuous-classic-control](https://github.com/acxz/gym-continuous-classic-control)
-4. ❗️ Opened issue [#2](https://github.com/acxz/gym-continuous-classic-control/issues/2) in [acxz/gym-continuous-classic-control](https://github.com/acxz/gym-continuous-classic-control)
-5. 💪 Opened PR [#88](https://github.com/alandefreitas/matplotplusplus/pull/88) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+3. 🗣 Commented on [#45550](https://github.com/pytorch/pytorch/issues/45550) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. ❗️ Opened issue [#3](https://github.com/acxz/gym-continuous-classic-control/issues/3) in [acxz/gym-continuous-classic-control](https://github.com/acxz/gym-continuous-classic-control)
+5. ❗️ Opened issue [#2](https://github.com/acxz/gym-continuous-classic-control/issues/2) in [acxz/gym-continuous-classic-control](https://github.com/acxz/gym-continuous-classic-control)
 <!--END_SECTION:activity-->
 
 
