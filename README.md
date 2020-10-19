@@ -1,5 +1,5 @@
 ```
-contributing to robotics/aerospace/ml/rocm software
+contributing to robotics/aerospace/ml/gpu software
 packaging it for archlinux
 ricer
 ```
