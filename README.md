@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
-2. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
 3. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 
