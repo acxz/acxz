@@ -7,9 +7,9 @@ ricer
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
 2. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-3. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#101](https://github.com/arch4edu/arch4edu/issues/101) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
-5. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+4. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. 🗣 Commented on [#101](https://github.com/arch4edu/arch4edu/issues/101) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
 <!--END_SECTION:activity-->
 
 
