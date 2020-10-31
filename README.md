@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#449](https://github.com/rocm-arch/rocm-arch/issues/449) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Opened issue [#1](https://github.com/ros-noetic-arch/ros-noetic-libviso2/issues/1) in [ros-noetic-arch/ros-noetic-libviso2](https://github.com/ros-noetic-arch/ros-noetic-libviso2)
-3. ❗️ Opened issue [#2](https://github.com/ros-noetic-arch/ros-noetic-viso2-ros/issues/2) in [ros-noetic-arch/ros-noetic-viso2-ros](https://github.com/ros-noetic-arch/ros-noetic-viso2-ros)
-4. ❗️ Opened issue [#1](https://github.com/ros-noetic-arch/ros-noetic-viso2-ros/issues/1) in [ros-noetic-arch/ros-noetic-viso2-ros](https://github.com/ros-noetic-arch/ros-noetic-viso2-ros)
-5. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+1. 🎉 Merged PR [#450](https://github.com/rocm-arch/rocm-arch/pull/450) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#449](https://github.com/rocm-arch/rocm-arch/issues/449) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Opened issue [#1](https://github.com/ros-noetic-arch/ros-noetic-libviso2/issues/1) in [ros-noetic-arch/ros-noetic-libviso2](https://github.com/ros-noetic-arch/ros-noetic-libviso2)
+4. ❗️ Opened issue [#2](https://github.com/ros-noetic-arch/ros-noetic-viso2-ros/issues/2) in [ros-noetic-arch/ros-noetic-viso2-ros](https://github.com/ros-noetic-arch/ros-noetic-viso2-ros)
+5. ❗️ Opened issue [#1](https://github.com/ros-noetic-arch/ros-noetic-viso2-ros/issues/1) in [ros-noetic-arch/ros-noetic-viso2-ros](https://github.com/ros-noetic-arch/ros-noetic-viso2-ros)
 <!--END_SECTION:activity-->
 
 
