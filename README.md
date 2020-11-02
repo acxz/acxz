@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#267](https://github.com/unitedstates/congress/pull/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
-2. 🎉 Merged PR [#459](https://github.com/rocm-arch/rocm-arch/pull/459) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#459](https://github.com/rocm-arch/rocm-arch/issues/459) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🎉 Merged PR [#458](https://github.com/rocm-arch/rocm-arch/pull/458) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#457](https://github.com/rocm-arch/rocm-arch/issues/457) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. ❗️ Closed issue [#462](https://github.com/rocm-arch/rocm-arch/issues/462) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#462](https://github.com/rocm-arch/rocm-arch/issues/462) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 💪 Opened PR [#267](https://github.com/unitedstates/congress/pull/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+4. 🎉 Merged PR [#459](https://github.com/rocm-arch/rocm-arch/pull/459) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#459](https://github.com/rocm-arch/rocm-arch/issues/459) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
