@@ -7,9 +7,9 @@ ricer
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11776](https://github.com/ray-project/ray/issues/11776) in [ray-project/ray](https://github.com/ray-project/ray)
 2. 🗣 Commented on [#11776](https://github.com/ray-project/ray/issues/11776) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#79](https://github.com/acxz/pkgbuilds/issues/79) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#80](https://github.com/acxz/pkgbuilds/issues/80) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 💪 Opened PR [#11776](https://github.com/ray-project/ray/pull/11776) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#11776](https://github.com/ray-project/ray/issues/11776) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#79](https://github.com/acxz/pkgbuilds/issues/79) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#80](https://github.com/acxz/pkgbuilds/issues/80) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
