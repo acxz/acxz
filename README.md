@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/acxz/gym-ccc/issues/5) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-2. ❗️ Closed issue [#3](https://github.com/acxz/gym-ccc/issues/3) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-3. 🗣 Commented on [#3](https://github.com/acxz/gym-ccc/issues/3) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-4. 🗣 Commented on [#158](https://github.com/OpenVSP/OpenVSP/issues/158) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
-5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-catkin/issues/2) in [ros-noetic-arch/ros-noetic-catkin](https://github.com/ros-noetic-arch/ros-noetic-catkin)
+1. ❗️ Opened issue [#6](https://github.com/acxz/gym-ccc/issues/6) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
+2. 💪 Opened PR [#2087](https://github.com/openai/gym/pull/2087) in [openai/gym](https://github.com/openai/gym)
+3. ❗️ Opened issue [#5](https://github.com/acxz/gym-ccc/issues/5) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
+4. ❗️ Closed issue [#3](https://github.com/acxz/gym-ccc/issues/3) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
+5. 🗣 Commented on [#3](https://github.com/acxz/gym-ccc/issues/3) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
 <!--END_SECTION:activity-->
 
 
