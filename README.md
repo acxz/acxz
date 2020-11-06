@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/acxz/gym-ccc/issues/6) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-2. 💪 Opened PR [#2087](https://github.com/openai/gym/pull/2087) in [openai/gym](https://github.com/openai/gym)
-3. ❗️ Opened issue [#5](https://github.com/acxz/gym-ccc/issues/5) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-4. ❗️ Closed issue [#3](https://github.com/acxz/gym-ccc/issues/3) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-5. 🗣 Commented on [#3](https://github.com/acxz/gym-ccc/issues/3) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
+1. ❗️ Closed issue [#421](https://github.com/rocm-arch/rocm-arch/issues/421) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#421](https://github.com/rocm-arch/rocm-arch/issues/421) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Closed issue [#449](https://github.com/rocm-arch/rocm-arch/issues/449) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#449](https://github.com/rocm-arch/rocm-arch/issues/449) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#469](https://github.com/rocm-arch/rocm-arch/issues/469) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
