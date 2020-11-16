@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#473](https://github.com/rocm-arch/rocm-arch/issues/473) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Closed issue [#5](https://github.com/acxz/gym-ccc/issues/5) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-3. 🗣 Commented on [#5](https://github.com/acxz/gym-ccc/issues/5) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-4. ❗️ Closed issue [#6](https://github.com/acxz/gym-ccc/issues/6) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-5. 🗣 Commented on [#6](https://github.com/acxz/gym-ccc/issues/6) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
+1. 🗣 Commented on [#155](https://github.com/OpenVSP/OpenVSP/issues/155) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
+2. ❗️ Closed issue [#74](https://github.com/acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#74](https://github.com/acxz/pkgbuilds/issues/74) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#473](https://github.com/rocm-arch/rocm-arch/issues/473) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. ❗️ Closed issue [#5](https://github.com/acxz/gym-ccc/issues/5) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
 <!--END_SECTION:activity-->
 
 
