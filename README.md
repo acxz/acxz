@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/acxz/nn-utils-pytorch/issues/6) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
-2. 🗣 Commented on [#3](https://github.com/acxz/nn-utils-pytorch/issues/3) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
-3. ❗️ Closed issue [#4](https://github.com/acxz/nn-utils-pytorch/issues/4) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
-4. 🗣 Commented on [#4](https://github.com/acxz/nn-utils-pytorch/issues/4) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
-5. ❗️ Closed issue [#5](https://github.com/acxz/nn-utils-pytorch/issues/5) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
+1. 🗣 Commented on [#3139](https://github.com/PyCQA/pylint/issues/3139) in [PyCQA/pylint](https://github.com/PyCQA/pylint)
+2. ❗️ Opened issue [#6](https://github.com/acxz/nn-utils-pytorch/issues/6) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
+3. 🗣 Commented on [#3](https://github.com/acxz/nn-utils-pytorch/issues/3) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
+4. ❗️ Closed issue [#4](https://github.com/acxz/nn-utils-pytorch/issues/4) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
+5. 🗣 Commented on [#4](https://github.com/acxz/nn-utils-pytorch/issues/4) in [acxz/nn-utils-pytorch](https://github.com/acxz/nn-utils-pytorch)
 <!--END_SECTION:activity-->
 
 
