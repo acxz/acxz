@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/acxz/gp-utils-gpytorch/issues/1) in [acxz/gp-utils-gpytorch](https://github.com/acxz/gp-utils-gpytorch)
-2. 🗣 Commented on [#1](https://github.com/acxz/gp-utils-gpytorch/issues/1) in [acxz/gp-utils-gpytorch](https://github.com/acxz/gp-utils-gpytorch)
-3. 💪 Opened PR [#1368](https://github.com/cornellius-gp/gpytorch/pull/1368) in [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch)
-4. ❗️ Opened issue [#1367](https://github.com/cornellius-gp/gpytorch/issues/1367) in [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch)
-5. 🗣 Commented on [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+1. ❗️ Opened issue [#8](https://github.com/acxz/pl-utils/issues/8) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+2. ❗️ Closed issue [#1](https://github.com/acxz/gp-utils-gpytorch/issues/1) in [acxz/gp-utils-gpytorch](https://github.com/acxz/gp-utils-gpytorch)
+3. 🗣 Commented on [#1](https://github.com/acxz/gp-utils-gpytorch/issues/1) in [acxz/gp-utils-gpytorch](https://github.com/acxz/gp-utils-gpytorch)
+4. 💪 Opened PR [#1368](https://github.com/cornellius-gp/gpytorch/pull/1368) in [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch)
+5. ❗️ Opened issue [#1367](https://github.com/cornellius-gp/gpytorch/issues/1367) in [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch)
 <!--END_SECTION:activity-->
 
 
