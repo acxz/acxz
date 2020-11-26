@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
-2. 🗣 Commented on [#3139](https://github.com/PyCQA/pylint/issues/3139) in [PyCQA/pylint](https://github.com/PyCQA/pylint)
-3. ❗️ Opened issue [#3956](https://github.com/PyCQA/pylint/issues/3956) in [PyCQA/pylint](https://github.com/PyCQA/pylint)
-4. ❗️ Opened issue [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
-5. ❗️ Closed issue [#3](https://github.com/acxz/pl-utils/issues/3) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+1. 💪 Opened PR [#1368](https://github.com/cornellius-gp/gpytorch/pull/1368) in [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch)
+2. ❗️ Opened issue [#1367](https://github.com/cornellius-gp/gpytorch/issues/1367) in [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch)
+3. 🗣 Commented on [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+4. 🗣 Commented on [#3139](https://github.com/PyCQA/pylint/issues/3139) in [PyCQA/pylint](https://github.com/PyCQA/pylint)
+5. ❗️ Opened issue [#3956](https://github.com/PyCQA/pylint/issues/3956) in [PyCQA/pylint](https://github.com/PyCQA/pylint)
 <!--END_SECTION:activity-->
 
 
