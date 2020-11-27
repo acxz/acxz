@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
-2. 🗣 Commented on [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
-3. 🗣 Commented on [#1368](https://github.com/cornellius-gp/gpytorch/issues/1368) in [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch)
-4. ❗️ Opened issue [#9](https://github.com/acxz/pl-utils/issues/9) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
-5. 🗣 Commented on [#267](https://github.com/USC-ACTLab/crazyswarm/issues/267) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
+1. 🗣 Commented on [#8](https://github.com/acxz/pl-utils/issues/8) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+2. ❗️ Closed issue [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+3. 🗣 Commented on [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+4. 🗣 Commented on [#1368](https://github.com/cornellius-gp/gpytorch/issues/1368) in [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch)
+5. ❗️ Opened issue [#9](https://github.com/acxz/pl-utils/issues/9) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
 <!--END_SECTION:activity-->
 
 
