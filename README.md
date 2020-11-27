@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
-2. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+1. ❗️ Closed issue [#9](https://github.com/acxz/pl-utils/issues/9) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+2. 🗣 Commented on [#9](https://github.com/acxz/pl-utils/issues/9) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
 3. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
-4. 🗣 Commented on [#8](https://github.com/acxz/pl-utils/issues/8) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
-5. ❗️ Closed issue [#7](https://github.com/acxz/pl-utils/issues/7) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
+4. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+5. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
 <!--END_SECTION:activity-->
 
 
