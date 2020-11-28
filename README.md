@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#276](https://github.com/USC-ACTLab/crazyswarm/pull/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
-2. 🗣 Commented on [#274](https://github.com/USC-ACTLab/crazyswarm/issues/274) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
-3. 💪 Opened PR [#275](https://github.com/USC-ACTLab/crazyswarm/pull/275) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
-4. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros/issues/2) in [ros-noetic-arch/ros-noetic-pcl-ros](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros)
-5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros/issues/2) in [ros-noetic-arch/ros-noetic-pcl-ros](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros)
+1. ❌ Reopened PR [#276](https://github.com/USC-ACTLab/crazyswarm/pull/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
+2. ❌ Closed PR [#276](https://github.com/USC-ACTLab/crazyswarm/pull/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
+3. 🗣 Commented on [#276](https://github.com/USC-ACTLab/crazyswarm/issues/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
+4. ❌ Reopened PR [#274](https://github.com/USC-ACTLab/crazyswarm/pull/274) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
+5. ❌ Closed PR [#274](https://github.com/USC-ACTLab/crazyswarm/pull/274) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
 <!--END_SECTION:activity-->
 
 
