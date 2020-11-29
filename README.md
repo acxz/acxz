@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros/issues/2) in [ros-noetic-arch/ros-noetic-pcl-ros](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros)
-2. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros/issues/2) in [ros-noetic-arch/ros-noetic-pcl-ros](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros)
-3. 🗣 Commented on [#2](https://github.com/rocm-arch/python-pytorch-rocm/issues/2) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#41](https://github.com/anthraxx/arch-pkgbuilds/issues/41) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
-5. ❌ Reopened PR [#276](https://github.com/USC-ACTLab/crazyswarm/pull/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
+1. ❗️ Closed issue [#473](https://github.com/rocm-arch/rocm-arch/issues/473) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#473](https://github.com/rocm-arch/rocm-arch/issues/473) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🎉 Merged PR [#474](https://github.com/rocm-arch/rocm-arch/pull/474) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Closed issue [#468](https://github.com/rocm-arch/rocm-arch/issues/468) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#474](https://github.com/rocm-arch/rocm-arch/issues/474) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
