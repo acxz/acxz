@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#476](https://github.com/rocm-arch/rocm-arch/issues/476) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#468](https://github.com/rocm-arch/rocm-arch/issues/468) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#276](https://github.com/USC-ACTLab/crazyswarm/issues/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
+2. 🗣 Commented on [#476](https://github.com/rocm-arch/rocm-arch/issues/476) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#468](https://github.com/rocm-arch/rocm-arch/issues/468) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 4. 🗣 Commented on [#276](https://github.com/USC-ACTLab/crazyswarm/issues/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
-5. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
+5. 🗣 Commented on [#276](https://github.com/USC-ACTLab/crazyswarm/issues/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
 <!--END_SECTION:activity-->
 
 
