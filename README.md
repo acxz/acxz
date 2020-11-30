@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#476](https://github.com/rocm-arch/rocm-arch/issues/476) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#476](https://github.com/rocm-arch/rocm-arch/issues/476) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#468](https://github.com/rocm-arch/rocm-arch/issues/468) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#276](https://github.com/USC-ACTLab/crazyswarm/issues/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
-5. 🗣 Commented on [#276](https://github.com/USC-ACTLab/crazyswarm/issues/276) in [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm)
+1. 🗣 Commented on [#478](https://github.com/rocm-arch/rocm-arch/issues/478) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Closed issue [#82](https://github.com/acxz/pkgbuilds/issues/82) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#82](https://github.com/acxz/pkgbuilds/issues/82) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#82](https://github.com/acxz/pkgbuilds/issues/82) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#476](https://github.com/rocm-arch/rocm-arch/issues/476) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
