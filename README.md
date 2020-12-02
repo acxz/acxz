@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2113](https://github.com/ROCm-Developer-Tools/HIP/issues/2113) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
-2. 🗣 Commented on [#258](https://github.com/rocm-arch/rocm-arch/issues/258) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#258](https://github.com/rocm-arch/rocm-arch/issues/258) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#476](https://github.com/rocm-arch/rocm-arch/issues/476) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. ❌ Reopened PR [#634](https://github.com/catkin/catkin_tools/pull/634) in [catkin/catkin_tools](https://github.com/catkin/catkin_tools)
+1. 🗣 Commented on [#477](https://github.com/rocm-arch/rocm-arch/issues/477) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Opened issue [#479](https://github.com/rocm-arch/rocm-arch/issues/479) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#2113](https://github.com/ROCm-Developer-Tools/HIP/issues/2113) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
+4. 🗣 Commented on [#258](https://github.com/rocm-arch/rocm-arch/issues/258) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#258](https://github.com/rocm-arch/rocm-arch/issues/258) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
