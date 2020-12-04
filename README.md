@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11287](https://github.com/ray-project/ray/issues/11287) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 💪 Opened PR [#12613](https://github.com/ray-project/ray/pull/12613) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🎉 Merged PR [#496](https://github.com/rocm-arch/rocm-arch/pull/496) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🎉 Merged PR [#495](https://github.com/rocm-arch/rocm-arch/pull/495) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🎉 Merged PR [#494](https://github.com/rocm-arch/rocm-arch/pull/494) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#11287](https://github.com/ray-project/ray/issues/11287) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 💪 Opened PR [#12613](https://github.com/ray-project/ray/pull/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🎉 Merged PR [#496](https://github.com/rocm-arch/rocm-arch/pull/496) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🎉 Merged PR [#495](https://github.com/rocm-arch/rocm-arch/pull/495) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
