@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-stereo-msgs/pull/1) in [ros-noetic-arch/ros-noetic-stereo-msgs](https://github.com/ros-noetic-arch/ros-noetic-stereo-msgs)
-2. 🗣 Commented on [#155](https://github.com/OpenVSP/OpenVSP/issues/155) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
-3. 🗣 Commented on [#446](https://github.com/rocm-arch/rocm-arch/issues/446) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. ❗️ Closed issue [#479](https://github.com/rocm-arch/rocm-arch/issues/479) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#479](https://github.com/rocm-arch/rocm-arch/issues/479) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-diagnostics/pull/1) in [ros-noetic-arch/ros-noetic-diagnostics](https://github.com/ros-noetic-arch/ros-noetic-diagnostics)
+2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-diagnostic-aggregator/pull/1) in [ros-noetic-arch/ros-noetic-diagnostic-aggregator](https://github.com/ros-noetic-arch/ros-noetic-diagnostic-aggregator)
+3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-visualization-msgs/pull/1) in [ros-noetic-arch/ros-noetic-visualization-msgs](https://github.com/ros-noetic-arch/ros-noetic-visualization-msgs)
+4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-trajectory-msgs/pull/1) in [ros-noetic-arch/ros-noetic-trajectory-msgs](https://github.com/ros-noetic-arch/ros-noetic-trajectory-msgs)
+5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-stereo-msgs/pull/1) in [ros-noetic-arch/ros-noetic-stereo-msgs](https://github.com/ros-noetic-arch/ros-noetic-stereo-msgs)
 <!--END_SECTION:activity-->
 
 
