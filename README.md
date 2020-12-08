@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#507](https://github.com/rocm-arch/rocm-arch/issues/507) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-diagnostics/pull/1) in [ros-noetic-arch/ros-noetic-diagnostics](https://github.com/ros-noetic-arch/ros-noetic-diagnostics)
-3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-diagnostic-aggregator/pull/1) in [ros-noetic-arch/ros-noetic-diagnostic-aggregator](https://github.com/ros-noetic-arch/ros-noetic-diagnostic-aggregator)
-4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-visualization-msgs/pull/1) in [ros-noetic-arch/ros-noetic-visualization-msgs](https://github.com/ros-noetic-arch/ros-noetic-visualization-msgs)
-5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-trajectory-msgs/pull/1) in [ros-noetic-arch/ros-noetic-trajectory-msgs](https://github.com/ros-noetic-arch/ros-noetic-trajectory-msgs)
+1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-pluginlib/pull/1) in [ros-noetic-arch/ros-noetic-pluginlib](https://github.com/ros-noetic-arch/ros-noetic-pluginlib)
+2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-polled-camera/pull/1) in [ros-noetic-arch/ros-noetic-polled-camera](https://github.com/ros-noetic-arch/ros-noetic-polled-camera)
+3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf-conversions/pull/1) in [ros-noetic-arch/ros-noetic-tf-conversions](https://github.com/ros-noetic-arch/ros-noetic-tf-conversions)
+4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-control-toolbox/pull/1) in [ros-noetic-arch/ros-noetic-control-toolbox](https://github.com/ros-noetic-arch/ros-noetic-control-toolbox)
+5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-kdl-conversions/pull/1) in [ros-noetic-arch/ros-noetic-kdl-conversions](https://github.com/ros-noetic-arch/ros-noetic-kdl-conversions)
 <!--END_SECTION:activity-->
 
 
