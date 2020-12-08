@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#445](https://github.com/esa/pagmo2/issues/445) in [esa/pagmo2](https://github.com/esa/pagmo2)
-2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-urdf-geometry-parser/pull/1) in [ros-noetic-arch/ros-noetic-urdf-geometry-parser](https://github.com/ros-noetic-arch/ros-noetic-urdf-geometry-parser)
-3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher/pull/1) in [ros-noetic-arch/ros-noetic-joint-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher)
-4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-tools/pull/1) in [ros-noetic-arch/ros-noetic-tf2-tools](https://github.com/ros-noetic-arch/ros-noetic-tf2-tools)
-5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-ros/pull/1) in [ros-noetic-arch/ros-noetic-tf2-ros](https://github.com/ros-noetic-arch/ros-noetic-tf2-ros)
+1. ❗️ Closed issue [#507](https://github.com/rocm-arch/rocm-arch/issues/507) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#507](https://github.com/rocm-arch/rocm-arch/issues/507) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#445](https://github.com/esa/pagmo2/issues/445) in [esa/pagmo2](https://github.com/esa/pagmo2)
+4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-urdf-geometry-parser/pull/1) in [ros-noetic-arch/ros-noetic-urdf-geometry-parser](https://github.com/ros-noetic-arch/ros-noetic-urdf-geometry-parser)
+5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher/pull/1) in [ros-noetic-arch/ros-noetic-joint-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher)
 <!--END_SECTION:activity-->
 
 
