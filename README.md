@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-pluginlib/pull/1) in [ros-noetic-arch/ros-noetic-pluginlib](https://github.com/ros-noetic-arch/ros-noetic-pluginlib)
-2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-polled-camera/pull/1) in [ros-noetic-arch/ros-noetic-polled-camera](https://github.com/ros-noetic-arch/ros-noetic-polled-camera)
-3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf-conversions/pull/1) in [ros-noetic-arch/ros-noetic-tf-conversions](https://github.com/ros-noetic-arch/ros-noetic-tf-conversions)
-4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-control-toolbox/pull/1) in [ros-noetic-arch/ros-noetic-control-toolbox](https://github.com/ros-noetic-arch/ros-noetic-control-toolbox)
-5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-kdl-conversions/pull/1) in [ros-noetic-arch/ros-noetic-kdl-conversions](https://github.com/ros-noetic-arch/ros-noetic-kdl-conversions)
+1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-kdl/pull/1) in [ros-noetic-arch/ros-noetic-tf2-kdl](https://github.com/ros-noetic-arch/ros-noetic-tf2-kdl)
+2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-geometry-msgs/pull/1) in [ros-noetic-arch/ros-noetic-tf2-geometry-msgs](https://github.com/ros-noetic-arch/ros-noetic-tf2-geometry-msgs)
+3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-pluginlib/pull/1) in [ros-noetic-arch/ros-noetic-pluginlib](https://github.com/ros-noetic-arch/ros-noetic-pluginlib)
+4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-polled-camera/pull/1) in [ros-noetic-arch/ros-noetic-polled-camera](https://github.com/ros-noetic-arch/ros-noetic-polled-camera)
+5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf-conversions/pull/1) in [ros-noetic-arch/ros-noetic-tf-conversions](https://github.com/ros-noetic-arch/ros-noetic-tf-conversions)
 <!--END_SECTION:activity-->
 
 
