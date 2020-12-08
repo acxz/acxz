@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-kdl/pull/1) in [ros-noetic-arch/ros-noetic-tf2-kdl](https://github.com/ros-noetic-arch/ros-noetic-tf2-kdl)
-2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-geometry-msgs/pull/1) in [ros-noetic-arch/ros-noetic-tf2-geometry-msgs](https://github.com/ros-noetic-arch/ros-noetic-tf2-geometry-msgs)
-3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-pluginlib/pull/1) in [ros-noetic-arch/ros-noetic-pluginlib](https://github.com/ros-noetic-arch/ros-noetic-pluginlib)
-4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-polled-camera/pull/1) in [ros-noetic-arch/ros-noetic-polled-camera](https://github.com/ros-noetic-arch/ros-noetic-polled-camera)
-5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf-conversions/pull/1) in [ros-noetic-arch/ros-noetic-tf-conversions](https://github.com/ros-noetic-arch/ros-noetic-tf-conversions)
+1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-urdf-geometry-parser/pull/1) in [ros-noetic-arch/ros-noetic-urdf-geometry-parser](https://github.com/ros-noetic-arch/ros-noetic-urdf-geometry-parser)
+2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher/pull/1) in [ros-noetic-arch/ros-noetic-joint-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher)
+3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-tools/pull/1) in [ros-noetic-arch/ros-noetic-tf2-tools](https://github.com/ros-noetic-arch/ros-noetic-tf2-tools)
+4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-ros/pull/1) in [ros-noetic-arch/ros-noetic-tf2-ros](https://github.com/ros-noetic-arch/ros-noetic-tf2-ros)
+5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-tf2-py/pull/1) in [ros-noetic-arch/ros-noetic-tf2-py](https://github.com/ros-noetic-arch/ros-noetic-tf2-py)
 <!--END_SECTION:activity-->
 
 
