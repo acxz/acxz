@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#508](https://github.com/rocm-arch/rocm-arch/issues/508) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#634](https://github.com/catkin/catkin_tools/issues/634) in [catkin/catkin_tools](https://github.com/catkin/catkin_tools)
-3. ❗️ Closed issue [#507](https://github.com/rocm-arch/rocm-arch/issues/507) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#507](https://github.com/rocm-arch/rocm-arch/issues/507) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#445](https://github.com/esa/pagmo2/issues/445) in [esa/pagmo2](https://github.com/esa/pagmo2)
+1. 🗣 Commented on [#10](https://github.com/rocm-arch/python-pytorch-rocm/issues/10) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. ❗️ Closed issue [#508](https://github.com/rocm-arch/rocm-arch/issues/508) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#508](https://github.com/rocm-arch/rocm-arch/issues/508) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#508](https://github.com/rocm-arch/rocm-arch/issues/508) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#634](https://github.com/catkin/catkin_tools/issues/634) in [catkin/catkin_tools](https://github.com/catkin/catkin_tools)
 <!--END_SECTION:activity-->
 
 
