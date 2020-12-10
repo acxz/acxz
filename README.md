@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#509](https://github.com/rocm-arch/rocm-arch/issues/509) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❌ Reopened PR [#12613](https://github.com/ray-project/ray/pull/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+2. ❌ Closed PR [#12613](https://github.com/ray-project/ray/pull/12613) in [ray-project/ray](https://github.com/ray-project/ray)
 3. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🎉 Merged PR [#2](https://github.com/ros-noetic-arch/ros-noetic-roscpp/pull/2) in [ros-noetic-arch/ros-noetic-roscpp](https://github.com/ros-noetic-arch/ros-noetic-roscpp)
-5. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-roscpp/issues/1) in [ros-noetic-arch/ros-noetic-roscpp](https://github.com/ros-noetic-arch/ros-noetic-roscpp)
+4. 🗣 Commented on [#509](https://github.com/rocm-arch/rocm-arch/issues/509) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
