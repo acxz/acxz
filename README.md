@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/rocm-arch/hipmagma/issues/1) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+1. ❗️ Closed issue [#10](https://github.com/rocm-arch/python-pytorch-rocm/issues/10) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 2. 🗣 Commented on [#10](https://github.com/rocm-arch/python-pytorch-rocm/issues/10) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🎉 Merged PR [#83](https://github.com/acxz/pkgbuilds/pull/83) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Opened issue [#176](https://github.com/ignitionrobotics/ign-physics/issues/176) in [ignitionrobotics/ign-physics](https://github.com/ignitionrobotics/ign-physics)
-5. 🗣 Commented on [#445](https://github.com/esa/pagmo2/issues/445) in [esa/pagmo2](https://github.com/esa/pagmo2)
+3. ❗️ Opened issue [#1](https://github.com/rocm-arch/hipmagma/issues/1) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+4. 🗣 Commented on [#10](https://github.com/rocm-arch/python-pytorch-rocm/issues/10) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. 🎉 Merged PR [#83](https://github.com/acxz/pkgbuilds/pull/83) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
