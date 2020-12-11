@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/acxz/pkgbuilds/pull/83) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Opened issue [#176](https://github.com/ignitionrobotics/ign-physics/issues/176) in [ignitionrobotics/ign-physics](https://github.com/ignitionrobotics/ign-physics)
-3. 🗣 Commented on [#445](https://github.com/esa/pagmo2/issues/445) in [esa/pagmo2](https://github.com/esa/pagmo2)
-4. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
-5. ❌ Reopened PR [#12613](https://github.com/ray-project/ray/pull/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❗️ Opened issue [#1](https://github.com/rocm-arch/hipmagma/issues/1) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+2. 🗣 Commented on [#10](https://github.com/rocm-arch/python-pytorch-rocm/issues/10) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. 🎉 Merged PR [#83](https://github.com/acxz/pkgbuilds/pull/83) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Opened issue [#176](https://github.com/ignitionrobotics/ign-physics/issues/176) in [ignitionrobotics/ign-physics](https://github.com/ignitionrobotics/ign-physics)
+5. 🗣 Commented on [#445](https://github.com/esa/pagmo2/issues/445) in [esa/pagmo2](https://github.com/esa/pagmo2)
 <!--END_SECTION:activity-->
 
 
