@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#71](https://github.com/acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#65](https://github.com/acxz/pkgbuilds/issues/65) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-rosconsole/issues/4) in [ros-noetic-arch/ros-noetic-rosconsole](https://github.com/ros-noetic-arch/ros-noetic-rosconsole)
-5. 🗣 Commented on [#4496](https://github.com/PyTorchLightning/pytorch-lightning/issues/4496) in [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+1. 🗣 Commented on [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Reopened issue [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#88](https://github.com/alandefreitas/matplotplusplus/issues/88) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+4. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+5. 🗣 Commented on [#71](https://github.com/acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
