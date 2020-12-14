@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. ❗️ Closed issue [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 2. 🗣 Commented on [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. ❗️ Reopened issue [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#88](https://github.com/alandefreitas/matplotplusplus/issues/88) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-5. 🗣 Commented on [#83](https://github.com/alandefreitas/matplotplusplus/issues/83) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+3. 🗣 Commented on [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. ❗️ Reopened issue [#302](https://github.com/rocm-arch/rocm-arch/issues/302) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
