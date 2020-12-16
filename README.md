@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-xacro/pull/1) in [ros-noetic-arch/ros-noetic-xacro](https://github.com/ros-noetic-arch/ros-noetic-xacro)
-2. 🗣 Commented on [#511](https://github.com/rocm-arch/rocm-arch/issues/511) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-4. ❗️ Opened issue [#45733](https://github.com/tensorflow/tensorflow/issues/45733) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-5. ❗️ Opened issue [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+2. ❗️ Closed issue [#86](https://github.com/acxz/pkgbuilds/issues/86) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#86](https://github.com/acxz/pkgbuilds/issues/86) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#86](https://github.com/acxz/pkgbuilds/issues/86) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
 <!--END_SECTION:activity-->
 
 
