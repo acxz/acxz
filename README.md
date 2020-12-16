@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
-2. ❗️ Closed issue [#86](https://github.com/acxz/pkgbuilds/issues/86) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#86](https://github.com/acxz/pkgbuilds/issues/86) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#11](https://github.com/rocm-arch/python-pytorch-rocm/issues/11) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+3. ❗️ Closed issue [#86](https://github.com/acxz/pkgbuilds/issues/86) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 4. 🗣 Commented on [#86](https://github.com/acxz/pkgbuilds/issues/86) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
+5. 🗣 Commented on [#86](https://github.com/acxz/pkgbuilds/issues/86) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
