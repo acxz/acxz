@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/acxz/pkgbuilds/issues/85) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🎉 Merged PR [#512](https://github.com/rocm-arch/rocm-arch/pull/512) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. ❗️ Closed issue [#510](https://github.com/rocm-arch/rocm-arch/issues/510) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. ❗️ Opened issue [#7](https://github.com/acxz/gym-ccc/issues/7) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-5. 💪 Opened PR [#26](https://github.com/simondlevy/gym-copter/pull/26) in [simondlevy/gym-copter](https://github.com/simondlevy/gym-copter)
+1. 🗣 Commented on [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. ❗️ Opened issue [#45733](https://github.com/tensorflow/tensorflow/issues/45733) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+3. ❗️ Opened issue [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+4. ❗️ Closed issue [#5](https://github.com/rocm-arch/tensorflow-rocm/issues/5) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🗣 Commented on [#5](https://github.com/rocm-arch/tensorflow-rocm/issues/5) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 
