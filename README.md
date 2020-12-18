@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/acxz/pkgbuilds/issues/89) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Closed issue [#88](https://github.com/acxz/pkgbuilds/issues/88) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#88](https://github.com/acxz/pkgbuilds/issues/88) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 💪 Opened PR [#12933](https://github.com/ray-project/ray/pull/12933) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#89](https://github.com/acxz/pkgbuilds/issues/89) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#89](https://github.com/acxz/pkgbuilds/issues/89) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#88](https://github.com/acxz/pkgbuilds/issues/88) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#88](https://github.com/acxz/pkgbuilds/issues/88) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
