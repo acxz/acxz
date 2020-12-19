@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#516](https://github.com/rocm-arch/rocm-arch/pull/516) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🎉 Merged PR [#514](https://github.com/rocm-arch/rocm-arch/pull/514) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
-4. ❗️ Closed issue [#89](https://github.com/acxz/pkgbuilds/issues/89) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#89](https://github.com/acxz/pkgbuilds/issues/89) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🎉 Merged PR [#531](https://github.com/rocm-arch/rocm-arch/pull/531) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🎉 Merged PR [#530](https://github.com/rocm-arch/rocm-arch/pull/530) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🎉 Merged PR [#529](https://github.com/rocm-arch/rocm-arch/pull/529) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🎉 Merged PR [#528](https://github.com/rocm-arch/rocm-arch/pull/528) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🎉 Merged PR [#527](https://github.com/rocm-arch/rocm-arch/pull/527) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
