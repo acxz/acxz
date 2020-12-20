@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#535](https://github.com/rocm-arch/rocm-arch/pull/535) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🎉 Merged PR [#534](https://github.com/rocm-arch/rocm-arch/pull/534) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🎉 Merged PR [#533](https://github.com/rocm-arch/rocm-arch/pull/533) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🎉 Merged PR [#532](https://github.com/rocm-arch/rocm-arch/pull/532) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🎉 Merged PR [#531](https://github.com/rocm-arch/rocm-arch/pull/531) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🎉 Merged PR [#551](https://github.com/rocm-arch/rocm-arch/pull/551) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🎉 Merged PR [#549](https://github.com/rocm-arch/rocm-arch/pull/549) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🎉 Merged PR [#548](https://github.com/rocm-arch/rocm-arch/pull/548) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🎉 Merged PR [#547](https://github.com/rocm-arch/rocm-arch/pull/547) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🎉 Merged PR [#544](https://github.com/rocm-arch/rocm-arch/pull/544) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
