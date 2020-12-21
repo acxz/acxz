@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#511](https://github.com/rocm-arch/rocm-arch/issues/511) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🎉 Merged PR [#559](https://github.com/rocm-arch/rocm-arch/pull/559) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rqt/issues/1) in [ros-noetic-arch/ros-noetic-rqt](https://github.com/ros-noetic-arch/ros-noetic-rqt)
-4. 🎉 Merged PR [#558](https://github.com/rocm-arch/rocm-arch/pull/558) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#558](https://github.com/rocm-arch/rocm-arch/issues/558) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. ❗️ Closed issue [#45733](https://github.com/tensorflow/tensorflow/issues/45733) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+2. 🗣 Commented on [#45733](https://github.com/tensorflow/tensorflow/issues/45733) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+3. ❗️ Closed issue [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+4. 🗣 Commented on [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🗣 Commented on [#511](https://github.com/rocm-arch/rocm-arch/issues/511) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
