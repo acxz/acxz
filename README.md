@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45733](https://github.com/tensorflow/tensorflow/issues/45733) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-2. 🗣 Commented on [#45733](https://github.com/tensorflow/tensorflow/issues/45733) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-3. ❗️ Closed issue [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-4. 🗣 Commented on [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#511](https://github.com/rocm-arch/rocm-arch/issues/511) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#511](https://github.com/rocm-arch/rocm-arch/issues/511) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Closed issue [#45733](https://github.com/tensorflow/tensorflow/issues/45733) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+3. 🗣 Commented on [#45733](https://github.com/tensorflow/tensorflow/issues/45733) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+4. ❗️ Closed issue [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🗣 Commented on [#17](https://github.com/rocm-arch/tensorflow-rocm/issues/17) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 
