@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/acxz/pkgbuilds/pull/93) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#93](https://github.com/acxz/pkgbuilds/issues/93) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Opened issue [#561](https://github.com/rocm-arch/rocm-arch/issues/561) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#12](https://github.com/rocm-arch/python-pytorch-rocm/issues/12) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. 🗣 Commented on [#13](https://github.com/rocm-arch/python-pytorch-rocm/issues/13) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🎉 Merged PR [#93](https://github.com/acxz/pkgbuilds/pull/93) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#93](https://github.com/acxz/pkgbuilds/issues/93) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Opened issue [#561](https://github.com/rocm-arch/rocm-arch/issues/561) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 5. 🗣 Commented on [#12](https://github.com/rocm-arch/python-pytorch-rocm/issues/12) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
