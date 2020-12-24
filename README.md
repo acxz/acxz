@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. 🎉 Merged PR [#96](https://github.com/acxz/pkgbuilds/pull/96) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Closed issue [#18](https://github.com/rocm-arch/tensorflow-rocm/issues/18) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-4. 🗣 Commented on [#18](https://github.com/rocm-arch/tensorflow-rocm/issues/18) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
+1. 🗣 Commented on [#101](https://github.com/arch4edu/arch4edu/issues/101) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+2. 🗣 Commented on [#9](https://github.com/rocm-arch/python-pytorch-rocm/issues/9) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. 🎉 Merged PR [#96](https://github.com/acxz/pkgbuilds/pull/96) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#18](https://github.com/rocm-arch/tensorflow-rocm/issues/18) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🗣 Commented on [#18](https://github.com/rocm-arch/tensorflow-rocm/issues/18) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 
