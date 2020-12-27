@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#851](https://github.com/ArduPilot/MAVProxy/issues/851) in [ArduPilot/MAVProxy](https://github.com/ArduPilot/MAVProxy)
-2. ❗️ Opened issue [#851](https://github.com/ArduPilot/MAVProxy/issues/851) in [ArduPilot/MAVProxy](https://github.com/ArduPilot/MAVProxy)
-3. ❗️ Opened issue [#162](https://github.com/ignitionrobotics/ign-gui/issues/162) in [ignitionrobotics/ign-gui](https://github.com/ignitionrobotics/ign-gui)
-4. 🗣 Commented on [#97](https://github.com/acxz/pkgbuilds/issues/97) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🎉 Merged PR [#97](https://github.com/acxz/pkgbuilds/pull/97) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#14](https://github.com/rocm-arch/python-pytorch-rocm/issues/14) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#564](https://github.com/rocm-arch/rocm-arch/issues/564) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#16](https://github.com/rocm-arch/python-pytorch-rocm/issues/16) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#851](https://github.com/ArduPilot/MAVProxy/issues/851) in [ArduPilot/MAVProxy](https://github.com/ArduPilot/MAVProxy)
+5. ❗️ Opened issue [#851](https://github.com/ArduPilot/MAVProxy/issues/851) in [ArduPilot/MAVProxy](https://github.com/ArduPilot/MAVProxy)
 <!--END_SECTION:activity-->
 
 
