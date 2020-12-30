@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#162](https://github.com/ignitionrobotics/ign-gui/issues/162) in [ignitionrobotics/ign-gui](https://github.com/ignitionrobotics/ign-gui)
-2. 🗣 Commented on [#18](https://github.com/rocm-arch/python-pytorch-rocm/issues/18) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🗣 Commented on [#162](https://github.com/ignitionrobotics/ign-gui/issues/162) in [ignitionrobotics/ign-gui](https://github.com/ignitionrobotics/ign-gui)
-4. 🗣 Commented on [#98](https://github.com/acxz/pkgbuilds/issues/98) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Closed issue [#564](https://github.com/rocm-arch/rocm-arch/issues/564) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#162](https://github.com/ignitionrobotics/ign-gui/issues/162) in [ignitionrobotics/ign-gui](https://github.com/ignitionrobotics/ign-gui)
+3. 🗣 Commented on [#18](https://github.com/rocm-arch/python-pytorch-rocm/issues/18) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#162](https://github.com/ignitionrobotics/ign-gui/issues/162) in [ignitionrobotics/ign-gui](https://github.com/ignitionrobotics/ign-gui)
+5. 🗣 Commented on [#98](https://github.com/acxz/pkgbuilds/issues/98) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
