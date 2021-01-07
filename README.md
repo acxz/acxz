@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#568](https://github.com/rocm-arch/rocm-arch/issues/568) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#527](https://github.com/ignitionrobotics/ign-gazebo/issues/527) in [ignitionrobotics/ign-gazebo](https://github.com/ignitionrobotics/ign-gazebo)
-3. ❌ Closed PR [#193](https://github.com/ignitionrobotics/ign-rendering/pull/193) in [ignitionrobotics/ign-rendering](https://github.com/ignitionrobotics/ign-rendering)
-4. 🗣 Commented on [#165](https://github.com/ignitionrobotics/ign-gui/issues/165) in [ignitionrobotics/ign-gui](https://github.com/ignitionrobotics/ign-gui)
-5. 🗣 Commented on [#527](https://github.com/ignitionrobotics/ign-gazebo/issues/527) in [ignitionrobotics/ign-gazebo](https://github.com/ignitionrobotics/ign-gazebo)
+1. 🗣 Commented on [#11](https://github.com/rocm-arch/rocm-arch/issues/11) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#12861](https://github.com/ray-project/ray/issues/12861) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#176](https://github.com/ignitionrobotics/ign-physics/issues/176) in [ignitionrobotics/ign-physics](https://github.com/ignitionrobotics/ign-physics)
+4. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
 <!--END_SECTION:activity-->
 
 
