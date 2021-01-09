@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#100](https://github.com/acxz/pkgbuilds/issues/100) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#101](https://github.com/arch4edu/arch4edu/issues/101) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
-3. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🎉 Merged PR [#19](https://github.com/rocm-arch/python-pytorch-rocm/pull/19) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. 🗣 Commented on [#19](https://github.com/rocm-arch/python-pytorch-rocm/issues/19) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. 🗣 Commented on [#313](https://github.com/orocos/orocos_kinematics_dynamics/issues/313) in [orocos/orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics)
+2. ❗️ Opened issue [#313](https://github.com/orocos/orocos_kinematics_dynamics/issues/313) in [orocos/orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics)
+3. ❗️ Opened issue [#100](https://github.com/acxz/pkgbuilds/issues/100) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#101](https://github.com/arch4edu/arch4edu/issues/101) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+5. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 
