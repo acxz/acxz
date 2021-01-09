@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/arch4edu/arch4edu/issues/101) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
-2. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🎉 Merged PR [#19](https://github.com/rocm-arch/python-pytorch-rocm/pull/19) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#19](https://github.com/rocm-arch/python-pytorch-rocm/issues/19) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. ❗️ Opened issue [#100](https://github.com/acxz/pkgbuilds/issues/100) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#101](https://github.com/arch4edu/arch4edu/issues/101) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+3. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🎉 Merged PR [#19](https://github.com/rocm-arch/python-pytorch-rocm/pull/19) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 5. 🗣 Commented on [#19](https://github.com/rocm-arch/python-pytorch-rocm/issues/19) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
