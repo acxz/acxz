@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. ❗️ Closed issue [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🎉 Merged PR [#21](https://github.com/rocm-arch/python-pytorch-rocm/pull/21) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. ❗️ Closed issue [#313](https://github.com/orocos/orocos_kinematics_dynamics/issues/313) in [orocos/orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics)
-5. 🗣 Commented on [#313](https://github.com/orocos/orocos_kinematics_dynamics/issues/313) in [orocos/orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics)
+1. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+2. ❗️ Reopened issue [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. ❗️ Closed issue [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🎉 Merged PR [#21](https://github.com/rocm-arch/python-pytorch-rocm/pull/21) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. ❗️ Closed issue [#313](https://github.com/orocos/orocos_kinematics_dynamics/issues/313) in [orocos/orocos_kinematics_dynamics](https://github.com/orocos/orocos_kinematics_dynamics)
 <!--END_SECTION:activity-->
 
 
