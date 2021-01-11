@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-2. 🗣 Commented on [#12933](https://github.com/ray-project/ray/issues/12933) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❗️ Closed issue [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+2. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
 3. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-4. ❗️ Reopened issue [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. ❗️ Closed issue [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#12933](https://github.com/ray-project/ray/issues/12933) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
 <!--END_SECTION:activity-->
 
 
