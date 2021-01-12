@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-2. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+1. 🗣 Commented on [#18](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/18) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+2. ❗️ Closed issue [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
 3. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-4. 🗣 Commented on [#12933](https://github.com/ray-project/ray/issues/12933) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+4. 🗣 Commented on [#17](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/17) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+5. 🗣 Commented on [#12933](https://github.com/ray-project/ray/issues/12933) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
