@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes/pull/1) in [ros-noetic-arch/ros-noetic-geometric-shapes](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes)
-2. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes/issues/1) in [ros-noetic-arch/ros-noetic-geometric-shapes](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes)
-3. ❗️ Opened issue [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 💪 Opened PR [#9332](https://github.com/mavlink/qgroundcontrol/pull/9332) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-5. 🗣 Commented on [#101](https://github.com/arch4edu/arch4edu/issues/101) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+1. ❗️ Closed issue [#11](https://github.com/rocm-arch/rocm-arch/issues/11) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#11](https://github.com/rocm-arch/rocm-arch/issues/11) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes/pull/1) in [ros-noetic-arch/ros-noetic-geometric-shapes](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes)
+4. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes/issues/1) in [ros-noetic-arch/ros-noetic-geometric-shapes](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes)
+5. ❗️ Opened issue [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
