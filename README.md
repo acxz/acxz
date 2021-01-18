@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Closed issue [#11](https://github.com/rocm-arch/rocm-arch/issues/11) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#11](https://github.com/rocm-arch/rocm-arch/issues/11) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes/pull/1) in [ros-noetic-arch/ros-noetic-geometric-shapes](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes)
-5. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes/issues/1) in [ros-noetic-arch/ros-noetic-geometric-shapes](https://github.com/ros-noetic-arch/ros-noetic-geometric-shapes)
+1. ❗️ Closed issue [#18](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/18) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+2. 🗣 Commented on [#18](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/18) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-moveit-core/pull/1) in [ros-noetic-arch/ros-noetic-moveit-core](https://github.com/ros-noetic-arch/ros-noetic-moveit-core)
+4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-moveit-visual-tools/pull/1) in [ros-noetic-arch/ros-noetic-moveit-visual-tools](https://github.com/ros-noetic-arch/ros-noetic-moveit-visual-tools)
+5. 🗣 Commented on [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
