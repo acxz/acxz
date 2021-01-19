@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/19) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-2. ❗️ Closed issue [#18](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/18) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-3. 🗣 Commented on [#18](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/18) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-4. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-moveit-core/pull/1) in [ros-noetic-arch/ros-noetic-moveit-core](https://github.com/ros-noetic-arch/ros-noetic-moveit-core)
-5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-moveit-visual-tools/pull/1) in [ros-noetic-arch/ros-noetic-moveit-visual-tools](https://github.com/ros-noetic-arch/ros-noetic-moveit-visual-tools)
+2. 🗣 Commented on [#19](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/19) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+3. ❗️ Closed issue [#18](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/18) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+4. 🗣 Commented on [#18](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/18) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+5. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-moveit-core/pull/1) in [ros-noetic-arch/ros-noetic-moveit-core](https://github.com/ros-noetic-arch/ros-noetic-moveit-core)
 <!--END_SECTION:activity-->
 
 
