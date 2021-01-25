@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8599](https://github.com/mavlink/qgroundcontrol/issues/8599) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-2. 🗣 Commented on [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-rospy/pull/1) in [ros-noetic-arch/ros-noetic-rospy](https://github.com/ros-noetic-arch/ros-noetic-rospy)
-4. 🗣 Commented on [#19](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/19) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-5. 🗣 Commented on [#19](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/19) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+1. 🎉 Merged PR [#105](https://github.com/acxz/pkgbuilds/pull/105) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗️ Closed issue [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#8599](https://github.com/mavlink/qgroundcontrol/issues/8599) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+5. 🗣 Commented on [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
