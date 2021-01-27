@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/acxz/pkgbuilds/pull/105) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Closed issue [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#8599](https://github.com/mavlink/qgroundcontrol/issues/8599) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-5. 🗣 Commented on [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#106](https://github.com/acxz/pkgbuilds/issues/106) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🎉 Merged PR [#105](https://github.com/acxz/pkgbuilds/pull/105) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. ❗️ Closed issue [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#104](https://github.com/acxz/pkgbuilds/issues/104) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#8599](https://github.com/mavlink/qgroundcontrol/issues/8599) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
 <!--END_SECTION:activity-->
 
 
