@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#851](https://github.com/ArduPilot/MAVProxy/issues/851) in [ArduPilot/MAVProxy](https://github.com/ArduPilot/MAVProxy)
-2. 🗣 Commented on [#14117](https://github.com/ray-project/ray/issues/14117) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#851](https://github.com/ArduPilot/MAVProxy/issues/851) in [ArduPilot/MAVProxy](https://github.com/ArduPilot/MAVProxy)
-4. 🗣 Commented on [#14117](https://github.com/ray-project/ray/issues/14117) in [ray-project/ray](https://github.com/ray-project/ray)
-5. ❗️ Opened issue [#14117](https://github.com/ray-project/ray/issues/14117) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#8327](https://github.com/mavlink/qgroundcontrol/issues/8327) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+2. 🗣 Commented on [#8599](https://github.com/mavlink/qgroundcontrol/issues/8599) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+3. 🗣 Commented on [#9332](https://github.com/mavlink/qgroundcontrol/issues/9332) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+4. 🗣 Commented on [#9332](https://github.com/mavlink/qgroundcontrol/issues/9332) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+5. 🗣 Commented on [#851](https://github.com/ArduPilot/MAVProxy/issues/851) in [ArduPilot/MAVProxy](https://github.com/ArduPilot/MAVProxy)
 <!--END_SECTION:activity-->
 
 
