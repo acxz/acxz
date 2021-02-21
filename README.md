@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler/issues/2) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler)
-2. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
-4. 🗣 Commented on [#8327](https://github.com/mavlink/qgroundcontrol/issues/8327) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-geographic-msgs/pull/1) in [ros-noetic-arch/ros-noetic-geographic-msgs](https://github.com/ros-noetic-arch/ros-noetic-geographic-msgs)
+2. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler/issues/2) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler)
+3. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
 5. 🗣 Commented on [#8327](https://github.com/mavlink/qgroundcontrol/issues/8327) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
 <!--END_SECTION:activity-->
 
