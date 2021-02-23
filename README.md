@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui/pull/1) in [ros-noetic-arch/ros-noetic-rqt-gui](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui)
-2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-geographic-msgs/pull/1) in [ros-noetic-arch/ros-noetic-geographic-msgs](https://github.com/ros-noetic-arch/ros-noetic-geographic-msgs)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler/issues/2) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler)
-4. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
+1. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui/pull/1) in [ros-noetic-arch/ros-noetic-rqt-gui](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui)
+3. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-geographic-msgs/pull/1) in [ros-noetic-arch/ros-noetic-geographic-msgs](https://github.com/ros-noetic-arch/ros-noetic-geographic-msgs)
+4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler/issues/2) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler)
+5. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
