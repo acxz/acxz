@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/3) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
-2. 💪 Opened PR [#14538](https://github.com/ray-project/ray/pull/14538) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
-5. 🎉 Merged PR [#115](https://github.com/acxz/pkgbuilds/pull/115) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🎉 Merged PR [#116](https://github.com/acxz/pkgbuilds/pull/116) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/3) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
+3. 💪 Opened PR [#14538](https://github.com/ray-project/ray/pull/14538) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#95](https://github.com/ros-visualization/python_qt_binding/issues/95) in [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding)
 <!--END_SECTION:activity-->
 
 
