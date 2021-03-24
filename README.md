@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/acxz/pkgbuilds/issues/118) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#24](https://github.com/rocm-arch/tensorflow-rocm/issues/24) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#20](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/20) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
 3. 🗣 Commented on [#118](https://github.com/acxz/pkgbuilds/issues/118) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#14538](https://github.com/ray-project/ray/issues/14538) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🎉 Merged PR [#5](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/pull/5) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
+4. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#118](https://github.com/acxz/pkgbuilds/issues/118) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
