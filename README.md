@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/gtrll/gpmp2/issues/34) in [gtrll/gpmp2](https://github.com/gtrll/gpmp2)
-2. 🗣 Commented on [#463](https://github.com/JuliaControl/ControlSystems.jl/issues/463) in [JuliaControl/ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl)
-3. ❗️ Opened issue [#463](https://github.com/JuliaControl/ControlSystems.jl/issues/463) in [JuliaControl/ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl)
-4. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#24](https://github.com/rocm-arch/tensorflow-rocm/issues/24) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. ❗️ Opened issue [#55910](https://github.com/pytorch/pytorch/issues/55910) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. 🗣 Commented on [#34](https://github.com/gtrll/gpmp2/issues/34) in [gtrll/gpmp2](https://github.com/gtrll/gpmp2)
+3. 🗣 Commented on [#463](https://github.com/JuliaControl/ControlSystems.jl/issues/463) in [JuliaControl/ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl)
+4. ❗️ Opened issue [#463](https://github.com/JuliaControl/ControlSystems.jl/issues/463) in [JuliaControl/ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl)
+5. 🗣 Commented on [#12613](https://github.com/ray-project/ray/issues/12613) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
