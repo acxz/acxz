@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9669](https://github.com/mavlink/qgroundcontrol/issues/9669) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-2. ❗️ Closed issue [#91](https://github.com/acxz/pkgbuilds/issues/91) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#91](https://github.com/acxz/pkgbuilds/issues/91) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Closed issue [#71](https://github.com/acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#71](https://github.com/acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 💪 Opened PR [#9670](https://github.com/mavlink/qgroundcontrol/pull/9670) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+2. ❗️ Opened issue [#9669](https://github.com/mavlink/qgroundcontrol/issues/9669) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+3. ❗️ Closed issue [#91](https://github.com/acxz/pkgbuilds/issues/91) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#91](https://github.com/acxz/pkgbuilds/issues/91) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Closed issue [#71](https://github.com/acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
