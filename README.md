@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/acxz/pl-utils/issues/10) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
-2. ❌ Closed PR [#2113](https://github.com/ROCm-Developer-Tools/HIP/pull/2113) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
-3. 🗣 Commented on [#2113](https://github.com/ROCm-Developer-Tools/HIP/issues/2113) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
-4. 💪 Opened PR [#23](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl/pull/23) in [baggepinnen/DifferentialDynamicProgramming.jl](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl)
-5. 🗣 Commented on [#55910](https://github.com/pytorch/pytorch/issues/55910) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. ❗️ Closed issue [#71](https://github.com/acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#71](https://github.com/acxz/pkgbuilds/issues/71) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. ❌ Closed PR [#122](https://github.com/acxz/pkgbuilds/pull/122) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#122](https://github.com/acxz/pkgbuilds/issues/122) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#121](https://github.com/acxz/pkgbuilds/issues/121) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
