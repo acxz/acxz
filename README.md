@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#121](https://github.com/acxz/pkgbuilds/issues/121) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 💪 Opened PR [#51](https://github.com/devernay/cminpack/pull/51) in [devernay/cminpack](https://github.com/devernay/cminpack)
-3. ❗️ Closed issue [#114](https://github.com/acxz/pkgbuilds/issues/114) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#114](https://github.com/acxz/pkgbuilds/issues/114) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Opened issue [#125](https://github.com/acxz/pkgbuilds/issues/125) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#121](https://github.com/acxz/pkgbuilds/issues/121) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 💪 Opened PR [#51](https://github.com/devernay/cminpack/pull/51) in [devernay/cminpack](https://github.com/devernay/cminpack)
+4. ❗️ Closed issue [#114](https://github.com/acxz/pkgbuilds/issues/114) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#114](https://github.com/acxz/pkgbuilds/issues/114) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
