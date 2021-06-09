@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/acxz/pkgbuilds/pull/128) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🎉 Merged PR [#127](https://github.com/acxz/pkgbuilds/pull/127) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Opened issue [#13](https://github.com/heron/heron/issues/13) in [heron/heron](https://github.com/heron/heron)
-4. 🗣 Commented on [#121](https://github.com/acxz/pkgbuilds/issues/121) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#86](https://github.com/ethz-asl/mav_comm/issues/86) in [ethz-asl/mav_comm](https://github.com/ethz-asl/mav_comm)
+2. 🎉 Merged PR [#128](https://github.com/acxz/pkgbuilds/pull/128) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🎉 Merged PR [#127](https://github.com/acxz/pkgbuilds/pull/127) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Opened issue [#13](https://github.com/heron/heron/issues/13) in [heron/heron](https://github.com/heron/heron)
 5. 🗣 Commented on [#121](https://github.com/acxz/pkgbuilds/issues/121) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
