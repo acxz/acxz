@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/ethz-asl/mav_comm/issues/86) in [ethz-asl/mav_comm](https://github.com/ethz-asl/mav_comm)
-2. 🎉 Merged PR [#128](https://github.com/acxz/pkgbuilds/pull/128) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🎉 Merged PR [#127](https://github.com/acxz/pkgbuilds/pull/127) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Opened issue [#13](https://github.com/heron/heron/issues/13) in [heron/heron](https://github.com/heron/heron)
-5. 🗣 Commented on [#121](https://github.com/acxz/pkgbuilds/issues/121) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🎉 Merged PR [#2](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/pull/2) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
+2. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/1) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
+3. 🗣 Commented on [#124](https://github.com/acxz/pkgbuilds/issues/124) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#124](https://github.com/acxz/pkgbuilds/issues/124) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🎉 Merged PR [#126](https://github.com/acxz/pkgbuilds/pull/126) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
