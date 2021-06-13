@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/pull/2) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
-2. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/1) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
-3. 🗣 Commented on [#124](https://github.com/acxz/pkgbuilds/issues/124) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Closed issue [#124](https://github.com/acxz/pkgbuilds/issues/124) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🎉 Merged PR [#126](https://github.com/acxz/pkgbuilds/pull/126) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#121](https://github.com/acxz/pkgbuilds/issues/121) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗️ Reopened issue [#1](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/1) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
+3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/2) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
+4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/2) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
+5. 🎉 Merged PR [#2](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/pull/2) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
 <!--END_SECTION:activity-->
 
 
