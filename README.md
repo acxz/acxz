@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/2) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
-2. 🗣 Commented on [#109](https://github.com/acxz/pkgbuilds/issues/109) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Reopened issue [#109](https://github.com/acxz/pkgbuilds/issues/109) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Closed issue [#123](https://github.com/acxz/pkgbuilds/issues/123) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#123](https://github.com/acxz/pkgbuilds/issues/123) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 💪 Opened PR [#795](https://github.com/borglab/gtsam/pull/795) in [borglab/gtsam](https://github.com/borglab/gtsam)
+2. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/2) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
+3. 🗣 Commented on [#109](https://github.com/acxz/pkgbuilds/issues/109) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Reopened issue [#109](https://github.com/acxz/pkgbuilds/issues/109) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Closed issue [#123](https://github.com/acxz/pkgbuilds/issues/123) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
