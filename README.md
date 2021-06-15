@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosapi/issues/1) in [ros-noetic-arch/ros-noetic-rosapi](https://github.com/ros-noetic-arch/ros-noetic-rosapi)
-2. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rosapi/issues/1) in [ros-noetic-arch/ros-noetic-rosapi](https://github.com/ros-noetic-arch/ros-noetic-rosapi)
-3. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-msgs/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-msgs](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-msgs)
-4. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-msgs/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-msgs](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-msgs)
-5. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-library/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-library](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-library)
+1. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-suite](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite)
+2. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-suite](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite)
+3. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-server](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server)
+4. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-server](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server)
+5. ❌ Closed PR [#41](https://github.com/anthraxx/arch-pkgbuilds/pull/41) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
 <!--END_SECTION:activity-->
 
 
