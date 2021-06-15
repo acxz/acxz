@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#796](https://github.com/borglab/gtsam/issues/796) in [borglab/gtsam](https://github.com/borglab/gtsam)
+1. 🗣 Commented on [#51](https://github.com/devernay/cminpack/issues/51) in [devernay/cminpack](https://github.com/devernay/cminpack)
 2. 🗣 Commented on [#796](https://github.com/borglab/gtsam/issues/796) in [borglab/gtsam](https://github.com/borglab/gtsam)
-3. 🗣 Commented on [#797](https://github.com/borglab/gtsam/issues/797) in [borglab/gtsam](https://github.com/borglab/gtsam)
-4. 💪 Opened PR [#797](https://github.com/borglab/gtsam/pull/797) in [borglab/gtsam](https://github.com/borglab/gtsam)
+3. 🗣 Commented on [#796](https://github.com/borglab/gtsam/issues/796) in [borglab/gtsam](https://github.com/borglab/gtsam)
+4. 🗣 Commented on [#797](https://github.com/borglab/gtsam/issues/797) in [borglab/gtsam](https://github.com/borglab/gtsam)
 5. 💪 Opened PR [#796](https://github.com/borglab/gtsam/pull/796) in [borglab/gtsam](https://github.com/borglab/gtsam)
 <!--END_SECTION:activity-->
 
