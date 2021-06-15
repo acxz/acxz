@@ -5,7 +5,7 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/acxz/pkgbuilds/issues/120) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#797](https://github.com/borglab/gtsam/issues/797) in [borglab/gtsam](https://github.com/borglab/gtsam)
 2. 🗣 Commented on [#63](https://github.com/lava/matplotlib-cpp/issues/63) in [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
 3. 💪 Opened PR [#798](https://github.com/borglab/gtsam/pull/798) in [borglab/gtsam](https://github.com/borglab/gtsam)
 4. 💪 Opened PR [#797](https://github.com/borglab/gtsam/pull/797) in [borglab/gtsam](https://github.com/borglab/gtsam)
