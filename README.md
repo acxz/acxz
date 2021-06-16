@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-suite](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite)
-2. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-suite](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite)
-3. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-server](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server)
-4. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-server](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server)
-5. ❌ Closed PR [#41](https://github.com/anthraxx/arch-pkgbuilds/pull/41) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+1. 🗣 Commented on [#796](https://github.com/borglab/gtsam/issues/796) in [borglab/gtsam](https://github.com/borglab/gtsam)
+2. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-suite](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite)
+3. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-suite](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-suite)
+4. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-server](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server)
+5. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server/issues/1) in [ros-noetic-arch/ros-noetic-rosbridge-server](https://github.com/ros-noetic-arch/ros-noetic-rosbridge-server)
 <!--END_SECTION:activity-->
 
 
