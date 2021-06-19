@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#131](https://github.com/acxz/pkgbuilds/issues/131) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#131](https://github.com/acxz/pkgbuilds/issues/131) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#130](https://github.com/acxz/pkgbuilds/issues/130) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Closed issue [#13](https://github.com/ros-arch/ros-aur-helpers/issues/13) in [ros-arch/ros-aur-helpers](https://github.com/ros-arch/ros-aur-helpers)
-5. 🗣 Commented on [#796](https://github.com/borglab/gtsam/issues/796) in [borglab/gtsam](https://github.com/borglab/gtsam)
+1. 💪 Opened PR [#800](https://github.com/borglab/gtsam/pull/800) in [borglab/gtsam](https://github.com/borglab/gtsam)
+2. ❗️ Closed issue [#131](https://github.com/acxz/pkgbuilds/issues/131) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#131](https://github.com/acxz/pkgbuilds/issues/131) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#130](https://github.com/acxz/pkgbuilds/issues/130) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Closed issue [#13](https://github.com/ros-arch/ros-aur-helpers/issues/13) in [ros-arch/ros-aur-helpers](https://github.com/ros-arch/ros-aur-helpers)
 <!--END_SECTION:activity-->
 
 
