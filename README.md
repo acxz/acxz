@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#130](https://github.com/acxz/pkgbuilds/issues/130) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🎉 Merged PR [#132](https://github.com/acxz/pkgbuilds/pull/132) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#800](https://github.com/borglab/gtsam/issues/800) in [borglab/gtsam](https://github.com/borglab/gtsam)
+2. ❗️ Closed issue [#130](https://github.com/acxz/pkgbuilds/issues/130) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 3. 🎉 Merged PR [#132](https://github.com/acxz/pkgbuilds/pull/132) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#132](https://github.com/acxz/pkgbuilds/issues/132) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 💪 Opened PR [#800](https://github.com/borglab/gtsam/pull/800) in [borglab/gtsam](https://github.com/borglab/gtsam)
+4. 🎉 Merged PR [#132](https://github.com/acxz/pkgbuilds/pull/132) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#132](https://github.com/acxz/pkgbuilds/issues/132) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
