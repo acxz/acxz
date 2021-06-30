@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/24) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-2. ❗️ Closed issue [#24](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/24) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-3. 🗣 Commented on [#2867](https://github.com/osrf/gazebo/issues/2867) in [osrf/gazebo](https://github.com/osrf/gazebo)
-4. 🗣 Commented on [#800](https://github.com/borglab/gtsam/issues/800) in [borglab/gtsam](https://github.com/borglab/gtsam)
-5. 🗣 Commented on [#796](https://github.com/borglab/gtsam/issues/796) in [borglab/gtsam](https://github.com/borglab/gtsam)
+1. 🗣 Commented on [#45](https://github.com/anthraxx/arch-pkgbuilds/issues/45) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+2. 💪 Opened PR [#3035](https://github.com/osrf/gazebo/pull/3035) in [osrf/gazebo](https://github.com/osrf/gazebo)
+3. 🗣 Commented on [#3028](https://github.com/osrf/gazebo/issues/3028) in [osrf/gazebo](https://github.com/osrf/gazebo)
+4. 🗣 Commented on [#24](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/24) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+5. ❗️ Closed issue [#24](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/24) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
 <!--END_SECTION:activity-->
 
 
