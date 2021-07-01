@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/acxz/pkgbuilds/issues/119) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Closed issue [#120](https://github.com/acxz/pkgbuilds/issues/120) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#120](https://github.com/acxz/pkgbuilds/issues/120) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#133](https://github.com/acxz/pkgbuilds/issues/133) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 💪 Opened PR [#17](https://github.com/heron/heron_simulator/pull/17) in [heron/heron_simulator](https://github.com/heron/heron_simulator)
+1. 🗣 Commented on [#117](https://github.com/acxz/pkgbuilds/issues/117) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#119](https://github.com/acxz/pkgbuilds/issues/119) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. ❗️ Closed issue [#120](https://github.com/acxz/pkgbuilds/issues/120) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#120](https://github.com/acxz/pkgbuilds/issues/120) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#133](https://github.com/acxz/pkgbuilds/issues/133) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
