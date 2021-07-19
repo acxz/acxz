@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#823](https://github.com/borglab/gtsam/pull/823) in [borglab/gtsam](https://github.com/borglab/gtsam)
-2. 🗣 Commented on [#809](https://github.com/borglab/gtsam/issues/809) in [borglab/gtsam](https://github.com/borglab/gtsam)
-3. 🗣 Commented on [#134](https://github.com/acxz/pkgbuilds/issues/134) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#117](https://github.com/acxz/pkgbuilds/issues/117) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#119](https://github.com/acxz/pkgbuilds/issues/119) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#3035](https://github.com/osrf/gazebo/issues/3035) in [osrf/gazebo](https://github.com/osrf/gazebo)
+2. ❗️ Closed issue [#136](https://github.com/acxz/pkgbuilds/issues/136) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#136](https://github.com/acxz/pkgbuilds/issues/136) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 💪 Opened PR [#823](https://github.com/borglab/gtsam/pull/823) in [borglab/gtsam](https://github.com/borglab/gtsam)
+5. 🗣 Commented on [#809](https://github.com/borglab/gtsam/issues/809) in [borglab/gtsam](https://github.com/borglab/gtsam)
 <!--END_SECTION:activity-->
 
 
