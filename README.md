@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3035](https://github.com/osrf/gazebo/issues/3035) in [osrf/gazebo](https://github.com/osrf/gazebo)
-2. ❗️ Closed issue [#136](https://github.com/acxz/pkgbuilds/issues/136) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#136](https://github.com/acxz/pkgbuilds/issues/136) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 💪 Opened PR [#823](https://github.com/borglab/gtsam/pull/823) in [borglab/gtsam](https://github.com/borglab/gtsam)
-5. 🗣 Commented on [#809](https://github.com/borglab/gtsam/issues/809) in [borglab/gtsam](https://github.com/borglab/gtsam)
+1. 🎉 Merged PR [#135](https://github.com/acxz/pkgbuilds/pull/135) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗️ Closed issue [#133](https://github.com/acxz/pkgbuilds/issues/133) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#3035](https://github.com/osrf/gazebo/issues/3035) in [osrf/gazebo](https://github.com/osrf/gazebo)
+4. ❗️ Closed issue [#136](https://github.com/acxz/pkgbuilds/issues/136) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#136](https://github.com/acxz/pkgbuilds/issues/136) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
