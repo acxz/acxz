@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/rocm-arch/tensorflow-rocm/issues/23) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-2. 🎉 Merged PR [#135](https://github.com/acxz/pkgbuilds/pull/135) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Closed issue [#133](https://github.com/acxz/pkgbuilds/issues/133) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#3035](https://github.com/osrf/gazebo/issues/3035) in [osrf/gazebo](https://github.com/osrf/gazebo)
-5. ❗️ Closed issue [#136](https://github.com/acxz/pkgbuilds/issues/136) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#23](https://github.com/rocm-arch/tensorflow-rocm/issues/23) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. ❗️ Closed issue [#23](https://github.com/rocm-arch/tensorflow-rocm/issues/23) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+3. 🎉 Merged PR [#135](https://github.com/acxz/pkgbuilds/pull/135) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#133](https://github.com/acxz/pkgbuilds/issues/133) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#3035](https://github.com/osrf/gazebo/issues/3035) in [osrf/gazebo](https://github.com/osrf/gazebo)
 <!--END_SECTION:activity-->
 
 
