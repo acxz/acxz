@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/26) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-2. 🗣 Commented on [#26](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/26) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-3. 🗣 Commented on [#34](https://github.com/gtrll/gpmp2/issues/34) in [gtrll/gpmp2](https://github.com/gtrll/gpmp2)
-4. ❗️ Closed issue [#6](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/6) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
-5. 🗣 Commented on [#6](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/6) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
+1. 💪 Opened PR [#51](https://github.com/gtrll/gpmp2/pull/51) in [gtrll/gpmp2](https://github.com/gtrll/gpmp2)
+2. ❗️ Closed issue [#26](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/26) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+3. 🗣 Commented on [#26](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/26) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+4. 🗣 Commented on [#34](https://github.com/gtrll/gpmp2/issues/34) in [gtrll/gpmp2](https://github.com/gtrll/gpmp2)
+5. ❗️ Closed issue [#6](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/6) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
 <!--END_SECTION:activity-->
 
 
