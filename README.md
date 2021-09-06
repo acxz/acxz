@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/acxz/gym-ccc/issues/8) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-2. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Closed issue [#143](https://github.com/acxz/pkgbuilds/issues/143) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#143](https://github.com/acxz/pkgbuilds/issues/143) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Closed issue [#144](https://github.com/acxz/pkgbuilds/issues/144) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#8](https://github.com/acxz/gym-ccc/issues/8) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
+3. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#143](https://github.com/acxz/pkgbuilds/issues/143) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#143](https://github.com/acxz/pkgbuilds/issues/143) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
