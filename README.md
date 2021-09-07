@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/rocm-arch/tensorflow-rocm/issues/31) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-2. 🗣 Commented on [#31](https://github.com/rocm-arch/tensorflow-rocm/issues/31) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-3. 🗣 Commented on [#140](https://github.com/acxz/pkgbuilds/issues/140) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Closed issue [#29](https://github.com/rocm-arch/tensorflow-rocm/issues/29) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#29](https://github.com/rocm-arch/tensorflow-rocm/issues/29) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. 🗣 Commented on [#28](https://github.com/rocm-arch/python-pytorch-rocm/issues/28) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. ❗️ Closed issue [#28](https://github.com/rocm-arch/python-pytorch-rocm/issues/28) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. ❗️ Closed issue [#31](https://github.com/rocm-arch/tensorflow-rocm/issues/31) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+4. 🗣 Commented on [#31](https://github.com/rocm-arch/tensorflow-rocm/issues/31) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🗣 Commented on [#140](https://github.com/acxz/pkgbuilds/issues/140) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
