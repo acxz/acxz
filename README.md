@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#145](https://github.com/acxz/pkgbuilds/issues/145) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#31](https://github.com/rocm-arch/tensorflow-rocm/issues/31) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. ❗️ Closed issue [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 3. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#8](https://github.com/acxz/gym-ccc/issues/8) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
-5. 🗣 Commented on [#8](https://github.com/acxz/gym-ccc/issues/8) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
+4. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#145](https://github.com/acxz/pkgbuilds/issues/145) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
