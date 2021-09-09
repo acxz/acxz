@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/acxz/pkgbuilds/issues/146) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#146](https://github.com/acxz/pkgbuilds/issues/146) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#28](https://github.com/rocm-arch/python-pytorch-rocm/issues/28) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. ❗️ Closed issue [#28](https://github.com/rocm-arch/python-pytorch-rocm/issues/28) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. ❗️ Closed issue [#31](https://github.com/rocm-arch/tensorflow-rocm/issues/31) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. ❗️ Reopened issue [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#146](https://github.com/acxz/pkgbuilds/issues/146) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#146](https://github.com/acxz/pkgbuilds/issues/146) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#146](https://github.com/acxz/pkgbuilds/issues/146) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
