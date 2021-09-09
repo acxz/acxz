@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Reopened issue [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#146](https://github.com/acxz/pkgbuilds/issues/146) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Closed issue [#146](https://github.com/acxz/pkgbuilds/issues/146) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#145](https://github.com/acxz/pkgbuilds/issues/145) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. ❗️ Reopened issue [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#146](https://github.com/acxz/pkgbuilds/issues/146) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
