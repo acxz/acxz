@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#901](https://github.com/borglab/gtsam/issues/901) in [borglab/gtsam](https://github.com/borglab/gtsam)
-2. 🗣 Commented on [#19108](https://github.com/ray-project/ray/issues/19108) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#19103](https://github.com/ray-project/ray/issues/19103) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#823](https://github.com/borglab/gtsam/issues/823) in [borglab/gtsam](https://github.com/borglab/gtsam)
-5. 💪 Opened PR [#19108](https://github.com/ray-project/ray/pull/19108) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#901](https://github.com/borglab/gtsam/issues/901) in [borglab/gtsam](https://github.com/borglab/gtsam)
+3. 🗣 Commented on [#19108](https://github.com/ray-project/ray/issues/19108) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#19103](https://github.com/ray-project/ray/issues/19103) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#823](https://github.com/borglab/gtsam/issues/823) in [borglab/gtsam](https://github.com/borglab/gtsam)
 <!--END_SECTION:activity-->
 
 
