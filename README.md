@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#156](https://github.com/acxz/pkgbuilds/issues/156) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#156](https://github.com/acxz/pkgbuilds/issues/156) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#901](https://github.com/borglab/gtsam/issues/901) in [borglab/gtsam](https://github.com/borglab/gtsam)
-4. 🗣 Commented on [#901](https://github.com/borglab/gtsam/issues/901) in [borglab/gtsam](https://github.com/borglab/gtsam)
-5. 🗣 Commented on [#19108](https://github.com/ray-project/ray/issues/19108) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❌ Closed PR [#153](https://github.com/acxz/pkgbuilds/pull/153) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#153](https://github.com/acxz/pkgbuilds/issues/153) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. ❌ Closed PR [#154](https://github.com/acxz/pkgbuilds/pull/154) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#154](https://github.com/acxz/pkgbuilds/issues/154) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❌ Closed PR [#155](https://github.com/acxz/pkgbuilds/pull/155) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
