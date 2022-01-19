@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 💪 Opened PR [#219](https://github.com/OpenVSP/OpenVSP/pull/219) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
-3. ❗️ Opened issue [#218](https://github.com/OpenVSP/OpenVSP/issues/218) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
-4. 💪 Opened PR [#253](https://github.com/hsahovic/poke-env/pull/253) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
-5. ❗️ Opened issue [#252](https://github.com/hsahovic/poke-env/issues/252) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
+2. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 💪 Opened PR [#219](https://github.com/OpenVSP/OpenVSP/pull/219) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
+4. ❗️ Opened issue [#218](https://github.com/OpenVSP/OpenVSP/issues/218) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
+5. 💪 Opened PR [#253](https://github.com/hsahovic/poke-env/pull/253) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
 <!--END_SECTION:activity-->
 
 
