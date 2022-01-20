@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 💪 Opened PR [#219](https://github.com/OpenVSP/OpenVSP/pull/219) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
-4. ❗️ Opened issue [#218](https://github.com/OpenVSP/OpenVSP/issues/218) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
-5. 💪 Opened PR [#253](https://github.com/hsahovic/poke-env/pull/253) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
+1. ❗️ Closed issue [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#165](https://github.com/acxz/pkgbuilds/issues/165) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#165](https://github.com/acxz/pkgbuilds/issues/165) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
