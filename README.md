@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21866](https://github.com/ray-project/ray/pull/21866) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#27](https://github.com/borglab/gtsam.org/issues/27) in [borglab/gtsam.org](https://github.com/borglab/gtsam.org)
-3. ❗️ Closed issue [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#165](https://github.com/acxz/pkgbuilds/issues/165) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#9669](https://github.com/mavlink/qgroundcontrol/issues/9669) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+2. ❗️ Closed issue [#9669](https://github.com/mavlink/qgroundcontrol/issues/9669) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+3. 💪 Opened PR [#21866](https://github.com/ray-project/ray/pull/21866) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#27](https://github.com/borglab/gtsam.org/issues/27) in [borglab/gtsam.org](https://github.com/borglab/gtsam.org)
+5. ❗️ Closed issue [#103](https://github.com/acxz/pkgbuilds/issues/103) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
