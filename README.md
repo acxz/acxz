@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/ericstoneking/42/pull/77) in [ericstoneking/42](https://github.com/ericstoneking/42)
-2. ❗️ Closed issue [#164](https://github.com/acxz/pkgbuilds/issues/164) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#164](https://github.com/acxz/pkgbuilds/issues/164) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#167](https://github.com/acxz/pkgbuilds/issues/167) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 💪 Opened PR [#2](https://github.com/acxz/42/pull/2) in [acxz/42](https://github.com/acxz/42)
+2. ❌ Closed PR [#1](https://github.com/acxz/42/pull/1) in [acxz/42](https://github.com/acxz/42)
+3. 💪 Opened PR [#1](https://github.com/acxz/42/pull/1) in [acxz/42](https://github.com/acxz/42)
+4. 💪 Opened PR [#77](https://github.com/ericstoneking/42/pull/77) in [ericstoneking/42](https://github.com/ericstoneking/42)
+5. ❗️ Closed issue [#164](https://github.com/acxz/pkgbuilds/issues/164) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
