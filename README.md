@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/khancyr/ardupilot_gazebo/issues/22) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
-2. ❌ Closed PR [#2](https://github.com/acxz/42/pull/2) in [acxz/42](https://github.com/acxz/42)
-3. 💪 Opened PR [#2](https://github.com/acxz/42/pull/2) in [acxz/42](https://github.com/acxz/42)
-4. ❌ Closed PR [#1](https://github.com/acxz/42/pull/1) in [acxz/42](https://github.com/acxz/42)
-5. 💪 Opened PR [#1](https://github.com/acxz/42/pull/1) in [acxz/42](https://github.com/acxz/42)
+1. 💪 Opened PR [#50](https://github.com/khancyr/ardupilot_gazebo/pull/50) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
+2. 🗣 Commented on [#22](https://github.com/khancyr/ardupilot_gazebo/issues/22) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
+3. ❌ Closed PR [#2](https://github.com/acxz/42/pull/2) in [acxz/42](https://github.com/acxz/42)
+4. 💪 Opened PR [#2](https://github.com/acxz/42/pull/2) in [acxz/42](https://github.com/acxz/42)
+5. ❌ Closed PR [#1](https://github.com/acxz/42/pull/1) in [acxz/42](https://github.com/acxz/42)
 <!--END_SECTION:activity-->
 
 
