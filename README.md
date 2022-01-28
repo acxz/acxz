@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-2. ❗️ Closed issue [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
-3. 🗣 Commented on [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
-4. ❌ Closed PR [#45](https://github.com/anthraxx/arch-pkgbuilds/pull/45) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
-5. 🗣 Commented on [#45](https://github.com/anthraxx/arch-pkgbuilds/issues/45) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+1. ❗️ Reopened issue [#37](https://github.com/acxz/pkgbuilds/issues/37) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗️ Opened issue [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+3. ❗️ Closed issue [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+4. 🗣 Commented on [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+5. ❌ Closed PR [#45](https://github.com/anthraxx/arch-pkgbuilds/pull/45) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
 <!--END_SECTION:activity-->
 
 
