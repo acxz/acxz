@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#298](https://github.com/borglab/GTDynamics/issues/298) in [borglab/GTDynamics](https://github.com/borglab/GTDynamics)
-2. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#9](https://github.com/ramcdona/Code-Eli/issues/9) in [ramcdona/Code-Eli](https://github.com/ramcdona/Code-Eli)
-4. ❗️ Reopened issue [#37](https://github.com/acxz/pkgbuilds/issues/37) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Opened issue [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+2. 🗣 Commented on [#298](https://github.com/borglab/GTDynamics/issues/298) in [borglab/GTDynamics](https://github.com/borglab/GTDynamics)
+3. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#9](https://github.com/ramcdona/Code-Eli/issues/9) in [ramcdona/Code-Eli](https://github.com/ramcdona/Code-Eli)
+5. ❗️ Reopened issue [#37](https://github.com/acxz/pkgbuilds/issues/37) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
