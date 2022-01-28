@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ramcdona/Code-Eli/issues/9) in [ramcdona/Code-Eli](https://github.com/ramcdona/Code-Eli)
-2. 🗣 Commented on [#298](https://github.com/borglab/GTDynamics/issues/298) in [borglab/GTDynamics](https://github.com/borglab/GTDynamics)
-3. 🗣 Commented on [#298](https://github.com/borglab/GTDynamics/issues/298) in [borglab/GTDynamics](https://github.com/borglab/GTDynamics)
-4. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#9](https://github.com/ramcdona/Code-Eli/issues/9) in [ramcdona/Code-Eli](https://github.com/ramcdona/Code-Eli)
+1. 🗣 Commented on [#26](https://github.com/rocm-arch/python-pytorch-rocm/issues/26) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. ❗️ Closed issue [#26](https://github.com/rocm-arch/python-pytorch-rocm/issues/26) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. ❗️ Closed issue [#24](https://github.com/rocm-arch/python-pytorch-rocm/issues/24) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#24](https://github.com/rocm-arch/python-pytorch-rocm/issues/24) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. ❗️ Closed issue [#23](https://github.com/rocm-arch/python-pytorch-rocm/issues/23) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 
