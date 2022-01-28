@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#166](https://github.com/acxz/pkgbuilds/issues/166) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🎉 Merged PR [#167](https://github.com/acxz/pkgbuilds/pull/167) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#142](https://github.com/acxz/pkgbuilds/issues/142) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 💪 Opened PR [#221](https://github.com/OpenVSP/OpenVSP/pull/221) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
-5. ❗️ Closed issue [#119](https://github.com/acxz/pkgbuilds/issues/119) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. ❗️ Closed issue [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+2. 🗣 Commented on [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+3. ❌ Closed PR [#45](https://github.com/anthraxx/arch-pkgbuilds/pull/45) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+4. 🗣 Commented on [#45](https://github.com/anthraxx/arch-pkgbuilds/issues/45) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+5. ❗️ Closed issue [#166](https://github.com/acxz/pkgbuilds/issues/166) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
