@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-rqt/issues/1) in [ros-noetic-arch/ros-noetic-rqt](https://github.com/ros-noetic-arch/ros-noetic-rqt)
-2. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-rqt/issues/1) in [ros-noetic-arch/ros-noetic-rqt](https://github.com/ros-noetic-arch/ros-noetic-rqt)
-3. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler/issues/1) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler)
-4. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler/issues/1) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler)
-5. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-octovis/issues/1) in [ros-noetic-arch/ros-noetic-octovis](https://github.com/ros-noetic-arch/ros-noetic-octovis)
+1. 🗣 Commented on [#7](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/7) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+2. ❗️ Closed issue [#32](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/32) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+3. 🗣 Commented on [#32](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/32) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+4. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros/issues/4) in [ros-noetic-arch/ros-noetic-pcl-ros](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros)
+5. ❗️ Closed issue [#6](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros/issues/6) in [ros-noetic-arch/ros-noetic-pcl-ros](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros)
 <!--END_SECTION:activity-->
 
 
