@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#169](https://github.com/acxz/pkgbuilds/pull/169) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#168](https://github.com/acxz/pkgbuilds/issues/168) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-urdf/issues/2) in [ros-noetic-arch/ros-noetic-urdf](https://github.com/ros-noetic-arch/ros-noetic-urdf)
+2. 🎉 Merged PR [#169](https://github.com/acxz/pkgbuilds/pull/169) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 3. 🗣 Commented on [#168](https://github.com/acxz/pkgbuilds/issues/168) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#7](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/7) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-5. ❗️ Closed issue [#32](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/32) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+4. 🗣 Commented on [#168](https://github.com/acxz/pkgbuilds/issues/168) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#7](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/7) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 <!--END_SECTION:activity-->
 
 
