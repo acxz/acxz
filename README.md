@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
-3. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-urdf/issues/2) in [ros-noetic-arch/ros-noetic-urdf](https://github.com/ros-noetic-arch/ros-noetic-urdf)
-4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-urdf/issues/2) in [ros-noetic-arch/ros-noetic-urdf](https://github.com/ros-noetic-arch/ros-noetic-urdf)
-5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-roslib/issues/2) in [ros-noetic-arch/ros-noetic-roslib](https://github.com/ros-noetic-arch/ros-noetic-roslib)
+2. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
+4. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-urdf/issues/2) in [ros-noetic-arch/ros-noetic-urdf](https://github.com/ros-noetic-arch/ros-noetic-urdf)
+5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-urdf/issues/2) in [ros-noetic-arch/ros-noetic-urdf](https://github.com/ros-noetic-arch/ros-noetic-urdf)
 <!--END_SECTION:activity-->
 
 
