@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
-4. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-urdf/issues/2) in [ros-noetic-arch/ros-noetic-urdf](https://github.com/ros-noetic-arch/ros-noetic-urdf)
-5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-urdf/issues/2) in [ros-noetic-arch/ros-noetic-urdf](https://github.com/ros-noetic-arch/ros-noetic-urdf)
+1. ❌ Closed PR [#601](https://github.com/rocm-arch/rocm-arch/pull/601) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#601](https://github.com/rocm-arch/rocm-arch/issues/601) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#524](https://github.com/rocm-arch/rocm-arch/issues/524) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❌ Closed PR [#524](https://github.com/rocm-arch/rocm-arch/pull/524) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
