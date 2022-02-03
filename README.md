@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗️ Reopened issue [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 3. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Opened issue [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. ❗️ Closed issue [#642](https://github.com/rocm-arch/rocm-arch/issues/642) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Closed issue [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
