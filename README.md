@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19218](https://github.com/vector-im/element-web/issues/19218) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. 🗣 Commented on [#1](https://github.com/acxz/element-wal/issues/1) in [acxz/element-wal](https://github.com/acxz/element-wal)
-3. 💪 Opened PR [#7726](https://github.com/matrix-org/matrix-react-sdk/pull/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-4. 🗣 Commented on [#7725](https://github.com/matrix-org/matrix-react-sdk/issues/7725) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-5. 💪 Opened PR [#7725](https://github.com/matrix-org/matrix-react-sdk/pull/7725) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+1. 🗣 Commented on [#1](https://github.com/acxz/element-wal/issues/1) in [acxz/element-wal](https://github.com/acxz/element-wal)
+2. 🗣 Commented on [#10832](https://github.com/vector-im/element-web/issues/10832) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. 🗣 Commented on [#19218](https://github.com/vector-im/element-web/issues/19218) in [vector-im/element-web](https://github.com/vector-im/element-web)
+4. 🗣 Commented on [#1](https://github.com/acxz/element-wal/issues/1) in [acxz/element-wal](https://github.com/acxz/element-wal)
+5. 💪 Opened PR [#7726](https://github.com/matrix-org/matrix-react-sdk/pull/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 <!--END_SECTION:activity-->
 
 
