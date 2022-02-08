@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/chickenkatsu1/parakeet/pull/11) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
-2. 💪 Opened PR [#10](https://github.com/chickenkatsu1/parakeet/pull/10) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
-3. ❗️ Opened issue [#8](https://github.com/chickenkatsu1/parakeet/issues/8) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
-4. ❗️ Opened issue [#7](https://github.com/chickenkatsu1/parakeet/issues/7) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
-5. 🗣 Commented on [#6](https://github.com/chickenkatsu1/parakeet/issues/6) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+1. 💪 Opened PR [#13](https://github.com/chickenkatsu1/parakeet/pull/13) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+2. 🎉 Merged PR [#11](https://github.com/chickenkatsu1/parakeet/pull/11) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+3. 💪 Opened PR [#10](https://github.com/chickenkatsu1/parakeet/pull/10) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+4. ❗️ Opened issue [#8](https://github.com/chickenkatsu1/parakeet/issues/8) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+5. ❗️ Opened issue [#7](https://github.com/chickenkatsu1/parakeet/issues/7) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
 <!--END_SECTION:activity-->
 
 
