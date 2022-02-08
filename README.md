@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/ericstoneking/42/issues/42) in [ericstoneking/42](https://github.com/ericstoneking/42)
-2. 🗣 Commented on [#68](https://github.com/ericstoneking/42/issues/68) in [ericstoneking/42](https://github.com/ericstoneking/42)
-3. 🗣 Commented on [#77](https://github.com/ericstoneking/42/issues/77) in [ericstoneking/42](https://github.com/ericstoneking/42)
-4. 💪 Opened PR [#13](https://github.com/chickenkatsu1/parakeet/pull/13) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
-5. 🎉 Merged PR [#11](https://github.com/chickenkatsu1/parakeet/pull/11) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+1. 🗣 Commented on [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+2. 🗣 Commented on [#42](https://github.com/ericstoneking/42/issues/42) in [ericstoneking/42](https://github.com/ericstoneking/42)
+3. 🗣 Commented on [#68](https://github.com/ericstoneking/42/issues/68) in [ericstoneking/42](https://github.com/ericstoneking/42)
+4. 🗣 Commented on [#77](https://github.com/ericstoneking/42/issues/77) in [ericstoneking/42](https://github.com/ericstoneking/42)
+5. 💪 Opened PR [#13](https://github.com/chickenkatsu1/parakeet/pull/13) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
 <!--END_SECTION:activity-->
 
 
