@@ -7,9 +7,9 @@ ricer
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
 2. 🗣 Commented on [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-3. 🗣 Commented on [#42](https://github.com/ericstoneking/42/issues/42) in [ericstoneking/42](https://github.com/ericstoneking/42)
-4. 🗣 Commented on [#68](https://github.com/ericstoneking/42/issues/68) in [ericstoneking/42](https://github.com/ericstoneking/42)
-5. 🗣 Commented on [#77](https://github.com/ericstoneking/42/issues/77) in [ericstoneking/42](https://github.com/ericstoneking/42)
+3. 🗣 Commented on [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+4. 🗣 Commented on [#42](https://github.com/ericstoneking/42/issues/42) in [ericstoneking/42](https://github.com/ericstoneking/42)
+5. 🗣 Commented on [#68](https://github.com/ericstoneking/42/issues/68) in [ericstoneking/42](https://github.com/ericstoneking/42)
 <!--END_SECTION:activity-->
 
 
