@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-moveit-core/issues/2) in [ros-noetic-arch/ros-noetic-moveit-core](https://github.com/ros-noetic-arch/ros-noetic-moveit-core)
-2. 🗣 Commented on [#10153](https://github.com/mavlink/qgroundcontrol/issues/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-3. 🗣 Commented on [#19218](https://github.com/vector-im/element-web/issues/19218) in [vector-im/element-web](https://github.com/vector-im/element-web)
-4. 🗣 Commented on [#7725](https://github.com/matrix-org/matrix-react-sdk/issues/7725) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-5. ❗️ Closed issue [#41](https://github.com/ericstoneking/42/issues/41) in [ericstoneking/42](https://github.com/ericstoneking/42)
+2. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-moveit-core/issues/2) in [ros-noetic-arch/ros-noetic-moveit-core](https://github.com/ros-noetic-arch/ros-noetic-moveit-core)
+3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-moveit-core/issues/2) in [ros-noetic-arch/ros-noetic-moveit-core](https://github.com/ros-noetic-arch/ros-noetic-moveit-core)
+4. 🗣 Commented on [#10153](https://github.com/mavlink/qgroundcontrol/issues/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+5. 🗣 Commented on [#19218](https://github.com/vector-im/element-web/issues/19218) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
 
