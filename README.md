@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10153](https://github.com/mavlink/qgroundcontrol/issues/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-2. 💪 Opened PR [#10153](https://github.com/mavlink/qgroundcontrol/pull/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-3. 🗣 Commented on [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-4. 🗣 Commented on [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+1. ❗️ Closed issue [#41](https://github.com/ericstoneking/42/issues/41) in [ericstoneking/42](https://github.com/ericstoneking/42)
+2. 🗣 Commented on [#41](https://github.com/ericstoneking/42/issues/41) in [ericstoneking/42](https://github.com/ericstoneking/42)
+3. 🗣 Commented on [#10153](https://github.com/mavlink/qgroundcontrol/issues/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+4. 💪 Opened PR [#10153](https://github.com/mavlink/qgroundcontrol/pull/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
 5. 🗣 Commented on [#10140](https://github.com/mavlink/qgroundcontrol/issues/10140) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
 <!--END_SECTION:activity-->
 
