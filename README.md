@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#761](https://github.com/JuliaStats/StatsBase.jl/issues/761) in [JuliaStats/StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
-2. 💪 Opened PR [#1165](https://github.com/ros/catkin/pull/1165) in [ros/catkin](https://github.com/ros/catkin)
-3. ❗️ Opened issue [#1164](https://github.com/ros/catkin/issues/1164) in [ros/catkin](https://github.com/ros/catkin)
-4. 🗣 Commented on [#1130](https://github.com/ros/catkin/issues/1130) in [ros/catkin](https://github.com/ros/catkin)
-5. 💪 Opened PR [#14](https://github.com/chickenkatsu1/parakeet/pull/14) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+1. 🗣 Commented on [#649](https://github.com/rocm-arch/rocm-arch/issues/649) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-roslib/issues/2) in [ros-noetic-arch/ros-noetic-roslib](https://github.com/ros-noetic-arch/ros-noetic-roslib)
+3. ❗️ Closed issue [#761](https://github.com/JuliaStats/StatsBase.jl/issues/761) in [JuliaStats/StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
+4. 🗣 Commented on [#761](https://github.com/JuliaStats/StatsBase.jl/issues/761) in [JuliaStats/StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
+5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-roslib/issues/2) in [ros-noetic-arch/ros-noetic-roslib](https://github.com/ros-noetic-arch/ros-noetic-roslib)
 <!--END_SECTION:activity-->
 
 
