@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-3. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 💪 Opened PR [#16](https://github.com/chickenkatsu1/parakeet/pull/16) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
-5. 🗣 Commented on [#617](https://github.com/rocm-arch/rocm-arch/issues/617) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#617](https://github.com/rocm-arch/rocm-arch/issues/617) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 💪 Opened PR [#653](https://github.com/rocm-arch/rocm-arch/pull/653) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 <!--END_SECTION:activity-->
 
 
