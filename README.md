@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#654](https://github.com/rocm-arch/rocm-arch/pull/654) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Closed issue [#461](https://github.com/rocm-arch/rocm-arch/issues/461) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#461](https://github.com/rocm-arch/rocm-arch/issues/461) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#43505](https://github.com/golang/go/issues/43505) in [golang/go](https://github.com/golang/go)
-5. 🗣 Commented on [#617](https://github.com/rocm-arch/rocm-arch/issues/617) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 💪 Opened PR [#655](https://github.com/rocm-arch/rocm-arch/pull/655) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 💪 Opened PR [#654](https://github.com/rocm-arch/rocm-arch/pull/654) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Closed issue [#461](https://github.com/rocm-arch/rocm-arch/issues/461) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#461](https://github.com/rocm-arch/rocm-arch/issues/461) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#43505](https://github.com/golang/go/issues/43505) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 
