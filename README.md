@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#617](https://github.com/rocm-arch/rocm-arch/issues/617) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 💪 Opened PR [#653](https://github.com/rocm-arch/rocm-arch/pull/653) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#43505](https://github.com/golang/go/issues/43505) in [golang/go](https://github.com/golang/go)
+2. 🗣 Commented on [#617](https://github.com/rocm-arch/rocm-arch/issues/617) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 💪 Opened PR [#653](https://github.com/rocm-arch/rocm-arch/pull/653) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 4. 🗣 Commented on [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+5. 🗣 Commented on [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
