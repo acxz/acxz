@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/chickenkatsu1/parakeet/pull/15) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
-2. 🗣 Commented on [#649](https://github.com/rocm-arch/rocm-arch/issues/649) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-roslib/issues/2) in [ros-noetic-arch/ros-noetic-roslib](https://github.com/ros-noetic-arch/ros-noetic-roslib)
-4. ❗️ Closed issue [#761](https://github.com/JuliaStats/StatsBase.jl/issues/761) in [JuliaStats/StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
-5. 🗣 Commented on [#761](https://github.com/JuliaStats/StatsBase.jl/issues/761) in [JuliaStats/StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
+1. 💪 Opened PR [#16](https://github.com/chickenkatsu1/parakeet/pull/16) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+2. 🗣 Commented on [#617](https://github.com/rocm-arch/rocm-arch/issues/617) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+4. ❗️ Opened issue [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. ❗️ Closed issue [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
