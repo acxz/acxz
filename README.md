@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
-2. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#30](https://github.com/rocm-arch/python-pytorch-rocm/issues/30) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. 🗣 Commented on [#31](https://github.com/rocm-arch/python-pytorch-rocm/issues/31) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. 🗣 Commented on [#33](https://github.com/rocm-arch/tensorflow-rocm/issues/33) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#35](https://github.com/rocm-arch/tensorflow-rocm/issues/35) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+3. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+4. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+5. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
