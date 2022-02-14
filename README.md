@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
-2. 🗣 Commented on [#33](https://github.com/rocm-arch/tensorflow-rocm/issues/33) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-3. 🗣 Commented on [#35](https://github.com/rocm-arch/tensorflow-rocm/issues/35) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-4. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+1. ❌ Closed PR [#1](https://github.com/acxz/dotfiles/pull/1) in [acxz/dotfiles](https://github.com/acxz/dotfiles)
+2. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
+3. 🗣 Commented on [#33](https://github.com/rocm-arch/tensorflow-rocm/issues/33) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+4. 🗣 Commented on [#35](https://github.com/rocm-arch/tensorflow-rocm/issues/35) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 5. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
 <!--END_SECTION:activity-->
 
