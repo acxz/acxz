@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22384](https://github.com/ray-project/ray/pull/22384) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
-3. ❌ Closed PR [#1](https://github.com/acxz/dotfiles/pull/1) in [acxz/dotfiles](https://github.com/acxz/dotfiles)
-4. 🗣 Commented on [#267](https://github.com/unitedstates/congress/issues/267) in [unitedstates/congress](https://github.com/unitedstates/congress)
-5. 🗣 Commented on [#33](https://github.com/rocm-arch/tensorflow-rocm/issues/33) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. 🗣 Commented on [#16](https://github.com/chickenkatsu1/parakeet/issues/16) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+2. ❌ Closed PR [#16](https://github.com/chickenkatsu1/parakeet/pull/16) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+3. 💪 Opened PR [#17](https://github.com/chickenkatsu1/parakeet/pull/17) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+4. 💪 Opened PR [#22384](https://github.com/ray-project/ray/pull/22384) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#21866](https://github.com/ray-project/ray/issues/21866) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
