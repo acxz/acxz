@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#523](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/pull/523) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
-2. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 💪 Opened PR [#28895](https://github.com/grpc/grpc/pull/28895) in [grpc/grpc](https://github.com/grpc/grpc)
-4. 💪 Opened PR [#1](https://github.com/acxz/grpc/pull/1) in [acxz/grpc](https://github.com/acxz/grpc)
-5. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#64](https://github.com/rocm-arch/rocm-arch/issues/64) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Opened issue [#524](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/524) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+3. 💪 Opened PR [#1086](https://github.com/jbeder/yaml-cpp/pull/1086) in [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
+4. ❗️ Reopened issue [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
