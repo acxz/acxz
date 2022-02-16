@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-2. 🎉 Merged PR [#1](https://github.com/ros-arch/arch_ros_package_monitor/pull/1) in [ros-arch/arch_ros_package_monitor](https://github.com/ros-arch/arch_ros_package_monitor)
-3. 💪 Opened PR [#1](https://github.com/ros-arch/arch_ros_package_monitor/pull/1) in [ros-arch/arch_ros_package_monitor](https://github.com/ros-arch/arch_ros_package_monitor)
-4. 🗣 Commented on [#660](https://github.com/rocm-arch/rocm-arch/issues/660) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 💪 Opened PR [#9](https://github.com/stevesdawg/govstat/pull/9) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+2. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+3. 🎉 Merged PR [#1](https://github.com/ros-arch/arch_ros_package_monitor/pull/1) in [ros-arch/arch_ros_package_monitor](https://github.com/ros-arch/arch_ros_package_monitor)
+4. 💪 Opened PR [#1](https://github.com/ros-arch/arch_ros_package_monitor/pull/1) in [ros-arch/arch_ros_package_monitor](https://github.com/ros-arch/arch_ros_package_monitor)
+5. 🗣 Commented on [#660](https://github.com/rocm-arch/rocm-arch/issues/660) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
