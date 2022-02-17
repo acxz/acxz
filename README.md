@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#525](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/pull/525) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
-2. 🗣 Commented on [#64](https://github.com/rocm-arch/rocm-arch/issues/64) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. ❗️ Opened issue [#524](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/524) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
-4. 💪 Opened PR [#1086](https://github.com/jbeder/yaml-cpp/pull/1086) in [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
-5. ❗️ Reopened issue [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. ❌ Closed PR [#17](https://github.com/chickenkatsu1/parakeet/pull/17) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+2. 🗣 Commented on [#17](https://github.com/chickenkatsu1/parakeet/issues/17) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+3. 💪 Opened PR [#18](https://github.com/chickenkatsu1/parakeet/pull/18) in [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet)
+4. 💪 Opened PR [#525](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/pull/525) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+5. 🗣 Commented on [#64](https://github.com/rocm-arch/rocm-arch/issues/64) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
