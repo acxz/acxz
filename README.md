@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#665](https://github.com/rocm-arch/rocm-arch/pull/665) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 💪 Opened PR [#664](https://github.com/rocm-arch/rocm-arch/pull/664) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 💪 Opened PR [#663](https://github.com/rocm-arch/rocm-arch/pull/663) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#7725](https://github.com/matrix-org/matrix-react-sdk/issues/7725) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-5. 💪 Opened PR [#662](https://github.com/rocm-arch/rocm-arch/pull/662) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Opened issue [#771](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/771) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+3. 🗣 Commented on [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 💪 Opened PR [#666](https://github.com/rocm-arch/rocm-arch/pull/666) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
