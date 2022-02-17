@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/acxz/ros-cudagl-container/issues/1) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
-2. 🗣 Commented on [#771](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/771) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-3. 🗣 Commented on [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. ❗️ Opened issue [#771](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/771) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-5. 🗣 Commented on [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. ❗️ Closed issue [#78](https://github.com/arch4edu/arch4edu/issues/78) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+2. 🗣 Commented on [#78](https://github.com/arch4edu/arch4edu/issues/78) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+3. 🗣 Commented on [#72](https://github.com/arch4edu/arch4edu/issues/72) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+4. ❗️ Closed issue [#72](https://github.com/arch4edu/arch4edu/issues/72) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+5. ❗️ Opened issue [#1](https://github.com/acxz/ros-cudagl-container/issues/1) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
 <!--END_SECTION:activity-->
 
 
