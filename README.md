@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Opened issue [#771](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/771) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-3. 🗣 Commented on [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. ❗️ Opened issue [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 💪 Opened PR [#666](https://github.com/rocm-arch/rocm-arch/pull/666) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#771](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/771) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+2. 🗣 Commented on [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Opened issue [#771](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/771) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+4. 🗣 Commented on [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. ❗️ Opened issue [#667](https://github.com/rocm-arch/rocm-arch/issues/667) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
