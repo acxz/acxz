@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/ericstoneking/42/issues/78) in [ericstoneking/42](https://github.com/ericstoneking/42)
-2. 🗣 Commented on [#68](https://github.com/ericstoneking/42/issues/68) in [ericstoneking/42](https://github.com/ericstoneking/42)
-3. 🗣 Commented on [#77](https://github.com/ericstoneking/42/issues/77) in [ericstoneking/42](https://github.com/ericstoneking/42)
-4. 🗣 Commented on [#68](https://github.com/ericstoneking/42/issues/68) in [ericstoneking/42](https://github.com/ericstoneking/42)
+1. 💪 Opened PR [#81](https://github.com/ericstoneking/42/pull/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
+2. ❗️ Opened issue [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
+3. 💪 Opened PR [#79](https://github.com/ericstoneking/42/pull/79) in [ericstoneking/42](https://github.com/ericstoneking/42)
+4. ❗️ Opened issue [#78](https://github.com/ericstoneking/42/issues/78) in [ericstoneking/42](https://github.com/ericstoneking/42)
 5. 🗣 Commented on [#68](https://github.com/ericstoneking/42/issues/68) in [ericstoneking/42](https://github.com/ericstoneking/42)
 <!--END_SECTION:activity-->
 
