@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/pull/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-2. ❌ Closed PR [#81](https://github.com/ericstoneking/42/pull/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
-3. 🗣 Commented on [#81](https://github.com/ericstoneking/42/issues/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
-4. ❗️ Opened issue [#774](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/774) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-5. 💪 Opened PR [#82](https://github.com/ericstoneking/42/pull/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
+1. 🗣 Commented on [#50](https://github.com/khancyr/ardupilot_gazebo/issues/50) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
+2. 💪 Opened PR [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/pull/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+3. ❌ Closed PR [#81](https://github.com/ericstoneking/42/pull/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
+4. 🗣 Commented on [#81](https://github.com/ericstoneking/42/issues/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
+5. ❗️ Opened issue [#774](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/774) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
 <!--END_SECTION:activity-->
 
 
