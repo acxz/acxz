@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/ericstoneking/42/pull/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
-2. 💪 Opened PR [#81](https://github.com/ericstoneking/42/pull/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
-3. ❗️ Opened issue [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
-4. 💪 Opened PR [#79](https://github.com/ericstoneking/42/pull/79) in [ericstoneking/42](https://github.com/ericstoneking/42)
-5. ❗️ Opened issue [#78](https://github.com/ericstoneking/42/issues/78) in [ericstoneking/42](https://github.com/ericstoneking/42)
+1. ❌ Closed PR [#81](https://github.com/ericstoneking/42/pull/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
+2. 🗣 Commented on [#81](https://github.com/ericstoneking/42/issues/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
+3. ❗️ Opened issue [#774](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/774) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+4. 💪 Opened PR [#82](https://github.com/ericstoneking/42/pull/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
+5. 💪 Opened PR [#81](https://github.com/ericstoneking/42/pull/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
 <!--END_SECTION:activity-->
 
 
