@@ -5,10 +5,10 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#377](https://github.com/ROCmSoftwarePlatform/rocSOLVER/issues/377) in [ROCmSoftwarePlatform/rocSOLVER](https://github.com/ROCmSoftwarePlatform/rocSOLVER)
-2. 💪 Opened PR [#1113](https://github.com/borglab/gtsam/pull/1113) in [borglab/gtsam](https://github.com/borglab/gtsam)
-3. ❗️ Closed issue [#377](https://github.com/ROCmSoftwarePlatform/rocSOLVER/issues/377) in [ROCmSoftwarePlatform/rocSOLVER](https://github.com/ROCmSoftwarePlatform/rocSOLVER)
-4. 🗣 Commented on [#377](https://github.com/ROCmSoftwarePlatform/rocSOLVER/issues/377) in [ROCmSoftwarePlatform/rocSOLVER](https://github.com/ROCmSoftwarePlatform/rocSOLVER)
+1. 💪 Opened PR [#678](https://github.com/rocm-arch/rocm-arch/pull/678) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#377](https://github.com/ROCmSoftwarePlatform/rocSOLVER/issues/377) in [ROCmSoftwarePlatform/rocSOLVER](https://github.com/ROCmSoftwarePlatform/rocSOLVER)
+3. 💪 Opened PR [#1113](https://github.com/borglab/gtsam/pull/1113) in [borglab/gtsam](https://github.com/borglab/gtsam)
+4. ❗️ Closed issue [#377](https://github.com/ROCmSoftwarePlatform/rocSOLVER/issues/377) in [ROCmSoftwarePlatform/rocSOLVER](https://github.com/ROCmSoftwarePlatform/rocSOLVER)
 5. 🗣 Commented on [#377](https://github.com/ROCmSoftwarePlatform/rocSOLVER/issues/377) in [ROCmSoftwarePlatform/rocSOLVER](https://github.com/ROCmSoftwarePlatform/rocSOLVER)
 <!--END_SECTION:activity-->
 
