@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/da-h/AirLatex.vim/issues/42) in [da-h/AirLatex.vim](https://github.com/da-h/AirLatex.vim)
-2. ❗️ Opened issue [#677](https://github.com/rocm-arch/rocm-arch/issues/677) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#50](https://github.com/khancyr/ardupilot_gazebo/issues/50) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
-4. 💪 Opened PR [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/pull/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-5. ❌ Closed PR [#81](https://github.com/ericstoneking/42/pull/81) in [ericstoneking/42](https://github.com/ericstoneking/42)
+1. 🗣 Commented on [#377](https://github.com/ROCmSoftwarePlatform/rocSOLVER/issues/377) in [ROCmSoftwarePlatform/rocSOLVER](https://github.com/ROCmSoftwarePlatform/rocSOLVER)
+2. 🗣 Commented on [#2781](https://github.com/fmtlib/fmt/issues/2781) in [fmtlib/fmt](https://github.com/fmtlib/fmt)
+3. 🗣 Commented on [#644](https://github.com/rocm-arch/rocm-arch/issues/644) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#377](https://github.com/ROCmSoftwarePlatform/rocSOLVER/issues/377) in [ROCmSoftwarePlatform/rocSOLVER](https://github.com/ROCmSoftwarePlatform/rocSOLVER)
+5. ❗️ Opened issue [#42](https://github.com/da-h/AirLatex.vim/issues/42) in [da-h/AirLatex.vim](https://github.com/da-h/AirLatex.vim)
 <!--END_SECTION:activity-->
 
 
