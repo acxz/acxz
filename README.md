@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1116](https://github.com/borglab/gtsam/issues/1116) in [borglab/gtsam](https://github.com/borglab/gtsam)
-2. 💪 Opened PR [#1116](https://github.com/borglab/gtsam/pull/1116) in [borglab/gtsam](https://github.com/borglab/gtsam)
-3. 💪 Opened PR [#73178](https://github.com/pytorch/pytorch/pull/73178) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. 🗣 Commented on [#50001](https://github.com/pytorch/pytorch/issues/50001) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. ❗️ Closed issue [#14](https://github.com/rocm-arch/python-pytorch-rocm/issues/14) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. 🗣 Commented on [#14](https://github.com/rocm-arch/python-pytorch-rocm/issues/14) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 4. 🗣 Commented on [#34](https://github.com/rocm-arch/python-pytorch-rocm/issues/34) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. ❗️ Opened issue [#73177](https://github.com/pytorch/pytorch/issues/73177) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+5. 🗣 Commented on [#1116](https://github.com/borglab/gtsam/issues/1116) in [borglab/gtsam](https://github.com/borglab/gtsam)
 <!--END_SECTION:activity-->
 
 
