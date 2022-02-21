@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/rocm-arch/python-pytorch-rocm/issues/32) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. 🗣 Commented on [#32](https://github.com/rocm-arch/python-pytorch-rocm/issues/32) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🗣 Commented on [#70298](https://github.com/pytorch/pytorch/issues/70298) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-4. 🗣 Commented on [#70298](https://github.com/pytorch/pytorch/issues/70298) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-5. 🗣 Commented on [#70297](https://github.com/pytorch/pytorch/issues/70297) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. ❗️ Closed issue [#33](https://github.com/rocm-arch/python-pytorch-rocm/issues/33) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#33](https://github.com/rocm-arch/python-pytorch-rocm/issues/33) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. ❗️ Reopened issue [#32](https://github.com/rocm-arch/python-pytorch-rocm/issues/32) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. ❗️ Closed issue [#32](https://github.com/rocm-arch/python-pytorch-rocm/issues/32) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. 🗣 Commented on [#32](https://github.com/rocm-arch/python-pytorch-rocm/issues/32) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 
