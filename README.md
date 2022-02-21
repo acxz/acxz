@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#1](https://github.com/talwat/pokeget/issues/1) in [talwat/pokeget](https://github.com/talwat/pokeget)
-3. 🗣 Commented on [#1](https://github.com/talwat/pokeget/issues/1) in [talwat/pokeget](https://github.com/talwat/pokeget)
-4. 🗣 Commented on [#1](https://github.com/talwat/pokeget/issues/1) in [talwat/pokeget](https://github.com/talwat/pokeget)
-5. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#1](https://github.com/talwat/pokeget/issues/1) in [talwat/pokeget](https://github.com/talwat/pokeget)
 <!--END_SECTION:activity-->
 
 
