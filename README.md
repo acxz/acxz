@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/stark/Color-Scripts/issues/27) in [stark/Color-Scripts](https://github.com/stark/Color-Scripts)
-2. 🗣 Commented on [#1092](https://github.com/borglab/gtsam/issues/1092) in [borglab/gtsam](https://github.com/borglab/gtsam)
-3. 🗣 Commented on [#14](https://github.com/stevesdawg/govstat/issues/14) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-4. 🗣 Commented on [#14](https://github.com/stevesdawg/govstat/issues/14) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-5. ❗️ Opened issue [#14](https://github.com/stevesdawg/govstat/issues/14) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+1. 🗣 Commented on [#676](https://github.com/rocm-arch/rocm-arch/issues/676) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 💪 Opened PR [#679](https://github.com/rocm-arch/rocm-arch/pull/679) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Opened issue [#27](https://github.com/stark/Color-Scripts/issues/27) in [stark/Color-Scripts](https://github.com/stark/Color-Scripts)
+4. 🗣 Commented on [#1092](https://github.com/borglab/gtsam/issues/1092) in [borglab/gtsam](https://github.com/borglab/gtsam)
+5. 🗣 Commented on [#14](https://github.com/stevesdawg/govstat/issues/14) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
 <!--END_SECTION:activity-->
 
 
