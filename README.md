@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50001](https://github.com/pytorch/pytorch/issues/50001) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. ❗️ Closed issue [#14](https://github.com/rocm-arch/python-pytorch-rocm/issues/14) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🗣 Commented on [#14](https://github.com/rocm-arch/python-pytorch-rocm/issues/14) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#34](https://github.com/rocm-arch/python-pytorch-rocm/issues/34) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. 🗣 Commented on [#1116](https://github.com/borglab/gtsam/issues/1116) in [borglab/gtsam](https://github.com/borglab/gtsam)
+1. ❗️ Opened issue [#1](https://github.com/talwat/pokeget/issues/1) in [talwat/pokeget](https://github.com/talwat/pokeget)
+2. 🗣 Commented on [#50001](https://github.com/pytorch/pytorch/issues/50001) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+3. ❗️ Closed issue [#14](https://github.com/rocm-arch/python-pytorch-rocm/issues/14) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#14](https://github.com/rocm-arch/python-pytorch-rocm/issues/14) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. 🗣 Commented on [#34](https://github.com/rocm-arch/python-pytorch-rocm/issues/34) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 
