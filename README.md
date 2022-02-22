@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/stevesdawg/govstat/pull/16) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-2. ❗️ Closed issue [#14](https://github.com/stevesdawg/govstat/issues/14) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-3. 🗣 Commented on [#16](https://github.com/stevesdawg/govstat/issues/16) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-4. 🗣 Commented on [#16](https://github.com/stevesdawg/govstat/issues/16) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-5. 🗣 Commented on [#15](https://github.com/stevesdawg/govstat/issues/15) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+1. ❗️ Closed issue [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
+2. 🗣 Commented on [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
+3. ❌ Closed PR [#82](https://github.com/ericstoneking/42/pull/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
+4. 🗣 Commented on [#82](https://github.com/ericstoneking/42/issues/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
+5. 🎉 Merged PR [#16](https://github.com/stevesdawg/govstat/pull/16) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
 <!--END_SECTION:activity-->
 
 
