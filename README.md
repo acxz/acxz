@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/3) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
-3. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 💪 Opened PR [#1117](https://github.com/borglab/gtsam/pull/1117) in [borglab/gtsam](https://github.com/borglab/gtsam)
-5. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. ❗️ Closed issue [#78](https://github.com/ericstoneking/42/issues/78) in [ericstoneking/42](https://github.com/ericstoneking/42)
+2. 🗣 Commented on [#78](https://github.com/ericstoneking/42/issues/78) in [ericstoneking/42](https://github.com/ericstoneking/42)
+3. 🗣 Commented on [#79](https://github.com/ericstoneking/42/issues/79) in [ericstoneking/42](https://github.com/ericstoneking/42)
+4. ❌ Closed PR [#79](https://github.com/ericstoneking/42/pull/79) in [ericstoneking/42](https://github.com/ericstoneking/42)
+5. 🗣 Commented on [#82](https://github.com/ericstoneking/42/issues/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
 <!--END_SECTION:activity-->
 
 
