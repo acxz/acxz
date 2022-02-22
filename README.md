@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/stevesdawg/govstat/issues/17) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-2. ❗️ Closed issue [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
-3. 🗣 Commented on [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
-4. ❌ Closed PR [#82](https://github.com/ericstoneking/42/pull/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
-5. 🗣 Commented on [#82](https://github.com/ericstoneking/42/issues/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
+1. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Opened issue [#17](https://github.com/stevesdawg/govstat/issues/17) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+3. ❗️ Closed issue [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
+4. 🗣 Commented on [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
+5. ❌ Closed PR [#82](https://github.com/ericstoneking/42/pull/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
 <!--END_SECTION:activity-->
 
 
