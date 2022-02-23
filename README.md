@@ -9,7 +9,7 @@ ricer
 2. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
 3. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
 4. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-5. ❗️ Closed issue [#152](https://github.com/acxz/pkgbuilds/issues/152) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
 <!--END_SECTION:activity-->
 
 
