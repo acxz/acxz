@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/stevesdawg/govstat/issues/20) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-2. 💪 Opened PR [#19](https://github.com/stevesdawg/govstat/pull/19) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-3. ❗️ Opened issue [#18](https://github.com/stevesdawg/govstat/issues/18) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-4. 🗣 Commented on [#12](https://github.com/acxz/pkgbuilds/issues/12) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🎉 Merged PR [#158](https://github.com/acxz/pkgbuilds/pull/158) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 💪 Opened PR [#22](https://github.com/stevesdawg/govstat/pull/22) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+2. 🗣 Commented on [#21](https://github.com/stevesdawg/govstat/issues/21) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+3. 💪 Opened PR [#21](https://github.com/stevesdawg/govstat/pull/21) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+4. ❗️ Opened issue [#20](https://github.com/stevesdawg/govstat/issues/20) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+5. 💪 Opened PR [#19](https://github.com/stevesdawg/govstat/pull/19) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
 <!--END_SECTION:activity-->
 
 
