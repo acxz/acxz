@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Opened issue [#17](https://github.com/stevesdawg/govstat/issues/17) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-3. ❗️ Closed issue [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
-4. 🗣 Commented on [#80](https://github.com/ericstoneking/42/issues/80) in [ericstoneking/42](https://github.com/ericstoneking/42)
-5. ❌ Closed PR [#82](https://github.com/ericstoneking/42/pull/82) in [ericstoneking/42](https://github.com/ericstoneking/42)
+1. 🗣 Commented on [#12](https://github.com/acxz/pkgbuilds/issues/12) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🎉 Merged PR [#158](https://github.com/acxz/pkgbuilds/pull/158) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🎉 Merged PR [#171](https://github.com/acxz/pkgbuilds/pull/171) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#159](https://github.com/acxz/pkgbuilds/issues/159) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❌ Closed PR [#159](https://github.com/acxz/pkgbuilds/pull/159) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
