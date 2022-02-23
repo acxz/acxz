@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#152](https://github.com/acxz/pkgbuilds/issues/152) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#152](https://github.com/acxz/pkgbuilds/issues/152) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 💪 Opened PR [#22](https://github.com/stevesdawg/govstat/pull/22) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-4. 🗣 Commented on [#21](https://github.com/stevesdawg/govstat/issues/21) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-5. 💪 Opened PR [#21](https://github.com/stevesdawg/govstat/pull/21) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+1. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+2. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+3. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+4. ❗️ Closed issue [#152](https://github.com/acxz/pkgbuilds/issues/152) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#152](https://github.com/acxz/pkgbuilds/issues/152) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
