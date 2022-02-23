@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/talwat/pokeget/pull/4) in [talwat/pokeget](https://github.com/talwat/pokeget)
-2. 🗣 Commented on [#172](https://github.com/acxz/pkgbuilds/issues/172) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. ❗️ Opened issue [#5](https://github.com/talwat/pokeget/issues/5) in [talwat/pokeget](https://github.com/talwat/pokeget)
+2. 💪 Opened PR [#4](https://github.com/talwat/pokeget/pull/4) in [talwat/pokeget](https://github.com/talwat/pokeget)
 3. 🗣 Commented on [#172](https://github.com/acxz/pkgbuilds/issues/172) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#1](https://github.com/talwat/pokeget/issues/1) in [talwat/pokeget](https://github.com/talwat/pokeget)
+4. 🗣 Commented on [#172](https://github.com/acxz/pkgbuilds/issues/172) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#86](https://github.com/rocm-arch/rocm-arch/issues/86) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
