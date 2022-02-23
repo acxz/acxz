@@ -5,7 +5,7 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+1. 🗣 Commented on [#1](https://github.com/talwat/pokeget/issues/1) in [talwat/pokeget](https://github.com/talwat/pokeget)
 2. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
 3. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
 4. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
