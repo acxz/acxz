@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#775](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/775) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-2. 🗣 Commented on [#42](https://github.com/khancyr/ardupilot_gazebo/issues/42) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
-3. 🗣 Commented on [#50](https://github.com/khancyr/ardupilot_gazebo/issues/50) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
-4. 🗣 Commented on [#5](https://github.com/talwat/pokeget/issues/5) in [talwat/pokeget](https://github.com/talwat/pokeget)
-5. 🗣 Commented on [#10153](https://github.com/mavlink/qgroundcontrol/issues/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+1. 🗣 Commented on [#41](https://github.com/khancyr/ardupilot_gazebo/issues/41) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
+2. ❗️ Closed issue [#157](https://github.com/acxz/pkgbuilds/issues/157) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#157](https://github.com/acxz/pkgbuilds/issues/157) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#172](https://github.com/acxz/pkgbuilds/issues/172) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Closed issue [#172](https://github.com/acxz/pkgbuilds/issues/172) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
