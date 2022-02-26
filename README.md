@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10186](https://github.com/mavlink/qgroundcontrol/pull/10186) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-2. 🗣 Commented on [#10141](https://github.com/mavlink/qgroundcontrol/issues/10141) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-3. 💪 Opened PR [#51](https://github.com/khancyr/ardupilot_gazebo/pull/51) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
-4. 🗣 Commented on [#10153](https://github.com/mavlink/qgroundcontrol/issues/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-5. 🗣 Commented on [#41](https://github.com/khancyr/ardupilot_gazebo/issues/41) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
+1. ❗️ Opened issue [#10188](https://github.com/mavlink/qgroundcontrol/issues/10188) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+2. 💪 Opened PR [#10186](https://github.com/mavlink/qgroundcontrol/pull/10186) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+3. 🗣 Commented on [#10141](https://github.com/mavlink/qgroundcontrol/issues/10141) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+4. 💪 Opened PR [#51](https://github.com/khancyr/ardupilot_gazebo/pull/51) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
+5. 🗣 Commented on [#10153](https://github.com/mavlink/qgroundcontrol/issues/10153) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
 <!--END_SECTION:activity-->
 
 
