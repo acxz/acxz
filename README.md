@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/8) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+1. 🗣 Commented on [#680](https://github.com/rocm-arch/rocm-arch/issues/680) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 2. 🗣 Commented on [#8](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/8) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 3. 🗣 Commented on [#8](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/8) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-4. 🗣 Commented on [#5](https://github.com/talwat/pokeget/issues/5) in [talwat/pokeget](https://github.com/talwat/pokeget)
-5. ❗️ Opened issue [#10188](https://github.com/mavlink/qgroundcontrol/issues/10188) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+4. 🗣 Commented on [#8](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/8) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+5. 🗣 Commented on [#5](https://github.com/talwat/pokeget/issues/5) in [talwat/pokeget](https://github.com/talwat/pokeget)
 <!--END_SECTION:activity-->
 
 
