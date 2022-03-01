@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70297](https://github.com/pytorch/pytorch/issues/70297) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 🗣 Commented on [#68](https://github.com/posva/catimg/issues/68) in [posva/catimg](https://github.com/posva/catimg)
-3. 🗣 Commented on [#68](https://github.com/posva/catimg/issues/68) in [posva/catimg](https://github.com/posva/catimg)
-4. 💪 Opened PR [#25](https://github.com/stevesdawg/govstat/pull/25) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-5. 💪 Opened PR [#68](https://github.com/posva/catimg/pull/68) in [posva/catimg](https://github.com/posva/catimg)
+1. 🎉 Merged PR [#3](https://github.com/acxz/pokeget/pull/3) in [acxz/pokeget](https://github.com/acxz/pokeget)
+2. 💪 Opened PR [#3](https://github.com/acxz/pokeget/pull/3) in [acxz/pokeget](https://github.com/acxz/pokeget)
+3. ❌ Closed PR [#8](https://github.com/talwat/pokeget/pull/8) in [talwat/pokeget](https://github.com/talwat/pokeget)
+4. 💪 Opened PR [#8](https://github.com/talwat/pokeget/pull/8) in [talwat/pokeget](https://github.com/talwat/pokeget)
+5. 🎉 Merged PR [#2](https://github.com/acxz/pokeget/pull/2) in [acxz/pokeget](https://github.com/acxz/pokeget)
 <!--END_SECTION:activity-->
 
 
