@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10196](https://github.com/mavlink/qgroundcontrol/pull/10196) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-2. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher/issues/2) in [ros-noetic-arch/ros-noetic-joint-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher/issues/2) in [ros-noetic-arch/ros-noetic-joint-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher)
-4. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/9) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-5. 🗣 Commented on [#70298](https://github.com/pytorch/pytorch/issues/70298) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/9) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+2. 💪 Opened PR [#10196](https://github.com/mavlink/qgroundcontrol/pull/10196) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+3. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher/issues/2) in [ros-noetic-arch/ros-noetic-joint-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher)
+4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher/issues/2) in [ros-noetic-arch/ros-noetic-joint-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-joint-state-publisher)
+5. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/9) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 <!--END_SECTION:activity-->
 
 
