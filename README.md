@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#304](https://github.com/ROCmSoftwarePlatform/rocFFT/issues/304) in [ROCmSoftwarePlatform/rocFFT](https://github.com/ROCmSoftwarePlatform/rocFFT)
-2. ❗️ Closed issue [#3](https://github.com/ros-noetic-arch/ros-noetic-roscpp/issues/3) in [ros-noetic-arch/ros-noetic-roscpp](https://github.com/ros-noetic-arch/ros-noetic-roscpp)
-3. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-roscpp/issues/3) in [ros-noetic-arch/ros-noetic-roscpp](https://github.com/ros-noetic-arch/ros-noetic-roscpp)
-4. 🗣 Commented on [#22384](https://github.com/ray-project/ray/issues/22384) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#3174](https://github.com/osrf/gazebo/issues/3174) in [osrf/gazebo](https://github.com/osrf/gazebo)
+1. ❗️ Opened issue [#9](https://github.com/talwat/pokeget/issues/9) in [talwat/pokeget](https://github.com/talwat/pokeget)
+2. 🗣 Commented on [#304](https://github.com/ROCmSoftwarePlatform/rocFFT/issues/304) in [ROCmSoftwarePlatform/rocFFT](https://github.com/ROCmSoftwarePlatform/rocFFT)
+3. ❗️ Closed issue [#3](https://github.com/ros-noetic-arch/ros-noetic-roscpp/issues/3) in [ros-noetic-arch/ros-noetic-roscpp](https://github.com/ros-noetic-arch/ros-noetic-roscpp)
+4. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-roscpp/issues/3) in [ros-noetic-arch/ros-noetic-roscpp](https://github.com/ros-noetic-arch/ros-noetic-roscpp)
+5. 🗣 Commented on [#22384](https://github.com/ray-project/ray/issues/22384) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
