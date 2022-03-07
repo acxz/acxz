@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#601](https://github.com/rocm-arch/rocm-arch/issues/601) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#6](https://github.com/talwat/pokeget/issues/6) in [talwat/pokeget](https://github.com/talwat/pokeget)
-3. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-4. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-5. 🗣 Commented on [#22384](https://github.com/ray-project/ray/issues/22384) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❌ Closed PR [#155](https://github.com/rocm-arch/rocm-arch/pull/155) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#155](https://github.com/rocm-arch/rocm-arch/issues/155) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#601](https://github.com/rocm-arch/rocm-arch/issues/601) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#6](https://github.com/talwat/pokeget/issues/6) in [talwat/pokeget](https://github.com/talwat/pokeget)
+5. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 <!--END_SECTION:activity-->
 
 
