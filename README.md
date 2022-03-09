@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10196](https://github.com/mavlink/qgroundcontrol/issues/10196) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-2. 🗣 Commented on [#666](https://github.com/rocm-arch/rocm-arch/issues/666) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. ❌ Closed PR [#155](https://github.com/rocm-arch/rocm-arch/pull/155) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#155](https://github.com/rocm-arch/rocm-arch/issues/155) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#601](https://github.com/rocm-arch/rocm-arch/issues/601) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+2. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+3. 🗣 Commented on [#10196](https://github.com/mavlink/qgroundcontrol/issues/10196) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+4. 🗣 Commented on [#666](https://github.com/rocm-arch/rocm-arch/issues/666) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. ❌ Closed PR [#155](https://github.com/rocm-arch/rocm-arch/pull/155) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
