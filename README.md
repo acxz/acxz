@@ -8,8 +8,8 @@ ricer
 1. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 2. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 3. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-4. 🗣 Commented on [#10196](https://github.com/mavlink/qgroundcontrol/issues/10196) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-5. 🗣 Commented on [#666](https://github.com/rocm-arch/rocm-arch/issues/666) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+5. 🗣 Commented on [#10](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/10) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 <!--END_SECTION:activity-->
 
 
