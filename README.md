@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/JuliaLang/Microbenchmarks/issues/48) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-2. 💪 Opened PR [#55](https://github.com/JuliaLang/Microbenchmarks/pull/55) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-3. 🗣 Commented on [#54](https://github.com/JuliaLang/Microbenchmarks/issues/54) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-4. 💪 Opened PR [#54](https://github.com/JuliaLang/Microbenchmarks/pull/54) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. 🗣 Commented on [#173](https://github.com/acxz/pkgbuilds/issues/173) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#70297](https://github.com/pytorch/pytorch/issues/70297) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. 🗣 Commented on [#70297](https://github.com/pytorch/pytorch/issues/70297) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+3. 🗣 Commented on [#70298](https://github.com/pytorch/pytorch/issues/70298) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. 🗣 Commented on [#73113](https://github.com/pytorch/pytorch/issues/73113) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+5. 💪 Opened PR [#56](https://github.com/JuliaLang/Microbenchmarks/pull/56) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 
