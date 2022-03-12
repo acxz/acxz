@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/JuliaLang/Microbenchmarks/issues/57) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-2. 💪 Opened PR [#1](https://github.com/acxz/Microbenchmarks/pull/1) in [acxz/Microbenchmarks](https://github.com/acxz/Microbenchmarks)
-3. 💪 Opened PR [#57](https://github.com/JuliaLang/Microbenchmarks/pull/57) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-4. 🗣 Commented on [#48](https://github.com/JuliaLang/Microbenchmarks/issues/48) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. 🗣 Commented on [#73178](https://github.com/pytorch/pytorch/issues/73178) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. 🗣 Commented on [#36](https://github.com/rocm-arch/tensorflow-rocm/issues/36) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#1247](https://github.com/Arisotura/melonDS/issues/1247) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
+3. 🗣 Commented on [#57](https://github.com/JuliaLang/Microbenchmarks/issues/57) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+4. 💪 Opened PR [#1](https://github.com/acxz/Microbenchmarks/pull/1) in [acxz/Microbenchmarks](https://github.com/acxz/Microbenchmarks)
+5. 💪 Opened PR [#57](https://github.com/JuliaLang/Microbenchmarks/pull/57) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 
