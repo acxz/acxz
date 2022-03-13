@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/talwat/pokeget/pull/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
-2. ❗️ Opened issue [#13](https://github.com/talwat/pokeget/issues/13) in [talwat/pokeget](https://github.com/talwat/pokeget)
-3. 🗣 Commented on [#11](https://github.com/talwat/pokeget/issues/11) in [talwat/pokeget](https://github.com/talwat/pokeget)
-4. 💪 Opened PR [#1395](https://github.com/Arisotura/melonDS/pull/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
-5. 🗣 Commented on [#36](https://github.com/rocm-arch/tensorflow-rocm/issues/36) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. 🗣 Commented on [#14](https://github.com/talwat/pokeget/issues/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
+2. 🗣 Commented on [#14](https://github.com/talwat/pokeget/issues/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
+3. 💪 Opened PR [#14](https://github.com/talwat/pokeget/pull/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
+4. ❗️ Opened issue [#13](https://github.com/talwat/pokeget/issues/13) in [talwat/pokeget](https://github.com/talwat/pokeget)
+5. 🗣 Commented on [#11](https://github.com/talwat/pokeget/issues/11) in [talwat/pokeget](https://github.com/talwat/pokeget)
 <!--END_SECTION:activity-->
 
 
