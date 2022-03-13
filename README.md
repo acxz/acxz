@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1395](https://github.com/Arisotura/melonDS/pull/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
-2. 🗣 Commented on [#36](https://github.com/rocm-arch/tensorflow-rocm/issues/36) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-3. 🗣 Commented on [#1247](https://github.com/Arisotura/melonDS/issues/1247) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
-4. 🗣 Commented on [#57](https://github.com/JuliaLang/Microbenchmarks/issues/57) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. 💪 Opened PR [#1](https://github.com/acxz/Microbenchmarks/pull/1) in [acxz/Microbenchmarks](https://github.com/acxz/Microbenchmarks)
+1. ❗️ Opened issue [#13](https://github.com/talwat/pokeget/issues/13) in [talwat/pokeget](https://github.com/talwat/pokeget)
+2. 🗣 Commented on [#11](https://github.com/talwat/pokeget/issues/11) in [talwat/pokeget](https://github.com/talwat/pokeget)
+3. 💪 Opened PR [#1395](https://github.com/Arisotura/melonDS/pull/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
+4. 🗣 Commented on [#36](https://github.com/rocm-arch/tensorflow-rocm/issues/36) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🗣 Commented on [#1247](https://github.com/Arisotura/melonDS/issues/1247) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
 <!--END_SECTION:activity-->
 
 
