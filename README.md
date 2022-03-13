@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/talwat/pokeget/issues/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
+1. 💪 Opened PR [#15](https://github.com/talwat/pokeget/pull/15) in [talwat/pokeget](https://github.com/talwat/pokeget)
 2. 🗣 Commented on [#14](https://github.com/talwat/pokeget/issues/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
-3. 💪 Opened PR [#14](https://github.com/talwat/pokeget/pull/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
-4. ❗️ Opened issue [#13](https://github.com/talwat/pokeget/issues/13) in [talwat/pokeget](https://github.com/talwat/pokeget)
-5. 🗣 Commented on [#11](https://github.com/talwat/pokeget/issues/11) in [talwat/pokeget](https://github.com/talwat/pokeget)
+3. 🗣 Commented on [#14](https://github.com/talwat/pokeget/issues/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
+4. 💪 Opened PR [#14](https://github.com/talwat/pokeget/pull/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
+5. ❗️ Opened issue [#13](https://github.com/talwat/pokeget/issues/13) in [talwat/pokeget](https://github.com/talwat/pokeget)
 <!--END_SECTION:activity-->
 
 
