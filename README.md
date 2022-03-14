@@ -6,10 +6,10 @@ ricer
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/talwat/pokeget/issues/16) in [talwat/pokeget](https://github.com/talwat/pokeget)
-2. 💪 Opened PR [#16](https://github.com/talwat/pokeget/pull/16) in [talwat/pokeget](https://github.com/talwat/pokeget)
-3. 🗣 Commented on [#14](https://github.com/talwat/pokeget/issues/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
-4. 🗣 Commented on [#36](https://github.com/rocm-arch/tensorflow-rocm/issues/36) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 💪 Opened PR [#15](https://github.com/talwat/pokeget/pull/15) in [talwat/pokeget](https://github.com/talwat/pokeget)
+2. 🗣 Commented on [#16](https://github.com/talwat/pokeget/issues/16) in [talwat/pokeget](https://github.com/talwat/pokeget)
+3. 💪 Opened PR [#16](https://github.com/talwat/pokeget/pull/16) in [talwat/pokeget](https://github.com/talwat/pokeget)
+4. 🗣 Commented on [#14](https://github.com/talwat/pokeget/issues/14) in [talwat/pokeget](https://github.com/talwat/pokeget)
+5. 🗣 Commented on [#36](https://github.com/rocm-arch/tensorflow-rocm/issues/36) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 
