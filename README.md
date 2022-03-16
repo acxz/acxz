@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1092](https://github.com/borglab/gtsam/issues/1092) in [borglab/gtsam](https://github.com/borglab/gtsam)
-2. 🗣 Commented on [#68](https://github.com/posva/catimg/issues/68) in [posva/catimg](https://github.com/posva/catimg)
-3. ❌ Closed PR [#666](https://github.com/rocm-arch/rocm-arch/pull/666) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#666](https://github.com/rocm-arch/rocm-arch/issues/666) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❗️ Closed issue [#399](https://github.com/rocm-arch/rocm-arch/issues/399) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#399](https://github.com/rocm-arch/rocm-arch/issues/399) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#693](https://github.com/rocm-arch/rocm-arch/issues/693) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#1092](https://github.com/borglab/gtsam/issues/1092) in [borglab/gtsam](https://github.com/borglab/gtsam)
+5. 🗣 Commented on [#68](https://github.com/posva/catimg/issues/68) in [posva/catimg](https://github.com/posva/catimg)
 <!--END_SECTION:activity-->
 
 
