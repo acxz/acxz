@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#399](https://github.com/rocm-arch/rocm-arch/issues/399) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#399](https://github.com/rocm-arch/rocm-arch/issues/399) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#693](https://github.com/rocm-arch/rocm-arch/issues/693) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#1092](https://github.com/borglab/gtsam/issues/1092) in [borglab/gtsam](https://github.com/borglab/gtsam)
-5. 🗣 Commented on [#68](https://github.com/posva/catimg/issues/68) in [posva/catimg](https://github.com/posva/catimg)
+1. 🗣 Commented on [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Reopened issue [#652](https://github.com/rocm-arch/rocm-arch/issues/652) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#653](https://github.com/rocm-arch/rocm-arch/issues/653) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. ❗️ Closed issue [#399](https://github.com/rocm-arch/rocm-arch/issues/399) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
