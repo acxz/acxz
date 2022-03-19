@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-2. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Opened issue [#82](https://github.com/deepmind/tree/issues/82) in [deepmind/tree](https://github.com/deepmind/tree)
+1. ❗️ Closed issue [#218](https://github.com/OpenVSP/OpenVSP/issues/218) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
+2. 🗣 Commented on [#218](https://github.com/OpenVSP/OpenVSP/issues/218) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
+3. 🗣 Commented on [#219](https://github.com/OpenVSP/OpenVSP/issues/219) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
+4. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+5. 🗣 Commented on [#170](https://github.com/acxz/pkgbuilds/issues/170) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 
