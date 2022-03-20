@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/11) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-2. 🗣 Commented on [#11](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/11) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-3. ❗️ Opened issue [#11](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/11) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-4. 💪 Opened PR [#60](https://github.com/JuliaLang/Microbenchmarks/pull/60) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. 💪 Opened PR [#59](https://github.com/JuliaLang/Microbenchmarks/pull/59) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+1. ❗️ Closed issue [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+2. 🗣 Commented on [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+3. ❗️ Opened issue [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+4. 🗣 Commented on [#11](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/11) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+5. 🗣 Commented on [#11](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/11) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 <!--END_SECTION:activity-->
 
 
