@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1648](https://github.com/JuliaLang/www.julialang.org/issues/1648) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
-2. 🗣 Commented on [#48](https://github.com/JuliaLang/Microbenchmarks/issues/48) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-3. 💪 Opened PR [#1648](https://github.com/JuliaLang/www.julialang.org/pull/1648) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
-4. 🗣 Commented on [#48](https://github.com/JuliaLang/Microbenchmarks/issues/48) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. ❗️ Closed issue [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+1. 🗣 Commented on [#48](https://github.com/JuliaLang/Microbenchmarks/issues/48) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+2. 🗣 Commented on [#1648](https://github.com/JuliaLang/www.julialang.org/issues/1648) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+3. 🗣 Commented on [#48](https://github.com/JuliaLang/Microbenchmarks/issues/48) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+4. 💪 Opened PR [#1648](https://github.com/JuliaLang/www.julialang.org/pull/1648) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+5. 🗣 Commented on [#48](https://github.com/JuliaLang/Microbenchmarks/issues/48) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 
