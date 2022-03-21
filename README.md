@@ -7,9 +7,9 @@ ricer
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/11) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 2. 🗣 Commented on [#11](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/11) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-3. ❗️ Opened issue [#6152](https://github.com/plotly/plotly.js/issues/6152) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
-4. 🗣 Commented on [#2610](https://github.com/plotly/plotly.py/issues/2610) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
-5. 🗣 Commented on [#48](https://github.com/JuliaLang/Microbenchmarks/issues/48) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+3. 🗣 Commented on [#11](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/11) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+4. ❗️ Opened issue [#6152](https://github.com/plotly/plotly.js/issues/6152) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+5. 🗣 Commented on [#2610](https://github.com/plotly/plotly.py/issues/2610) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
 <!--END_SECTION:activity-->
 
 
