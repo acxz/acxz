@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/JuliaLang/Microbenchmarks/issues/58) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-2. 💪 Opened PR [#62](https://github.com/JuliaLang/Microbenchmarks/pull/62) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-3. 🗣 Commented on [#52](https://github.com/JuliaLang/Microbenchmarks/issues/52) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-4. 💪 Opened PR [#61](https://github.com/JuliaLang/Microbenchmarks/pull/61) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. 🗣 Commented on [#1648](https://github.com/JuliaLang/www.julialang.org/issues/1648) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+1. 💪 Opened PR [#696](https://github.com/rocm-arch/rocm-arch/pull/696) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Reopened issue [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#58](https://github.com/JuliaLang/Microbenchmarks/issues/58) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 
