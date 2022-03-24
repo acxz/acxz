@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#696](https://github.com/rocm-arch/rocm-arch/pull/696) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. ❗️ Reopened issue [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#58](https://github.com/JuliaLang/Microbenchmarks/issues/58) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+1. 💪 Opened PR [#697](https://github.com/rocm-arch/rocm-arch/pull/697) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 💪 Opened PR [#696](https://github.com/rocm-arch/rocm-arch/pull/696) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Reopened issue [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#613](https://github.com/rocm-arch/rocm-arch/issues/613) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 
