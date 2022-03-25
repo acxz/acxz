@@ -9,8 +9,8 @@
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=acxz&include_all_commits=true&show_icons=true />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=acxz&" alt="acxz" />
+  <img width="400em" src=https://github-readme-stats.vercel.app/api?username=acxz&include_all_commits=true&show_icons=true />
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=acxz&" alt="acxz" />
 </p>
 
 <p align="center">
