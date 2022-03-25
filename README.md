@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#698](https://github.com/rocm-arch/rocm-arch/pull/698) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 💪 Opened PR [#698](https://github.com/rocm-arch/rocm-arch/pull/698) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#1308](https://github.com/chaotic-aur/packages/issues/1308) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+1. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🎉 Merged PR [#698](https://github.com/rocm-arch/rocm-arch/pull/698) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 💪 Opened PR [#698](https://github.com/rocm-arch/rocm-arch/pull/698) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 4. 🗣 Commented on [#1308](https://github.com/chaotic-aur/packages/issues/1308) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
-5. 🗣 Commented on [#696](https://github.com/rocm-arch/rocm-arch/issues/696) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#1308](https://github.com/chaotic-aur/packages/issues/1308) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
 <!--END_SECTION:activity-->
 
 
