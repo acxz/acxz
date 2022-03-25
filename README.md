@@ -9,12 +9,12 @@
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=acxz&include_all_commits=true&show_icons=true />
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=acxz&layout=compact />
+  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=acxz&include_all_commits=true&show_icons=true />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=acxz&" alt="acxz" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acxz&" alt="acxz" />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=acxz&layout=compact />
   <img src=https://github-profile-trophy.vercel.app/?username=acxz&row=2&column=4 />
 </p>
 
