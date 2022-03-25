@@ -1,9 +1,3 @@
-<!--```
-contributing to robotics/aerospace/ml/gpu software
-packaging it for archlinux
-ricer
--->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
@@ -14,13 +8,14 @@ ricer
 5. 🗣 Commented on [#1308](https://github.com/chaotic-aur/packages/issues/1308) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
 <!--END_SECTION:activity-->
 
+<p align="center">
+  <img src=https://github-readme-stats.vercel.app/api?username=acxz&include_all_commits=true&show_icons=true />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acxz&" alt="acxz" />
+</p>
 
-![statz](https://github-readme-stats.vercel.app/api?username=acxz&include_all_commits=true&show_icons=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acxz&" alt="acxz" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=acxz)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![lngwgez](https://github-readme-stats.vercel.app/api/top-langs/?username=acxz&layout=compact)](https://github.com/acxz/github-readme-stats)
+<p align="center">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=acxz&layout=compact />
+  <img src=https://github-profile-trophy.vercel.app/?username=acxz&row=2&column=4 />
+</p>
 
 ![activity-graph](https://activity-graph.herokuapp.com/graph?username=acxz&theme=aqua)
