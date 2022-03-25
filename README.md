@@ -22,3 +22,5 @@ ricer
 [![trophy](https://github-profile-trophy.vercel.app/?username=acxz)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![lngwgez](https://github-readme-stats.vercel.app/api/top-langs/?username=acxz&layout=compact)](https://github.com/acxz/github-readme-stats)
+
+![activity-graph](https://activity-graph.herokuapp.com/graph?username=acxz&theme=aqua)
