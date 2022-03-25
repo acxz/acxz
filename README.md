@@ -5,11 +5,11 @@ ricer
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#696](https://github.com/rocm-arch/rocm-arch/issues/696) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#9](https://github.com/acxz/pkgbuilds/issues/9) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#61](https://github.com/JuliaLang/Microbenchmarks/issues/61) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-4. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#1308](https://github.com/chaotic-aur/packages/issues/1308) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+2. 🗣 Commented on [#1308](https://github.com/chaotic-aur/packages/issues/1308) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+3. 🗣 Commented on [#696](https://github.com/rocm-arch/rocm-arch/issues/696) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#9](https://github.com/acxz/pkgbuilds/issues/9) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#61](https://github.com/JuliaLang/Microbenchmarks/issues/61) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 
