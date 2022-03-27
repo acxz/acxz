@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Opened issue [#1](https://github.com/acxz/earth/issues/1) in [acxz/earth](https://github.com/acxz/earth)
+2. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 3. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🎉 Merged PR [#698](https://github.com/rocm-arch/rocm-arch/pull/698) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#1](https://github.com/acxz/earth/issues/1) in [acxz/earth](https://github.com/acxz/earth)
+5. 🗣 Commented on [#645](https://github.com/rocm-arch/rocm-arch/issues/645) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
