@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🗣 Commented on [#8](https://github.com/rocm-arch/python-pytorch-rocm/issues/8) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#32](https://github.com/rocm-arch/python-pytorch-rocm/issues/32) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. 🗣 Commented on [#684](https://github.com/rocm-arch/rocm-arch/issues/684) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#534](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/534) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+2. ❌ Closed PR [#525](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/pull/525) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+3. 🗣 Commented on [#534](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/534) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+4. 💪 Opened PR [#534](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/pull/534) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+5. 🗣 Commented on [#525](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/525) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
 <!--END_SECTION:activity-->
 
 <p align="center">
