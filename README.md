@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 💪 Opened PR [#709](https://github.com/rocm-arch/rocm-arch/pull/709) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#708](https://github.com/rocm-arch/rocm-arch/issues/708) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 3. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
 4. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
 5. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
