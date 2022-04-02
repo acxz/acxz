@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-roslib/issues/2) in [ros-noetic-arch/ros-noetic-roslib](https://github.com/ros-noetic-arch/ros-noetic-roslib)
-2. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-roslib/issues/2) in [ros-noetic-arch/ros-noetic-roslib](https://github.com/ros-noetic-arch/ros-noetic-roslib)
-3. 💪 Opened PR [#709](https://github.com/rocm-arch/rocm-arch/pull/709) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#708](https://github.com/rocm-arch/rocm-arch/issues/708) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❗️ Closed issue [#37](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/37) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+2. 🗣 Commented on [#37](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/37) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+3. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-roslib/issues/2) in [ros-noetic-arch/ros-noetic-roslib](https://github.com/ros-noetic-arch/ros-noetic-roslib)
+4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-roslib/issues/2) in [ros-noetic-arch/ros-noetic-roslib](https://github.com/ros-noetic-arch/ros-noetic-roslib)
+5. 💪 Opened PR [#709](https://github.com/rocm-arch/rocm-arch/pull/709) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
