@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#710](https://github.com/rocm-arch/rocm-arch/issues/710) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/9) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+1. 🗣 Commented on [#712](https://github.com/rocm-arch/rocm-arch/issues/712) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#710](https://github.com/rocm-arch/rocm-arch/issues/710) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 3. 🗣 Commented on [#710](https://github.com/rocm-arch/rocm-arch/issues/710) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#710](https://github.com/rocm-arch/rocm-arch/issues/710) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#78](https://github.com/arch4edu/arch4edu/issues/78) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+4. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/9) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+5. 🗣 Commented on [#710](https://github.com/rocm-arch/rocm-arch/issues/710) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
