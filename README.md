@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#811](https://github.com/deepmind/open_spiel/issues/811) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
-2. 🗣 Commented on [#175](https://github.com/acxz/pkgbuilds/issues/175) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Opened issue [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#23675](https://github.com/ray-project/ray/issues/23675) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
+2. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
+3. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#811](https://github.com/deepmind/open_spiel/issues/811) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
+5. 🗣 Commented on [#175](https://github.com/acxz/pkgbuilds/issues/175) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
