@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
-2. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
-3. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. ❗️ Opened issue [#811](https://github.com/deepmind/open_spiel/issues/811) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
-5. 🗣 Commented on [#175](https://github.com/acxz/pkgbuilds/issues/175) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. ❗️ Closed issue [#38](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/38) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+2. 🗣 Commented on [#38](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/38) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+3. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
+4. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
+5. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
