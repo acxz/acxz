@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#730](https://github.com/rocm-arch/rocm-arch/issues/730) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Closed issue [#38](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/38) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-3. 🗣 Commented on [#38](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/38) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-4. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
-5. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
+1. ❗️ Closed issue [#687](https://github.com/rocm-arch/rocm-arch/issues/687) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#687](https://github.com/rocm-arch/rocm-arch/issues/687) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#617](https://github.com/rocm-arch/rocm-arch/issues/617) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❌ Closed PR [#616](https://github.com/rocm-arch/rocm-arch/pull/616) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#616](https://github.com/rocm-arch/rocm-arch/issues/616) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
