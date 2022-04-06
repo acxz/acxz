@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#740](https://github.com/rocm-arch/rocm-arch/issues/740) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#24](https://github.com/reconnaissanceblindchess/reconchess/issues/24) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
-3. ❗️ Opened issue [#1](https://github.com/nswc-pcd-heron-stochastic-control/heron_simulator/issues/1) in [nswc-pcd-heron-stochastic-control/heron_simulator](https://github.com/nswc-pcd-heron-stochastic-control/heron_simulator)
-4. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/9) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-5. 🗣 Commented on [#177](https://github.com/acxz/pkgbuilds/issues/177) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#741](https://github.com/rocm-arch/rocm-arch/issues/741) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#740](https://github.com/rocm-arch/rocm-arch/issues/740) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#24](https://github.com/reconnaissanceblindchess/reconchess/issues/24) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+4. ❗️ Opened issue [#1](https://github.com/nswc-pcd-heron-stochastic-control/heron_simulator/issues/1) in [nswc-pcd-heron-stochastic-control/heron_simulator](https://github.com/nswc-pcd-heron-stochastic-control/heron_simulator)
+5. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/9) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 <!--END_SECTION:activity-->
 
 <p align="center">
