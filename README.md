@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-gazebo-plugins/pull/1) in [ros-noetic-arch/ros-noetic-gazebo-plugins](https://github.com/ros-noetic-arch/ros-noetic-gazebo-plugins)
-2. 🗣 Commented on [#740](https://github.com/rocm-arch/rocm-arch/issues/740) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#742](https://github.com/rocm-arch/rocm-arch/issues/742) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#740](https://github.com/rocm-arch/rocm-arch/issues/740) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🗣 Commented on [#24](https://github.com/reconnaissanceblindchess/reconchess/issues/24) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+1. ❗️ Opened issue [#716](https://github.com/Morganamilo/paru/issues/716) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+2. 🎉 Merged PR [#1](https://github.com/ros-noetic-arch/ros-noetic-gazebo-plugins/pull/1) in [ros-noetic-arch/ros-noetic-gazebo-plugins](https://github.com/ros-noetic-arch/ros-noetic-gazebo-plugins)
+3. 🗣 Commented on [#740](https://github.com/rocm-arch/rocm-arch/issues/740) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#742](https://github.com/rocm-arch/rocm-arch/issues/742) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#740](https://github.com/rocm-arch/rocm-arch/issues/740) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
