@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#748](https://github.com/rocm-arch/rocm-arch/issues/748) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Opened issue [#748](https://github.com/rocm-arch/rocm-arch/issues/748) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#5](https://github.com/talwat/pokeget/issues/5) in [talwat/pokeget](https://github.com/talwat/pokeget)
-4. 🗣 Commented on [#5](https://github.com/talwat/pokeget/issues/5) in [talwat/pokeget](https://github.com/talwat/pokeget)
-5. 🗣 Commented on [#665](https://github.com/rocm-arch/rocm-arch/issues/665) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#748](https://github.com/rocm-arch/rocm-arch/issues/748) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#748](https://github.com/rocm-arch/rocm-arch/issues/748) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#748](https://github.com/rocm-arch/rocm-arch/issues/748) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 💪 Opened PR [#749](https://github.com/rocm-arch/rocm-arch/pull/749) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
