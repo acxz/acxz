@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4373](https://github.com/matrix-org/matrix-react-sdk/issues/4373) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-2. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-3. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-4. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-5. 💪 Opened PR [#746](https://github.com/rocm-arch/rocm-arch/pull/746) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#5](https://github.com/talwat/pokeget/issues/5) in [talwat/pokeget](https://github.com/talwat/pokeget)
+2. 🗣 Commented on [#5](https://github.com/talwat/pokeget/issues/5) in [talwat/pokeget](https://github.com/talwat/pokeget)
+3. 🗣 Commented on [#665](https://github.com/rocm-arch/rocm-arch/issues/665) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Reopened issue [#741](https://github.com/rocm-arch/rocm-arch/issues/741) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#741](https://github.com/rocm-arch/rocm-arch/issues/741) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
