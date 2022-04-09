@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#746](https://github.com/rocm-arch/rocm-arch/pull/746) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❌ Closed PR [#23](https://github.com/ROCm-Developer-Tools/hipamd/pull/23) in [ROCm-Developer-Tools/hipamd](https://github.com/ROCm-Developer-Tools/hipamd)
-3. 🗣 Commented on [#23](https://github.com/ROCm-Developer-Tools/hipamd/issues/23) in [ROCm-Developer-Tools/hipamd](https://github.com/ROCm-Developer-Tools/hipamd)
-4. 💪 Opened PR [#2623](https://github.com/ROCm-Developer-Tools/HIP/pull/2623) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
-5. 🗣 Commented on [#745](https://github.com/rocm-arch/rocm-arch/issues/745) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#4373](https://github.com/matrix-org/matrix-react-sdk/issues/4373) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+2. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+3. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+4. 🗣 Commented on [#7726](https://github.com/matrix-org/matrix-react-sdk/issues/7726) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+5. 💪 Opened PR [#746](https://github.com/rocm-arch/rocm-arch/pull/746) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
