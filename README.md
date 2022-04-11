@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#759](https://github.com/rocm-arch/rocm-arch/issues/759) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 💪 Opened PR [#763](https://github.com/rocm-arch/rocm-arch/pull/763) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. ❗️ Opened issue [#762](https://github.com/rocm-arch/rocm-arch/issues/762) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 💪 Opened PR [#761](https://github.com/rocm-arch/rocm-arch/pull/761) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. ❗️ Opened issue [#760](https://github.com/rocm-arch/rocm-arch/issues/760) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. ❗️ Opened issue [#35](https://github.com/rocm-arch/python-pytorch-rocm/issues/35) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#759](https://github.com/rocm-arch/rocm-arch/issues/759) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 💪 Opened PR [#763](https://github.com/rocm-arch/rocm-arch/pull/763) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#762](https://github.com/rocm-arch/rocm-arch/issues/762) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 💪 Opened PR [#761](https://github.com/rocm-arch/rocm-arch/pull/761) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
