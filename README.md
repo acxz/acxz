@@ -5,7 +5,7 @@
 2. 🗣 Commented on [#55](https://github.com/JuliaLang/Microbenchmarks/issues/55) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 3. 🗣 Commented on [#55](https://github.com/JuliaLang/Microbenchmarks/issues/55) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 4. 🗣 Commented on [#55](https://github.com/JuliaLang/Microbenchmarks/issues/55) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-chomp-motion-planner/issues/1) in [ros-noetic-arch/ros-noetic-chomp-motion-planner](https://github.com/ros-noetic-arch/ros-noetic-chomp-motion-planner)
+5. 🗣 Commented on [#55](https://github.com/JuliaLang/Microbenchmarks/issues/55) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 <p align="center">
