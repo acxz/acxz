@@ -4,8 +4,8 @@
 1. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
 2. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
 3. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
-4. 🗣 Commented on [#63](https://github.com/JuliaLang/Microbenchmarks/issues/63) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. 🗣 Commented on [#144](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime/issues/144) in [RadeonOpenCompute/ROCm-OpenCL-Runtime](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime)
+4. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
+5. 🗣 Commented on [#63](https://github.com/JuliaLang/Microbenchmarks/issues/63) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 <p align="center">
