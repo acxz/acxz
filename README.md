@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
+1. 🗣 Commented on [#66](https://github.com/hzeller/timg/issues/66) in [hzeller/timg](https://github.com/hzeller/timg)
 2. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
-3. ❌ Closed PR [#80](https://github.com/hzeller/timg/pull/80) in [hzeller/timg](https://github.com/hzeller/timg)
-4. 🗣 Commented on [#80](https://github.com/hzeller/timg/issues/80) in [hzeller/timg](https://github.com/hzeller/timg)
+3. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
+4. ❌ Closed PR [#80](https://github.com/hzeller/timg/pull/80) in [hzeller/timg](https://github.com/hzeller/timg)
 5. 🗣 Commented on [#80](https://github.com/hzeller/timg/issues/80) in [hzeller/timg](https://github.com/hzeller/timg)
 <!--END_SECTION:activity-->
 
