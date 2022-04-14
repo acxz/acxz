@@ -2,8 +2,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#80](https://github.com/hzeller/timg/issues/80) in [hzeller/timg](https://github.com/hzeller/timg)
-2. 💪 Opened PR [#80](https://github.com/hzeller/timg/pull/80) in [hzeller/timg](https://github.com/hzeller/timg)
-3. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
+2. 🗣 Commented on [#80](https://github.com/hzeller/timg/issues/80) in [hzeller/timg](https://github.com/hzeller/timg)
+3. 💪 Opened PR [#80](https://github.com/hzeller/timg/pull/80) in [hzeller/timg](https://github.com/hzeller/timg)
 4. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
 5. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
 <!--END_SECTION:activity-->
