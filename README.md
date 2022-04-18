@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/rocm-arch/python-torchvision-rocm/issues/1) in [rocm-arch/python-torchvision-rocm](https://github.com/rocm-arch/python-torchvision-rocm)
-2. 🗣 Commented on [#1](https://github.com/rocm-arch/python-torchvision-rocm/issues/1) in [rocm-arch/python-torchvision-rocm](https://github.com/rocm-arch/python-torchvision-rocm)
-3. 🗣 Commented on [#1](https://github.com/rocm-arch/python-torchvision-rocm/issues/1) in [rocm-arch/python-torchvision-rocm](https://github.com/rocm-arch/python-torchvision-rocm)
-4. ❗️ Reopened issue [#1](https://github.com/rocm-arch/python-torchvision-rocm/issues/1) in [rocm-arch/python-torchvision-rocm](https://github.com/rocm-arch/python-torchvision-rocm)
-5. 🗣 Commented on [#1](https://github.com/rocm-arch/python-torchvision-rocm/issues/1) in [rocm-arch/python-torchvision-rocm](https://github.com/rocm-arch/python-torchvision-rocm)
+1. ❗️ Opened issue [#771](https://github.com/rocm-arch/rocm-arch/issues/771) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Opened issue [#3](https://github.com/rocm-arch/hipmagma/issues/3) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+3. ❗️ Opened issue [#2](https://github.com/rocm-arch/hipmagma/issues/2) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+4. 🗣 Commented on [#1](https://github.com/rocm-arch/hipmagma/issues/1) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+5. ❗️ Closed issue [#1](https://github.com/rocm-arch/hipmagma/issues/1) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
 <!--END_SECTION:activity-->
 
 <p align="center">
