@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#716](https://github.com/chubin/wttr.in/issues/716) in [chubin/wttr.in](https://github.com/chubin/wttr.in)
-2. ❗️ Opened issue [#771](https://github.com/rocm-arch/rocm-arch/issues/771) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. ❗️ Opened issue [#3](https://github.com/rocm-arch/hipmagma/issues/3) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-4. ❗️ Opened issue [#2](https://github.com/rocm-arch/hipmagma/issues/2) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-5. 🗣 Commented on [#1](https://github.com/rocm-arch/hipmagma/issues/1) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+2. 🗣 Commented on [#716](https://github.com/chubin/wttr.in/issues/716) in [chubin/wttr.in](https://github.com/chubin/wttr.in)
+3. ❗️ Opened issue [#771](https://github.com/rocm-arch/rocm-arch/issues/771) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#3](https://github.com/rocm-arch/hipmagma/issues/3) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+5. ❗️ Opened issue [#2](https://github.com/rocm-arch/hipmagma/issues/2) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
 <!--END_SECTION:activity-->
 
 <p align="center">
