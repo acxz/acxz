@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#811](https://github.com/deepmind/open_spiel/issues/811) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
-2. 🗣 Commented on [#188](https://github.com/unitedstates/congress/issues/188) in [unitedstates/congress](https://github.com/unitedstates/congress)
-3. 🗣 Commented on [#716](https://github.com/chubin/wttr.in/issues/716) in [chubin/wttr.in](https://github.com/chubin/wttr.in)
-4. 🗣 Commented on [#716](https://github.com/chubin/wttr.in/issues/716) in [chubin/wttr.in](https://github.com/chubin/wttr.in)
-5. ❗️ Opened issue [#771](https://github.com/rocm-arch/rocm-arch/issues/771) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#23246](https://github.com/ray-project/ray/issues/23246) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
+3. 🗣 Commented on [#1395](https://github.com/Arisotura/melonDS/issues/1395) in [Arisotura/melonDS](https://github.com/Arisotura/melonDS)
+4. 🗣 Commented on [#811](https://github.com/deepmind/open_spiel/issues/811) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
+5. 🗣 Commented on [#188](https://github.com/unitedstates/congress/issues/188) in [unitedstates/congress](https://github.com/unitedstates/congress)
 <!--END_SECTION:activity-->
 
 <p align="center">
