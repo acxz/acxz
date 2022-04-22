@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#818](https://github.com/deepmind/open_spiel/issues/818) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
-2. ❗️ Opened issue [#81](https://github.com/hzeller/timg/issues/81) in [hzeller/timg](https://github.com/hzeller/timg)
+1. 🗣 Commented on [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+2. 🗣 Commented on [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
 3. 🗣 Commented on [#818](https://github.com/deepmind/open_spiel/issues/818) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
-4. 🗣 Commented on [#817](https://github.com/deepmind/open_spiel/issues/817) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
-5. 💪 Opened PR [#818](https://github.com/deepmind/open_spiel/pull/818) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
+4. ❗️ Opened issue [#81](https://github.com/hzeller/timg/issues/81) in [hzeller/timg](https://github.com/hzeller/timg)
+5. 🗣 Commented on [#818](https://github.com/deepmind/open_spiel/issues/818) in [deepmind/open_spiel](https://github.com/deepmind/open_spiel)
 <!--END_SECTION:activity-->
 
 <p align="center">
