@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
+1. 🗣 Commented on [#771](https://github.com/rocm-arch/rocm-arch/issues/771) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 2. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
 3. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
-4. 🗣 Commented on [#439](https://github.com/alicevision/AliceVision/issues/439) in [alicevision/AliceVision](https://github.com/alicevision/AliceVision)
-5. 💪 Opened PR [#707](https://github.com/ClementTsang/bottom/pull/707) in [ClementTsang/bottom](https://github.com/ClementTsang/bottom)
+4. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
+5. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
 <!--END_SECTION:activity-->
 
 <p align="center">
