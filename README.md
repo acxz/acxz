@@ -2,9 +2,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
-2. 🗣 Commented on [#439](https://github.com/alicevision/AliceVision/issues/439) in [alicevision/AliceVision](https://github.com/alicevision/AliceVision)
-3. 💪 Opened PR [#707](https://github.com/ClementTsang/bottom/pull/707) in [ClementTsang/bottom](https://github.com/ClementTsang/bottom)
-4. 🗣 Commented on [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+2. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
+3. 🗣 Commented on [#439](https://github.com/alicevision/AliceVision/issues/439) in [alicevision/AliceVision](https://github.com/alicevision/AliceVision)
+4. 💪 Opened PR [#707](https://github.com/ClementTsang/bottom/pull/707) in [ClementTsang/bottom](https://github.com/ClementTsang/bottom)
 5. 🗣 Commented on [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
 <!--END_SECTION:activity-->
 
