@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#771](https://github.com/rocm-arch/rocm-arch/issues/771) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
+1. ❗️ Opened issue [#4](https://github.com/rocm-arch/hipmagma/issues/4) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+2. 🗣 Commented on [#771](https://github.com/rocm-arch/rocm-arch/issues/771) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 3. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
 4. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
 5. 🗣 Commented on [#595](https://github.com/alicevision/meshroom/issues/595) in [alicevision/meshroom](https://github.com/alicevision/meshroom)
