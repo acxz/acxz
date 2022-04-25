@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/rocm-arch/python-pytorch-rocm/issues/42) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. ❗️ Closed issue [#3](https://github.com/rocm-arch/hipmagma/issues/3) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-3. 🗣 Commented on [#3](https://github.com/rocm-arch/hipmagma/issues/3) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-4. 💪 Opened PR [#774](https://github.com/rocm-arch/rocm-arch/pull/774) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. ❗️ Opened issue [#4](https://github.com/rocm-arch/hipmagma/issues/4) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+1. 🗣 Commented on [#23](https://github.com/reconnaissanceblindchess/reconchess/issues/23) in [reconnaissanceblindchess/reconchess](https://github.com/reconnaissanceblindchess/reconchess)
+2. 🗣 Commented on [#42](https://github.com/rocm-arch/python-pytorch-rocm/issues/42) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. ❗️ Closed issue [#3](https://github.com/rocm-arch/hipmagma/issues/3) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+4. 🗣 Commented on [#3](https://github.com/rocm-arch/hipmagma/issues/3) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+5. 💪 Opened PR [#774](https://github.com/rocm-arch/rocm-arch/pull/774) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
