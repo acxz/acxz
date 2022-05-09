@@ -4,8 +4,8 @@
 1. 🗣 Commented on [#1](https://github.com/acxz/gazebo-arch/issues/1) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 2. 🗣 Commented on [#1](https://github.com/acxz/gazebo-arch/issues/1) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 3. 🗣 Commented on [#1](https://github.com/acxz/gazebo-arch/issues/1) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. ❗️ Opened issue [#5](https://github.com/acxz/gazebo-arch/issues/5) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. ❗️ Opened issue [#3](https://github.com/acxz/gazebo-arch/issues/3) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. 🗣 Commented on [#1](https://github.com/acxz/gazebo-arch/issues/1) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. ❗️ Opened issue [#5](https://github.com/acxz/gazebo-arch/issues/5) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
