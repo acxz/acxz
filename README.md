@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/acxz/ros-cudagl-container/issues/3) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
-2. 🗣 Commented on [#3](https://github.com/acxz/ros-cudagl-container/issues/3) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
-3. 💪 Opened PR [#1678](https://github.com/JuliaLang/www.julialang.org/pull/1678) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
-4. ❗️ Opened issue [#66](https://github.com/JuliaLang/Microbenchmarks/issues/66) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. 🎉 Merged PR [#61](https://github.com/JuliaLang/Microbenchmarks/pull/61) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+1. ❗️ Opened issue [#5](https://github.com/acxz/ros-cudagl-container/issues/5) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
+2. ❗️ Closed issue [#3](https://github.com/acxz/ros-cudagl-container/issues/3) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
+3. 🗣 Commented on [#3](https://github.com/acxz/ros-cudagl-container/issues/3) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
+4. 💪 Opened PR [#1678](https://github.com/JuliaLang/www.julialang.org/pull/1678) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+5. ❗️ Opened issue [#66](https://github.com/JuliaLang/Microbenchmarks/issues/66) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 <p align="center">
