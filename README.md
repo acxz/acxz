@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/JuliaLang/Microbenchmarks/issues/62) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-2. ❗️ Closed issue [#15](https://github.com/acxz/gazebo-arch/issues/15) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 🗣 Commented on [#15](https://github.com/acxz/gazebo-arch/issues/15) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. 🗣 Commented on [#11](https://github.com/acxz/gazebo-arch/issues/11) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 🗣 Commented on [#180](https://github.com/acxz/pkgbuilds/issues/180) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. ❗️ Opened issue [#460](https://github.com/osrf/vrx/issues/460) in [osrf/vrx](https://github.com/osrf/vrx)
+2. 🗣 Commented on [#62](https://github.com/JuliaLang/Microbenchmarks/issues/62) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+3. ❗️ Closed issue [#15](https://github.com/acxz/gazebo-arch/issues/15) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. 🗣 Commented on [#15](https://github.com/acxz/gazebo-arch/issues/15) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. 🗣 Commented on [#11](https://github.com/acxz/gazebo-arch/issues/11) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
