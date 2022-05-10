@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/acxz/gazebo-arch/issues/14) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-2. ❗️ Opened issue [#13](https://github.com/acxz/gazebo-arch/issues/13) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. ❗️ Opened issue [#12](https://github.com/acxz/gazebo-arch/issues/12) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. 🎉 Merged PR [#62](https://github.com/JuliaLang/Microbenchmarks/pull/62) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-5. 🗣 Commented on [#62](https://github.com/JuliaLang/Microbenchmarks/issues/62) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+1. 💪 Opened PR [#1678](https://github.com/JuliaLang/www.julialang.org/pull/1678) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+2. ❗️ Opened issue [#66](https://github.com/JuliaLang/Microbenchmarks/issues/66) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+3. 🎉 Merged PR [#61](https://github.com/JuliaLang/Microbenchmarks/pull/61) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+4. 🎉 Merged PR [#65](https://github.com/JuliaLang/Microbenchmarks/pull/65) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+5. 💪 Opened PR [#65](https://github.com/JuliaLang/Microbenchmarks/pull/65) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
 <!--END_SECTION:activity-->
 
 <p align="center">
