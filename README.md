@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#179](https://github.com/acxz/pkgbuilds/issues/179) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#179](https://github.com/acxz/pkgbuilds/issues/179) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#180](https://github.com/acxz/pkgbuilds/issues/180) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#17](https://github.com/acxz/gazebo-arch/issues/17) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 🗣 Commented on [#16](https://github.com/acxz/gazebo-arch/issues/16) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. ❗️ Opened issue [#18](https://github.com/acxz/gazebo-arch/issues/18) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. ❗️ Closed issue [#179](https://github.com/acxz/pkgbuilds/issues/179) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#179](https://github.com/acxz/pkgbuilds/issues/179) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#180](https://github.com/acxz/pkgbuilds/issues/180) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#17](https://github.com/acxz/gazebo-arch/issues/17) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
