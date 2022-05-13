@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/acxz/pkgbuilds/issues/180) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#13](https://github.com/acxz/gazebo-arch/issues/13) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. ❗️ Opened issue [#23](https://github.com/acxz/gazebo-arch/issues/23) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. ❗️ Opened issue [#22](https://github.com/acxz/gazebo-arch/issues/22) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 🗣 Commented on [#13](https://github.com/acxz/gazebo-arch/issues/13) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. 🗣 Commented on [#1678](https://github.com/JuliaLang/www.julialang.org/issues/1678) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+2. 🗣 Commented on [#1678](https://github.com/JuliaLang/www.julialang.org/issues/1678) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+3. 🗣 Commented on [#180](https://github.com/acxz/pkgbuilds/issues/180) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#13](https://github.com/acxz/gazebo-arch/issues/13) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. ❗️ Opened issue [#23](https://github.com/acxz/gazebo-arch/issues/23) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
