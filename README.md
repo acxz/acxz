@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#373](https://github.com/OctoMap/octomap/pull/373) in [OctoMap/octomap](https://github.com/OctoMap/octomap)
-2. 🗣 Commented on [#190](https://github.com/acxz/pkgbuilds/issues/190) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Opened issue [#372](https://github.com/OctoMap/octomap/issues/372) in [OctoMap/octomap](https://github.com/OctoMap/octomap)
-4. ❗️ Opened issue [#190](https://github.com/acxz/pkgbuilds/issues/190) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#5](https://github.com/acxz/ros-cudagl-container/issues/5) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
+1. 🗣 Commented on [#39](https://github.com/rocm-arch/tensorflow-rocm/issues/39) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 💪 Opened PR [#373](https://github.com/OctoMap/octomap/pull/373) in [OctoMap/octomap](https://github.com/OctoMap/octomap)
+3. 🗣 Commented on [#190](https://github.com/acxz/pkgbuilds/issues/190) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Opened issue [#372](https://github.com/OctoMap/octomap/issues/372) in [OctoMap/octomap](https://github.com/OctoMap/octomap)
+5. ❗️ Opened issue [#190](https://github.com/acxz/pkgbuilds/issues/190) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
