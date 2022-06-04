@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#716](https://github.com/chubin/wttr.in/issues/716) in [chubin/wttr.in](https://github.com/chubin/wttr.in)
-2. 🗣 Commented on [#29](https://github.com/acxz/gazebo-arch/issues/29) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 🗣 Commented on [#18](https://github.com/acxz/gazebo-arch/issues/18) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. ❌ Closed PR [#30](https://github.com/acxz/gazebo-arch/pull/30) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 🎉 Merged PR [#28](https://github.com/acxz/gazebo-arch/pull/28) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. 🗣 Commented on [#716](https://github.com/chubin/wttr.in/issues/716) in [chubin/wttr.in](https://github.com/chubin/wttr.in)
+3. 🗣 Commented on [#29](https://github.com/acxz/gazebo-arch/issues/29) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. 🗣 Commented on [#18](https://github.com/acxz/gazebo-arch/issues/18) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. ❌ Closed PR [#30](https://github.com/acxz/gazebo-arch/pull/30) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
