@@ -3,9 +3,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45592](https://github.com/JuliaLang/julia/issues/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
 2. 🗣 Commented on [#45592](https://github.com/JuliaLang/julia/issues/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-3. 💪 Opened PR [#45592](https://github.com/JuliaLang/julia/pull/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-4. 💪 Opened PR [#1](https://github.com/acxz/julia/pull/1) in [acxz/julia](https://github.com/acxz/julia)
-5. 🗣 Commented on [#67](https://github.com/JuliaLang/Microbenchmarks/issues/67) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+3. 🗣 Commented on [#45592](https://github.com/JuliaLang/julia/issues/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+4. 💪 Opened PR [#45592](https://github.com/JuliaLang/julia/pull/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+5. 💪 Opened PR [#1](https://github.com/acxz/julia/pull/1) in [acxz/julia](https://github.com/acxz/julia)
 <!--END_SECTION:activity-->
 
 <p align="center">
