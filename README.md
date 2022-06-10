@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45592](https://github.com/JuliaLang/julia/issues/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-2. 🗣 Commented on [#45592](https://github.com/JuliaLang/julia/issues/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-3. 🗣 Commented on [#45592](https://github.com/JuliaLang/julia/issues/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-4. 🗣 Commented on [#45592](https://github.com/JuliaLang/julia/issues/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-5. 💪 Opened PR [#45592](https://github.com/JuliaLang/julia/pull/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+1. ❗️ Reopened issue [#3](https://github.com/rocm-arch/python-pytorch-rocm/issues/3) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#195](https://github.com/acxz/pkgbuilds/issues/195) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#77](https://github.com/hzeller/timg/issues/77) in [hzeller/timg](https://github.com/hzeller/timg)
+4. ❗️ Reopened issue [#67](https://github.com/JuliaLang/Microbenchmarks/issues/67) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+5. 🗣 Commented on [#45592](https://github.com/JuliaLang/julia/issues/45592) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
 <!--END_SECTION:activity-->
 
 <p align="center">
