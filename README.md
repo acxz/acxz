@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/acxz/gazebo-arch/issues/33) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-2. 🗣 Commented on [#15](https://github.com/stevesdawg/govstat/issues/15) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-3. 🗣 Commented on [#70297](https://github.com/pytorch/pytorch/issues/70297) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-4. 🗣 Commented on [#73113](https://github.com/pytorch/pytorch/issues/73113) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-5. 🗣 Commented on [#70298](https://github.com/pytorch/pytorch/issues/70298) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. ❗️ Closed issue [#34](https://github.com/acxz/gazebo-arch/issues/34) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. 🗣 Commented on [#34](https://github.com/acxz/gazebo-arch/issues/34) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+3. ❗️ Opened issue [#34](https://github.com/acxz/gazebo-arch/issues/34) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. ❗️ Closed issue [#23](https://github.com/acxz/gazebo-arch/issues/23) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. 🗣 Commented on [#23](https://github.com/acxz/gazebo-arch/issues/23) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
