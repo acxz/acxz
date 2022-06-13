@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#650](https://github.com/gazebosim/gz-rendering/pull/650) in [gazebosim/gz-rendering](https://github.com/gazebosim/gz-rendering)
-2. 🗣 Commented on [#31](https://github.com/acxz/gazebo-arch/issues/31) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 🗣 Commented on [#649](https://github.com/gazebosim/gz-rendering/issues/649) in [gazebosim/gz-rendering](https://github.com/gazebosim/gz-rendering)
-4. ❗️ Opened issue [#649](https://github.com/gazebosim/gz-rendering/issues/649) in [gazebosim/gz-rendering](https://github.com/gazebosim/gz-rendering)
-5. ❗️ Closed issue [#34](https://github.com/acxz/gazebo-arch/issues/34) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. 🗣 Commented on [#33](https://github.com/acxz/gazebo-arch/issues/33) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. 🗣 Commented on [#32](https://github.com/acxz/gazebo-arch/issues/32) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+3. 🗣 Commented on [#3228](https://github.com/osrf/gazebo/issues/3228) in [osrf/gazebo](https://github.com/osrf/gazebo)
+4. 🗣 Commented on [#32](https://github.com/acxz/gazebo-arch/issues/32) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. 🗣 Commented on [#20](https://github.com/acxz/gazebo-arch/issues/20) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
