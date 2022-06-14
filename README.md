@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/issues/6223) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
-2. 🗣 Commented on [#182](https://github.com/plotly/graphing-library-docs/issues/182) in [plotly/graphing-library-docs](https://github.com/plotly/graphing-library-docs)
-3. 🗣 Commented on [#196](https://github.com/acxz/pkgbuilds/issues/196) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#196](https://github.com/acxz/pkgbuilds/issues/196) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#14](https://github.com/acxz/gazebo-arch/issues/14) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. 🗣 Commented on [#2](https://github.com/acxz/gazebo-arch/issues/2) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/issues/6223) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+3. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/issues/6223) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+4. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/issues/6223) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+5. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/issues/6223) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
 <!--END_SECTION:activity-->
 
 <p align="center">
