@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#236](https://github.com/gazebosim/gz-sensors/issues/236) in [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors)
-2. 🗣 Commented on [#197](https://github.com/acxz/pkgbuilds/issues/197) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#235](https://github.com/osrf/vrx/issues/235) in [osrf/vrx](https://github.com/osrf/vrx)
-4. 🗣 Commented on [#235](https://github.com/osrf/vrx/issues/235) in [osrf/vrx](https://github.com/osrf/vrx)
-5. 🗣 Commented on [#13396](https://github.com/containers/podman/issues/13396) in [containers/podman](https://github.com/containers/podman)
+1. 🗣 Commented on [#534](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/534) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+2. 🗣 Commented on [#524](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/524) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+3. ❗️ Closed issue [#524](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/524) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+4. 🗣 Commented on [#533](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/issues/533) in [ROCm-Developer-Tools/ROCmValidationSuite](https://github.com/ROCm-Developer-Tools/ROCmValidationSuite)
+5. ❗️ Opened issue [#236](https://github.com/gazebosim/gz-sensors/issues/236) in [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors)
 <!--END_SECTION:activity-->
 
 <p align="center">
