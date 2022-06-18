@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/JuliaLang/Microbenchmarks/pull/69) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-2. ❗️ Opened issue [#1](https://github.com/acxz/openfoam/issues/1) in [acxz/openfoam](https://github.com/acxz/openfoam)
-3. ❗️ Opened issue [#1](https://github.com/jeastnswc/openfoam/issues/1) in [jeastnswc/openfoam](https://github.com/jeastnswc/openfoam)
-4. ❗️ Closed issue [#12](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/12) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-5. 🗣 Commented on [#12](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/12) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+1. 🗣 Commented on [#68](https://github.com/JuliaLang/Microbenchmarks/issues/68) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+2. 💪 Opened PR [#69](https://github.com/JuliaLang/Microbenchmarks/pull/69) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+3. ❗️ Opened issue [#1](https://github.com/acxz/openfoam/issues/1) in [acxz/openfoam](https://github.com/acxz/openfoam)
+4. ❗️ Opened issue [#1](https://github.com/jeastnswc/openfoam/issues/1) in [jeastnswc/openfoam](https://github.com/jeastnswc/openfoam)
+5. ❗️ Closed issue [#12](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/12) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 <!--END_SECTION:activity-->
 
 <p align="center">
