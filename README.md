@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/acxz/pkgbuilds/issues/194) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#23246](https://github.com/ray-project/ray/issues/23246) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-libmavconn/issues/2) in [ros-noetic-arch/ros-noetic-libmavconn](https://github.com/ros-noetic-arch/ros-noetic-libmavconn)
-4. ❌ Closed PR [#6234](https://github.com/plotly/plotly.js/pull/6234) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
-5. 🗣 Commented on [#43](https://github.com/JuliaLang/Microbenchmarks/issues/43) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+1. 💪 Opened PR [#3](https://github.com/acxz/openfoam/pull/3) in [acxz/openfoam](https://github.com/acxz/openfoam)
+2. ❗️ Opened issue [#2](https://github.com/acxz/openfoam/issues/2) in [acxz/openfoam](https://github.com/acxz/openfoam)
+3. 🗣 Commented on [#194](https://github.com/acxz/pkgbuilds/issues/194) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#23246](https://github.com/ray-project/ray/issues/23246) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-libmavconn/issues/2) in [ros-noetic-arch/ros-noetic-libmavconn](https://github.com/ros-noetic-arch/ros-noetic-libmavconn)
 <!--END_SECTION:activity-->
 
 <p align="center">
