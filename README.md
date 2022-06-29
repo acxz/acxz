@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#199](https://github.com/acxz/pkgbuilds/issues/199) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#460](https://github.com/osrf/vrx/issues/460) in [osrf/vrx](https://github.com/osrf/vrx)
+1. 🗣 Commented on [#33](https://github.com/acxz/gazebo-arch/issues/33) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. ❗️ Opened issue [#199](https://github.com/acxz/pkgbuilds/issues/199) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 3. 🗣 Commented on [#460](https://github.com/osrf/vrx/issues/460) in [osrf/vrx](https://github.com/osrf/vrx)
-4. ❗️ Opened issue [#6](https://github.com/acxz/ros-cudagl-container/issues/6) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
-5. 💪 Opened PR [#3](https://github.com/acxz/openfoam/pull/3) in [acxz/openfoam](https://github.com/acxz/openfoam)
+4. 🗣 Commented on [#460](https://github.com/osrf/vrx/issues/460) in [osrf/vrx](https://github.com/osrf/vrx)
+5. ❗️ Opened issue [#6](https://github.com/acxz/ros-cudagl-container/issues/6) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
 <!--END_SECTION:activity-->
 
 <p align="center">
