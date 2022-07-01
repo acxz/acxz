@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-libmavconn/issues/2) in [ros-noetic-arch/ros-noetic-libmavconn](https://github.com/ros-noetic-arch/ros-noetic-libmavconn)
-2. ❗️ Closed issue [#31](https://github.com/acxz/gazebo-arch/issues/31) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 🗣 Commented on [#33](https://github.com/acxz/gazebo-arch/issues/33) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. ❗️ Opened issue [#199](https://github.com/acxz/pkgbuilds/issues/199) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#460](https://github.com/osrf/vrx/issues/460) in [osrf/vrx](https://github.com/osrf/vrx)
+1. 💪 Opened PR [#345](https://github.com/bitcraze/crazyflie-lib-python/pull/345) in [bitcraze/crazyflie-lib-python](https://github.com/bitcraze/crazyflie-lib-python)
+2. ❗️ Opened issue [#202](https://github.com/acxz/pkgbuilds/issues/202) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#12](https://github.com/acxz/pkgbuilds/issues/12) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#12](https://github.com/acxz/pkgbuilds/issues/12) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#553](https://github.com/gazebosim/gz-rendering/issues/553) in [gazebosim/gz-rendering](https://github.com/gazebosim/gz-rendering)
 <!--END_SECTION:activity-->
 
 <p align="center">
