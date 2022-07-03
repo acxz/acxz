@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/rocm-arch/python-pytorch-rocm/issues/38) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. ❗️ Closed issue [#43](https://github.com/rocm-arch/python-pytorch-rocm/issues/43) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🗣 Commented on [#37](https://github.com/rocm-arch/python-pytorch-rocm/issues/37) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. ❗️ Closed issue [#37](https://github.com/rocm-arch/python-pytorch-rocm/issues/37) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. ❌ Closed PR [#42](https://github.com/rocm-arch/python-pytorch-rocm/pull/42) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. ❗️ Opened issue [#45](https://github.com/rocm-arch/python-pytorch-rocm/issues/45) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#2623](https://github.com/ROCm-Developer-Tools/HIP/issues/2623) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
+3. 🗣 Commented on [#38](https://github.com/rocm-arch/python-pytorch-rocm/issues/38) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. ❗️ Closed issue [#43](https://github.com/rocm-arch/python-pytorch-rocm/issues/43) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. 🗣 Commented on [#37](https://github.com/rocm-arch/python-pytorch-rocm/issues/37) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
