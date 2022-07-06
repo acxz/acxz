@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/facebookresearch/pytorchvideo/issues/21) in [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo)
-2. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-catkin/issues/5) in [ros-noetic-arch/ros-noetic-catkin](https://github.com/ros-noetic-arch/ros-noetic-catkin)
-3. 🗣 Commented on [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
-4. ❌ Closed PR [#1](https://github.com/acxz/arch-pkgbuilds/pull/1) in [acxz/arch-pkgbuilds](https://github.com/acxz/arch-pkgbuilds)
-5. 💪 Opened PR [#51](https://github.com/anthraxx/arch-pkgbuilds/pull/51) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+1. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-catkin/issues/5) in [ros-noetic-arch/ros-noetic-catkin](https://github.com/ros-noetic-arch/ros-noetic-catkin)
+2. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/issues/6223) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+3. 🗣 Commented on [#21](https://github.com/facebookresearch/pytorchvideo/issues/21) in [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo)
+4. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-catkin/issues/5) in [ros-noetic-arch/ros-noetic-catkin](https://github.com/ros-noetic-arch/ros-noetic-catkin)
+5. 🗣 Commented on [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
