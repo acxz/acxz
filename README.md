@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41](https://github.com/rocm-arch/python-pytorch-rocm/issues/41) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. ❗️ Closed issue [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-catkin/issues/5) in [ros-noetic-arch/ros-noetic-catkin](https://github.com/ros-noetic-arch/ros-noetic-catkin)
-5. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/issues/6223) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+2. 🗣 Commented on [#41](https://github.com/rocm-arch/python-pytorch-rocm/issues/41) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. ❗️ Closed issue [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-catkin/issues/5) in [ros-noetic-arch/ros-noetic-catkin](https://github.com/ros-noetic-arch/ros-noetic-catkin)
 <!--END_SECTION:activity-->
 
 <p align="center">
