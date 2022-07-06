@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/rocm-arch/python-pytorch-rocm/issues/41) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. ❗️ Opened issue [#3](https://github.com/talwat/pokeget/issues/3) in [talwat/pokeget](https://github.com/talwat/pokeget)
 2. 🗣 Commented on [#41](https://github.com/rocm-arch/python-pytorch-rocm/issues/41) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. ❗️ Closed issue [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-catkin/issues/5) in [ros-noetic-arch/ros-noetic-catkin](https://github.com/ros-noetic-arch/ros-noetic-catkin)
+3. 🗣 Commented on [#41](https://github.com/rocm-arch/python-pytorch-rocm/issues/41) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. ❗️ Closed issue [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
