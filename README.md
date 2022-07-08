@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Closed issue [#18](https://github.com/acxz/gazebo-arch/issues/18) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. ❌ Closed PR [#33](https://github.com/acxz/gazebo-arch/pull/33) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. 🎉 Merged PR [#36](https://github.com/acxz/gazebo-arch/pull/36) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 🗣 Commented on [#46](https://github.com/rocm-arch/python-pytorch-rocm/issues/46) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. ❗️ Closed issue [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+2. 🗣 Commented on [#40](https://github.com/anthraxx/arch-pkgbuilds/issues/40) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+3. ❌ Closed PR [#51](https://github.com/anthraxx/arch-pkgbuilds/pull/51) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+4. 🗣 Commented on [#51](https://github.com/anthraxx/arch-pkgbuilds/issues/51) in [anthraxx/arch-pkgbuilds](https://github.com/anthraxx/arch-pkgbuilds)
+5. 🗣 Commented on [#203](https://github.com/acxz/pkgbuilds/issues/203) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
