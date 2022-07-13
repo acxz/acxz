@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21043](https://github.com/ArduPilot/ardupilot/issues/21043) in [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
-2. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui/issues/2) in [ros-noetic-arch/ros-noetic-rqt-gui](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui/issues/2) in [ros-noetic-arch/ros-noetic-rqt-gui](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui)
-4. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-libfranka/issues/3) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
-5. ❗️ Closed issue [#3](https://github.com/ros-noetic-arch/ros-noetic-libfranka/issues/3) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
+1. 🗣 Commented on [#21171](https://github.com/ArduPilot/ardupilot/issues/21171) in [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
+2. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-libfranka/issues/3) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
+3. 🗣 Commented on [#21043](https://github.com/ArduPilot/ardupilot/issues/21043) in [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
+4. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui/issues/2) in [ros-noetic-arch/ros-noetic-rqt-gui](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui)
+5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui/issues/2) in [ros-noetic-arch/ros-noetic-rqt-gui](https://github.com/ros-noetic-arch/ros-noetic-rqt-gui)
 <!--END_SECTION:activity-->
 
 <p align="center">
