@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#824](https://github.com/rocm-arch/rocm-arch/issues/824) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. ❗️ Closed issue [#180](https://github.com/acxz/pkgbuilds/issues/180) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#23675](https://github.com/ray-project/ray/issues/23675) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#26334](https://github.com/ray-project/ray/issues/26334) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#8496](https://github.com/ray-project/ray/issues/8496) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#825](https://github.com/rocm-arch/rocm-arch/issues/825) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#824](https://github.com/rocm-arch/rocm-arch/issues/824) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Closed issue [#180](https://github.com/acxz/pkgbuilds/issues/180) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#23675](https://github.com/ray-project/ray/issues/23675) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#26334](https://github.com/ray-project/ray/issues/26334) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <p align="center">
