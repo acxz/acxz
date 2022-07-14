@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-libfranka/issues/5) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
-2. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-libfranka/issues/4) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-octomap/issues/2) in [ros-noetic-arch/ros-noetic-octomap](https://github.com/ros-noetic-arch/ros-noetic-octomap)
+1. ❌ Closed PR [#4](https://github.com/ros-noetic-arch/ros-noetic-libfranka/pull/4) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
+2. 🗣 Commented on [#824](https://github.com/rocm-arch/rocm-arch/issues/824) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Reopened issue [#2](https://github.com/ros-noetic-arch/ros-noetic-octomap/issues/2) in [ros-noetic-arch/ros-noetic-octomap](https://github.com/ros-noetic-arch/ros-noetic-octomap)
 4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-octomap/issues/2) in [ros-noetic-arch/ros-noetic-octomap](https://github.com/ros-noetic-arch/ros-noetic-octomap)
-5. 🗣 Commented on [#190](https://github.com/acxz/pkgbuilds/issues/190) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Closed issue [#206](https://github.com/acxz/pkgbuilds/issues/206) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
