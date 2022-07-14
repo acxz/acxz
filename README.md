@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#824](https://github.com/rocm-arch/rocm-arch/issues/824) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#23246](https://github.com/ray-project/ray/issues/23246) in [ray-project/ray](https://github.com/ray-project/ray)
 2. 🗣 Commented on [#824](https://github.com/rocm-arch/rocm-arch/issues/824) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 3. 🗣 Commented on [#824](https://github.com/rocm-arch/rocm-arch/issues/824) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-libfranka/issues/5) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
-5. ❗️ Closed issue [#5](https://github.com/ros-noetic-arch/ros-noetic-libfranka/issues/5) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
+4. 🗣 Commented on [#824](https://github.com/rocm-arch/rocm-arch/issues/824) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-libfranka/issues/5) in [ros-noetic-arch/ros-noetic-libfranka](https://github.com/ros-noetic-arch/ros-noetic-libfranka)
 <!--END_SECTION:activity-->
 
 <p align="center">
