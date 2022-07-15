@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/ros-noetic-arch/ros-noetic-panda-moveit-config/issues/3) in [ros-noetic-arch/ros-noetic-panda-moveit-config](https://github.com/ros-noetic-arch/ros-noetic-panda-moveit-config)
-2. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-panda-moveit-config/issues/3) in [ros-noetic-arch/ros-noetic-panda-moveit-config](https://github.com/ros-noetic-arch/ros-noetic-panda-moveit-config)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-franka-ros/issues/2) in [ros-noetic-arch/ros-noetic-franka-ros](https://github.com/ros-noetic-arch/ros-noetic-franka-ros)
+1. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant/issues/4) in [ros-noetic-arch/ros-noetic-moveit-setup-assistant](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant)
+2. ❗️ Closed issue [#3](https://github.com/ros-noetic-arch/ros-noetic-panda-moveit-config/issues/3) in [ros-noetic-arch/ros-noetic-panda-moveit-config](https://github.com/ros-noetic-arch/ros-noetic-panda-moveit-config)
+3. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-panda-moveit-config/issues/3) in [ros-noetic-arch/ros-noetic-panda-moveit-config](https://github.com/ros-noetic-arch/ros-noetic-panda-moveit-config)
 4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-franka-ros/issues/2) in [ros-noetic-arch/ros-noetic-franka-ros](https://github.com/ros-noetic-arch/ros-noetic-franka-ros)
-5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/2) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-franka-ros/issues/2) in [ros-noetic-arch/ros-noetic-franka-ros](https://github.com/ros-noetic-arch/ros-noetic-franka-ros)
 <!--END_SECTION:activity-->
 
 <p align="center">
