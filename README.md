@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant/issues/4) in [ros-noetic-arch/ros-noetic-moveit-setup-assistant](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant)
-2. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-franka-ros/issues/2) in [ros-noetic-arch/ros-noetic-franka-ros](https://github.com/ros-noetic-arch/ros-noetic-franka-ros)
-3. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-franka-ros/issues/2) in [ros-noetic-arch/ros-noetic-franka-ros](https://github.com/ros-noetic-arch/ros-noetic-franka-ros)
-4. 🗣 Commented on [#115](https://github.com/JuliaGraphs/Graphs.jl/issues/115) in [JuliaGraphs/Graphs.jl](https://github.com/JuliaGraphs/Graphs.jl)
-5. 🗣 Commented on [#471](https://github.com/osrf/vrx/issues/471) in [osrf/vrx](https://github.com/osrf/vrx)
+1. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant/issues/4) in [ros-noetic-arch/ros-noetic-moveit-setup-assistant](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant)
+3. ❗️ Closed issue [#2](https://github.com/ros-noetic-arch/ros-noetic-franka-ros/issues/2) in [ros-noetic-arch/ros-noetic-franka-ros](https://github.com/ros-noetic-arch/ros-noetic-franka-ros)
+4. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-franka-ros/issues/2) in [ros-noetic-arch/ros-noetic-franka-ros](https://github.com/ros-noetic-arch/ros-noetic-franka-ros)
+5. 🗣 Commented on [#115](https://github.com/JuliaGraphs/Graphs.jl/issues/115) in [JuliaGraphs/Graphs.jl](https://github.com/JuliaGraphs/Graphs.jl)
 <!--END_SECTION:activity-->
 
 <p align="center">
