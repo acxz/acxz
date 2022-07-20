@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#472](https://github.com/osrf/vrx/issues/472) in [osrf/vrx](https://github.com/osrf/vrx)
+1. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant/issues/4) in [ros-noetic-arch/ros-noetic-moveit-setup-assistant](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant)
 2. 🗣 Commented on [#472](https://github.com/osrf/vrx/issues/472) in [osrf/vrx](https://github.com/osrf/vrx)
-3. 🗣 Commented on [#29](https://github.com/stevesdawg/govstat/issues/29) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
-4. 💪 Opened PR [#483](https://github.com/osrf/vrx/pull/483) in [osrf/vrx](https://github.com/osrf/vrx)
-5. 💪 Opened PR [#481](https://github.com/osrf/vrx/pull/481) in [osrf/vrx](https://github.com/osrf/vrx)
+3. 🗣 Commented on [#472](https://github.com/osrf/vrx/issues/472) in [osrf/vrx](https://github.com/osrf/vrx)
+4. 🗣 Commented on [#29](https://github.com/stevesdawg/govstat/issues/29) in [stevesdawg/govstat](https://github.com/stevesdawg/govstat)
+5. 💪 Opened PR [#483](https://github.com/osrf/vrx/pull/483) in [osrf/vrx](https://github.com/osrf/vrx)
 <!--END_SECTION:activity-->
 
 <p align="center">
