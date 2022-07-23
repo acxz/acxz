@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#487](https://github.com/osrf/vrx/issues/487) in [osrf/vrx](https://github.com/osrf/vrx)
-2. 🗣 Commented on [#472](https://github.com/osrf/vrx/issues/472) in [osrf/vrx](https://github.com/osrf/vrx)
-3. ❌ Closed PR [#26883](https://github.com/ray-project/ray/pull/26883) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#26883](https://github.com/ray-project/ray/issues/26883) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 💪 Opened PR [#26883](https://github.com/ray-project/ray/pull/26883) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 💪 Opened PR [#489](https://github.com/osrf/vrx/pull/489) in [osrf/vrx](https://github.com/osrf/vrx)
+3. ❗️ Opened issue [#488](https://github.com/osrf/vrx/issues/488) in [osrf/vrx](https://github.com/osrf/vrx)
+4. 🗣 Commented on [#487](https://github.com/osrf/vrx/issues/487) in [osrf/vrx](https://github.com/osrf/vrx)
+5. 🗣 Commented on [#472](https://github.com/osrf/vrx/issues/472) in [osrf/vrx](https://github.com/osrf/vrx)
 <!--END_SECTION:activity-->
 
 <p align="center">
