@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-2. ❗️ Closed issue [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-3. 🗣 Commented on [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+1. 🗣 Commented on [#2623](https://github.com/ROCm-Developer-Tools/HIP/issues/2623) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
+2. ❗️ Reopened issue [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+3. ❗️ Closed issue [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
 4. 🗣 Commented on [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-5. 🗣 Commented on [#2623](https://github.com/ROCm-Developer-Tools/HIP/issues/2623) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
+5. 🗣 Commented on [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
 <!--END_SECTION:activity-->
 
 <p align="center">
