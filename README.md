@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30302](https://github.com/grpc/grpc/issues/30302) in [grpc/grpc](https://github.com/grpc/grpc)
-2. ❗️ Reopened issue [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-3. 🗣 Commented on [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-4. 🗣 Commented on [#485](https://github.com/osrf/vrx/issues/485) in [osrf/vrx](https://github.com/osrf/vrx)
-5. 🗣 Commented on [#426](https://github.com/osrf/vrx/issues/426) in [osrf/vrx](https://github.com/osrf/vrx)
+1. 🗣 Commented on [#80849](https://github.com/pytorch/pytorch/issues/80849) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. 🗣 Commented on [#30302](https://github.com/grpc/grpc/issues/30302) in [grpc/grpc](https://github.com/grpc/grpc)
+3. ❗️ Reopened issue [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+4. 🗣 Commented on [#5](https://github.com/rocm-arch/hipmagma/issues/5) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+5. 🗣 Commented on [#485](https://github.com/osrf/vrx/issues/485) in [osrf/vrx](https://github.com/osrf/vrx)
 <!--END_SECTION:activity-->
 
 <p align="center">
