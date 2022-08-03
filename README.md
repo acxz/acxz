@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#495](https://github.com/osrf/vrx/issues/495) in [osrf/vrx](https://github.com/osrf/vrx)
-2. ❗️ Opened issue [#494](https://github.com/osrf/vrx/issues/494) in [osrf/vrx](https://github.com/osrf/vrx)
-3. 💪 Opened PR [#493](https://github.com/osrf/vrx/pull/493) in [osrf/vrx](https://github.com/osrf/vrx)
-4. ❗️ Opened issue [#492](https://github.com/osrf/vrx/issues/492) in [osrf/vrx](https://github.com/osrf/vrx)
-5. 💪 Opened PR [#37](https://github.com/acxz/gazebo-arch/pull/37) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. 💪 Opened PR [#496](https://github.com/osrf/vrx/pull/496) in [osrf/vrx](https://github.com/osrf/vrx)
+2. 🗣 Commented on [#489](https://github.com/osrf/vrx/issues/489) in [osrf/vrx](https://github.com/osrf/vrx)
+3. ❗️ Opened issue [#495](https://github.com/osrf/vrx/issues/495) in [osrf/vrx](https://github.com/osrf/vrx)
+4. ❗️ Opened issue [#494](https://github.com/osrf/vrx/issues/494) in [osrf/vrx](https://github.com/osrf/vrx)
+5. 💪 Opened PR [#493](https://github.com/osrf/vrx/pull/493) in [osrf/vrx](https://github.com/osrf/vrx)
 <!--END_SECTION:activity-->
 
 <p align="center">
