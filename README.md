@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#504](https://github.com/dgud/wings/issues/504) in [dgud/wings](https://github.com/dgud/wings)
-2. 💪 Opened PR [#496](https://github.com/osrf/vrx/pull/496) in [osrf/vrx](https://github.com/osrf/vrx)
-3. 🗣 Commented on [#489](https://github.com/osrf/vrx/issues/489) in [osrf/vrx](https://github.com/osrf/vrx)
-4. ❗️ Opened issue [#495](https://github.com/osrf/vrx/issues/495) in [osrf/vrx](https://github.com/osrf/vrx)
-5. ❗️ Opened issue [#494](https://github.com/osrf/vrx/issues/494) in [osrf/vrx](https://github.com/osrf/vrx)
+2. 🗣 Commented on [#504](https://github.com/dgud/wings/issues/504) in [dgud/wings](https://github.com/dgud/wings)
+3. 💪 Opened PR [#496](https://github.com/osrf/vrx/pull/496) in [osrf/vrx](https://github.com/osrf/vrx)
+4. 🗣 Commented on [#489](https://github.com/osrf/vrx/issues/489) in [osrf/vrx](https://github.com/osrf/vrx)
+5. ❗️ Opened issue [#495](https://github.com/osrf/vrx/issues/495) in [osrf/vrx](https://github.com/osrf/vrx)
 <!--END_SECTION:activity-->
 
 <p align="center">
