@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8993](https://github.com/darkreader/darkreader/issues/8993) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. 💪 Opened PR [#2849](https://github.com/ROCm-Developer-Tools/HIP/pull/2849) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
-3. 💪 Opened PR [#840](https://github.com/rocm-arch/rocm-arch/pull/840) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#504](https://github.com/dgud/wings/issues/504) in [dgud/wings](https://github.com/dgud/wings)
-5. 🗣 Commented on [#504](https://github.com/dgud/wings/issues/504) in [dgud/wings](https://github.com/dgud/wings)
+1. ❗️ Opened issue [#196](https://github.com/osrf/rocker/issues/196) in [osrf/rocker](https://github.com/osrf/rocker)
+2. 🗣 Commented on [#30302](https://github.com/grpc/grpc/issues/30302) in [grpc/grpc](https://github.com/grpc/grpc)
+3. 🗣 Commented on [#8993](https://github.com/darkreader/darkreader/issues/8993) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+4. 💪 Opened PR [#2849](https://github.com/ROCm-Developer-Tools/HIP/pull/2849) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
+5. 💪 Opened PR [#840](https://github.com/rocm-arch/rocm-arch/pull/840) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
