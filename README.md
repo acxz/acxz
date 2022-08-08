@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. ❗️ Opened issue [#4](https://github.com/mafik/ansi-art/issues/4) in [mafik/ansi-art](https://github.com/mafik/ansi-art)
-4. ❗️ Closed issue [#194](https://github.com/acxz/pkgbuilds/issues/194) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#194](https://github.com/acxz/pkgbuilds/issues/194) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#47](https://github.com/rocm-arch/python-pytorch-rocm/issues/47) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. ❗️ Closed issue [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. ❗️ Opened issue [#4](https://github.com/mafik/ansi-art/issues/4) in [mafik/ansi-art](https://github.com/mafik/ansi-art)
+5. ❗️ Closed issue [#194](https://github.com/acxz/pkgbuilds/issues/194) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
