@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/rocm-arch/python-pytorch-rocm/issues/47) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. ❗️ Closed issue [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. ❗️ Opened issue [#4](https://github.com/mafik/ansi-art/issues/4) in [mafik/ansi-art](https://github.com/mafik/ansi-art)
-5. ❗️ Closed issue [#194](https://github.com/acxz/pkgbuilds/issues/194) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#47](https://github.com/rocm-arch/python-pytorch-rocm/issues/47) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. ❗️ Closed issue [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. ❗️ Opened issue [#4](https://github.com/mafik/ansi-art/issues/4) in [mafik/ansi-art](https://github.com/mafik/ansi-art)
 <!--END_SECTION:activity-->
 
 <p align="center">
