@@ -2,8 +2,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/Morganamilo/aur-depends/issues/7) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
-2. ❗️ Opened issue [#7](https://github.com/Morganamilo/aur-depends/issues/7) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
-3. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+2. 🗣 Commented on [#7](https://github.com/Morganamilo/aur-depends/issues/7) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
+3. ❗️ Opened issue [#7](https://github.com/Morganamilo/aur-depends/issues/7) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
 4. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
 5. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
 <!--END_SECTION:activity-->
