@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
-2. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+1. 🗣 Commented on [#7](https://github.com/Morganamilo/aur-depends/issues/7) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
+2. ❗️ Opened issue [#7](https://github.com/Morganamilo/aur-depends/issues/7) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
 3. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
-4. 🗣 Commented on [#19394](https://github.com/ray-project/ray/issues/19394) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#47](https://github.com/rocm-arch/python-pytorch-rocm/issues/47) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+5. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
 <!--END_SECTION:activity-->
 
 <p align="center">
