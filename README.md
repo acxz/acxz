@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/Morganamilo/aur-depends/issues/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
-2. 🗣 Commented on [#8](https://github.com/Morganamilo/aur-depends/issues/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
-3. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
-4. 🗣 Commented on [#37](https://github.com/acxz/gazebo-arch/issues/37) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 💪 Opened PR [#8](https://github.com/Morganamilo/aur-depends/pull/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
+2. 🗣 Commented on [#20](https://github.com/heron/heron/issues/20) in [heron/heron](https://github.com/heron/heron)
+3. 🗣 Commented on [#8](https://github.com/Morganamilo/aur-depends/issues/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
+4. 🗣 Commented on [#8](https://github.com/Morganamilo/aur-depends/issues/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
+5. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
 <!--END_SECTION:activity-->
 
 <p align="center">
