@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
-2. 🗣 Commented on [#37](https://github.com/acxz/gazebo-arch/issues/37) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 💪 Opened PR [#8](https://github.com/Morganamilo/aur-depends/pull/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
-4. 🗣 Commented on [#7](https://github.com/Morganamilo/aur-depends/issues/7) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
-5. 🗣 Commented on [#7](https://github.com/Morganamilo/aur-depends/issues/7) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
+1. 🗣 Commented on [#8](https://github.com/Morganamilo/aur-depends/issues/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
+2. 🗣 Commented on [#8](https://github.com/Morganamilo/aur-depends/issues/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
+3. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+4. 🗣 Commented on [#37](https://github.com/acxz/gazebo-arch/issues/37) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. 💪 Opened PR [#8](https://github.com/Morganamilo/aur-depends/pull/8) in [Morganamilo/aur-depends](https://github.com/Morganamilo/aur-depends)
 <!--END_SECTION:activity-->
 
 <p align="center">
