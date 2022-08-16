@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/acxz/pokeshell/issues/5) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-2. ❗️ Closed issue [#846](https://github.com/rocm-arch/rocm-arch/issues/846) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🗣 Commented on [#846](https://github.com/rocm-arch/rocm-arch/issues/846) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#102](https://github.com/hpjansson/chafa/issues/102) in [hpjansson/chafa](https://github.com/hpjansson/chafa)
-5. 🗣 Commented on [#82](https://github.com/hzeller/timg/issues/82) in [hzeller/timg](https://github.com/hzeller/timg)
+2. 🗣 Commented on [#43](https://github.com/rocm-arch/tensorflow-rocm/issues/43) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+3. 🗣 Commented on [#5](https://github.com/acxz/pokeshell/issues/5) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+4. 🗣 Commented on [#5](https://github.com/acxz/pokeshell/issues/5) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+5. ❗️ Closed issue [#846](https://github.com/rocm-arch/rocm-arch/issues/846) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
