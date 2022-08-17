@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/acxz/pokeshell/issues/5) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-2. ❗️ Reopened issue [#32](https://github.com/acxz/gazebo-arch/issues/32) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 🗣 Commented on [#32](https://github.com/acxz/gazebo-arch/issues/32) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. ❗️ Opened issue [#9](https://github.com/funilrys/aur-cava/issues/9) in [funilrys/aur-cava](https://github.com/funilrys/aur-cava)
-5. 🗣 Commented on [#47](https://github.com/rocm-arch/python-pytorch-rocm/issues/47) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. ❗️ Opened issue [#104](https://github.com/hpjansson/chafa/issues/104) in [hpjansson/chafa](https://github.com/hpjansson/chafa)
+2. 🗣 Commented on [#5](https://github.com/acxz/pokeshell/issues/5) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+3. ❗️ Reopened issue [#32](https://github.com/acxz/gazebo-arch/issues/32) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. 🗣 Commented on [#32](https://github.com/acxz/gazebo-arch/issues/32) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. ❗️ Opened issue [#9](https://github.com/funilrys/aur-cava/issues/9) in [funilrys/aur-cava](https://github.com/funilrys/aur-cava)
 <!--END_SECTION:activity-->
 
 <p align="center">
