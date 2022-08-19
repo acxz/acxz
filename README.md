@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/JuliaLang/Microbenchmarks/pull/72) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
-2. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#19116](https://github.com/ray-project/ray/issues/19116) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#2](https://github.com/rocm-arch/blender-rocm/issues/2) in [rocm-arch/blender-rocm](https://github.com/rocm-arch/blender-rocm)
-5. 🗣 Commented on [#5](https://github.com/acxz/pokeshell/issues/5) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. 🗣 Commented on [#6](https://github.com/acxz/pokeshell/issues/6) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+2. 💪 Opened PR [#72](https://github.com/JuliaLang/Microbenchmarks/pull/72) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+3. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#19116](https://github.com/ray-project/ray/issues/19116) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#2](https://github.com/rocm-arch/blender-rocm/issues/2) in [rocm-arch/blender-rocm](https://github.com/rocm-arch/blender-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
