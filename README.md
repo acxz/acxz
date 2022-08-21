@@ -3,9 +3,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
 2. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-3. 🗣 Commented on [#6](https://github.com/acxz/pokeshell/issues/6) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+3. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
 4. 🗣 Commented on [#6](https://github.com/acxz/pokeshell/issues/6) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-5. 💪 Opened PR [#72](https://github.com/JuliaLang/Microbenchmarks/pull/72) in [JuliaLang/Microbenchmarks](https://github.com/JuliaLang/Microbenchmarks)
+5. 🗣 Commented on [#6](https://github.com/acxz/pokeshell/issues/6) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
 <!--END_SECTION:activity-->
 
 <p align="center">
