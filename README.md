@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/saccharineboi/CursedGL/issues/2) in [saccharineboi/CursedGL](https://github.com/saccharineboi/CursedGL)
-2. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-3. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-4. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-mavros/issues/3) in [ros-noetic-arch/ros-noetic-mavros](https://github.com/ros-noetic-arch/ros-noetic-mavros)
+2. ❗️ Opened issue [#1774](https://github.com/mavlink/mavros/issues/1774) in [mavlink/mavros](https://github.com/mavlink/mavros)
+3. ❗️ Opened issue [#3](https://github.com/ros-noetic-arch/ros-noetic-mavros/issues/3) in [ros-noetic-arch/ros-noetic-mavros](https://github.com/ros-noetic-arch/ros-noetic-mavros)
+4. ❗️ Opened issue [#2](https://github.com/saccharineboi/CursedGL/issues/2) in [saccharineboi/CursedGL](https://github.com/saccharineboi/CursedGL)
 5. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
 <!--END_SECTION:activity-->
 
