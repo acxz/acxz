@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/acxz/pokeshell/issues/8) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. 🗣 Commented on [#250](https://github.com/ROCmSoftwarePlatform/rocSPARSE/issues/250) in [ROCmSoftwarePlatform/rocSPARSE](https://github.com/ROCmSoftwarePlatform/rocSPARSE)
 2. 🗣 Commented on [#8](https://github.com/acxz/pokeshell/issues/8) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
 3. 🗣 Commented on [#8](https://github.com/acxz/pokeshell/issues/8) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
 4. 🗣 Commented on [#8](https://github.com/acxz/pokeshell/issues/8) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
