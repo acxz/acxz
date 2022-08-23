@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10188](https://github.com/mavlink/qgroundcontrol/issues/10188) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-2. 🗣 Commented on [#10188](https://github.com/mavlink/qgroundcontrol/issues/10188) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-3. 🗣 Commented on [#10359](https://github.com/mavlink/qgroundcontrol/issues/10359) in [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
-4. 🗣 Commented on [#250](https://github.com/ROCmSoftwarePlatform/rocSPARSE/issues/250) in [ROCmSoftwarePlatform/rocSPARSE](https://github.com/ROCmSoftwarePlatform/rocSPARSE)
-5. 🗣 Commented on [#8](https://github.com/acxz/pokeshell/issues/8) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. 🗣 Commented on [#8496](https://github.com/ray-project/ray/issues/8496) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#1774](https://github.com/mavlink/mavros/issues/1774) in [mavlink/mavros](https://github.com/mavlink/mavros)
+3. ❌ Closed PR [#1776](https://github.com/mavlink/mavros/pull/1776) in [mavlink/mavros](https://github.com/mavlink/mavros)
+4. 🗣 Commented on [#1776](https://github.com/mavlink/mavros/issues/1776) in [mavlink/mavros](https://github.com/mavlink/mavros)
+5. 💪 Opened PR [#1776](https://github.com/mavlink/mavros/pull/1776) in [mavlink/mavros](https://github.com/mavlink/mavros)
 <!--END_SECTION:activity-->
 
 <p align="center">
