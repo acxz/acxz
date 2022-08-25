@@ -3,9 +3,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 2. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🗣 Commented on [#54](https://github.com/khancyr/ardupilot_gazebo/issues/54) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
-4. 🗣 Commented on [#8496](https://github.com/ray-project/ray/issues/8496) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#1774](https://github.com/mavlink/mavros/issues/1774) in [mavlink/mavros](https://github.com/mavlink/mavros)
+3. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#54](https://github.com/khancyr/ardupilot_gazebo/issues/54) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
+5. 🗣 Commented on [#8496](https://github.com/ray-project/ray/issues/8496) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <p align="center">
