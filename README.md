@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#9](https://github.com/funilrys/aur-cava/issues/9) in [funilrys/aur-cava](https://github.com/funilrys/aur-cava)
-3. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#9](https://github.com/funilrys/aur-cava/issues/9) in [funilrys/aur-cava](https://github.com/funilrys/aur-cava)
-5. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. 🗣 Commented on [#28123](https://github.com/ray-project/ray/issues/28123) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#27477](https://github.com/ray-project/ray/issues/27477) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#19116](https://github.com/ray-project/ray/issues/19116) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 💪 Opened PR [#28123](https://github.com/ray-project/ray/pull/28123) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#21221](https://github.com/ray-project/ray/issues/21221) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <p align="center">
