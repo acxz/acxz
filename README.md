@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. 🗣 Commented on [#28123](https://github.com/ray-project/ray/issues/28123) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#27477](https://github.com/ray-project/ray/issues/27477) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#19116](https://github.com/ray-project/ray/issues/19116) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 💪 Opened PR [#28123](https://github.com/ray-project/ray/pull/28123) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+3. 🗣 Commented on [#28123](https://github.com/ray-project/ray/issues/28123) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#27477](https://github.com/ray-project/ray/issues/27477) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#19116](https://github.com/ray-project/ray/issues/19116) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 <p align="center">
