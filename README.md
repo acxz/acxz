@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-2. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+1. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+2. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 3. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#54](https://github.com/khancyr/ardupilot_gazebo/issues/54) in [khancyr/ardupilot_gazebo](https://github.com/khancyr/ardupilot_gazebo)
-5. 🗣 Commented on [#8496](https://github.com/ray-project/ray/issues/8496) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+5. 🗣 Commented on [#48](https://github.com/rocm-arch/python-pytorch-rocm/issues/48) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
