@@ -5,7 +5,7 @@
 2. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 3. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 4. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-5. 🗣 Commented on [#28123](https://github.com/ray-project/ray/issues/28123) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
