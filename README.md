@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#500](https://github.com/osrf/vrx/issues/500) in [osrf/vrx](https://github.com/osrf/vrx)
-2. 🗣 Commented on [#86](https://github.com/ethz-asl/mav_comm/issues/86) in [ethz-asl/mav_comm](https://github.com/ethz-asl/mav_comm)
-3. 🗣 Commented on [#176](https://github.com/arch4edu/arch4edu/issues/176) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
-4. 🗣 Commented on [#8](https://github.com/acxz/pl-utils/issues/8) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
-5. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/9) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
+2. 🗣 Commented on [#500](https://github.com/osrf/vrx/issues/500) in [osrf/vrx](https://github.com/osrf/vrx)
+3. 🗣 Commented on [#86](https://github.com/ethz-asl/mav_comm/issues/86) in [ethz-asl/mav_comm](https://github.com/ethz-asl/mav_comm)
+4. 🗣 Commented on [#176](https://github.com/arch4edu/arch4edu/issues/176) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+5. 🗣 Commented on [#8](https://github.com/acxz/pl-utils/issues/8) in [acxz/pl-utils](https://github.com/acxz/pl-utils)
 <!--END_SECTION:activity-->
 
 <p align="center">
