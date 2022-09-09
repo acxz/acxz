@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13396](https://github.com/containers/podman/issues/13396) in [containers/podman](https://github.com/containers/podman)
-2. 🗣 Commented on [#35](https://github.com/http-party/http-server/issues/35) in [http-party/http-server](https://github.com/http-party/http-server)
-3. 🗣 Commented on [#500](https://github.com/osrf/vrx/issues/500) in [osrf/vrx](https://github.com/osrf/vrx)
-4. ❗️ Closed issue [#202](https://github.com/acxz/pkgbuilds/issues/202) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#202](https://github.com/acxz/pkgbuilds/issues/202) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#13396](https://github.com/containers/podman/issues/13396) in [containers/podman](https://github.com/containers/podman)
+3. 🗣 Commented on [#35](https://github.com/http-party/http-server/issues/35) in [http-party/http-server](https://github.com/http-party/http-server)
+4. 🗣 Commented on [#500](https://github.com/osrf/vrx/issues/500) in [osrf/vrx](https://github.com/osrf/vrx)
+5. ❗️ Closed issue [#202](https://github.com/acxz/pkgbuilds/issues/202) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
