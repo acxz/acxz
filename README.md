@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#202](https://github.com/acxz/pkgbuilds/issues/202) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#202](https://github.com/acxz/pkgbuilds/issues/202) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-4. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. 🗣 Commented on [#500](https://github.com/osrf/vrx/issues/500) in [osrf/vrx](https://github.com/osrf/vrx)
+2. ❗️ Closed issue [#202](https://github.com/acxz/pkgbuilds/issues/202) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#202](https://github.com/acxz/pkgbuilds/issues/202) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#49](https://github.com/rocm-arch/python-pytorch-rocm/issues/49) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
 5. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
 <!--END_SECTION:activity-->
 
