@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/acxz/flightgear-arch/issues/1) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-2. 🎉 Merged PR [#2](https://github.com/acxz/flightgear-arch/pull/2) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-3. 🗣 Commented on [#2](https://github.com/acxz/flightgear-arch/issues/2) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-4. ❗️ Opened issue [#3](https://github.com/acxz/flightgear-arch/issues/3) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-5. 🗣 Commented on [#2](https://github.com/acxz/flightgear-arch/issues/2) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+1. 🗣 Commented on [#4496](https://github.com/Lightning-AI/lightning/issues/4496) in [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning)
+2. ❗️ Closed issue [#1](https://github.com/acxz/flightgear-arch/issues/1) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+3. 🎉 Merged PR [#2](https://github.com/acxz/flightgear-arch/pull/2) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+4. 🗣 Commented on [#2](https://github.com/acxz/flightgear-arch/issues/2) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+5. ❗️ Opened issue [#3](https://github.com/acxz/flightgear-arch/issues/3) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
