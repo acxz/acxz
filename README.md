@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#853](https://github.com/rocm-arch/rocm-arch/issues/853) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#2](https://github.com/rocm-arch/python-torchvision-rocm/issues/2) in [rocm-arch/python-torchvision-rocm](https://github.com/rocm-arch/python-torchvision-rocm)
-3. 🗣 Commented on [#4496](https://github.com/Lightning-AI/lightning/issues/4496) in [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning)
-4. ❗️ Closed issue [#1](https://github.com/acxz/flightgear-arch/issues/1) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-5. 🎉 Merged PR [#2](https://github.com/acxz/flightgear-arch/pull/2) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+1. 🗣 Commented on [#857](https://github.com/rocm-arch/rocm-arch/issues/857) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#853](https://github.com/rocm-arch/rocm-arch/issues/853) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#2](https://github.com/rocm-arch/python-torchvision-rocm/issues/2) in [rocm-arch/python-torchvision-rocm](https://github.com/rocm-arch/python-torchvision-rocm)
+4. 🗣 Commented on [#4496](https://github.com/Lightning-AI/lightning/issues/4496) in [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning)
+5. ❗️ Closed issue [#1](https://github.com/acxz/flightgear-arch/issues/1) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
