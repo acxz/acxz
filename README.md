@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/acxz/pkgbuilds/issues/210) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#209](https://github.com/acxz/pkgbuilds/issues/209) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#28123](https://github.com/ray-project/ray/issues/28123) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#836](https://github.com/rocm-arch/rocm-arch/issues/836) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. 🎉 Merged PR [#208](https://github.com/acxz/pkgbuilds/pull/208) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#744](https://github.com/Morganamilo/paru/issues/744) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+2. 🗣 Commented on [#210](https://github.com/acxz/pkgbuilds/issues/210) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#209](https://github.com/acxz/pkgbuilds/issues/209) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#28123](https://github.com/ray-project/ray/issues/28123) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 🗣 Commented on [#836](https://github.com/rocm-arch/rocm-arch/issues/836) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
