@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#209](https://github.com/acxz/pkgbuilds/issues/209) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#209](https://github.com/acxz/pkgbuilds/issues/209) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Closed issue [#210](https://github.com/acxz/pkgbuilds/issues/210) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#210](https://github.com/acxz/pkgbuilds/issues/210) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#3](https://github.com/rocm-arch/blender-rocm/issues/3) in [rocm-arch/blender-rocm](https://github.com/rocm-arch/blender-rocm)
+1. ❗️ Closed issue [#42](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/42) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+2. 🗣 Commented on [#42](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/42) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+3. ❗️ Closed issue [#209](https://github.com/acxz/pkgbuilds/issues/209) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#209](https://github.com/acxz/pkgbuilds/issues/209) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Closed issue [#210](https://github.com/acxz/pkgbuilds/issues/210) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
