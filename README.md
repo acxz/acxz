@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Faerospace%2Fml%2Fgpu+software;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-cv-bridge/issues/1) in [ros-noetic-arch/ros-noetic-cv-bridge](https://github.com/ros-noetic-arch/ros-noetic-cv-bridge)
-2. 🗣 Commented on [#52](https://github.com/rocm-arch/python-pytorch-rocm/issues/52) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
-3. 🗣 Commented on [#4](https://github.com/acxz/flightgear-arch/issues/4) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-4. ❗️ Closed issue [#42](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/42) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-5. 🗣 Commented on [#42](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/42) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+1. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-rosbag/issues/3) in [ros-noetic-arch/ros-noetic-rosbag](https://github.com/ros-noetic-arch/ros-noetic-rosbag)
+2. ❗️ Closed issue [#1](https://github.com/ros-noetic-arch/ros-noetic-cv-bridge/issues/1) in [ros-noetic-arch/ros-noetic-cv-bridge](https://github.com/ros-noetic-arch/ros-noetic-cv-bridge)
+3. 🗣 Commented on [#52](https://github.com/rocm-arch/python-pytorch-rocm/issues/52) in [rocm-arch/python-pytorch-rocm](https://github.com/rocm-arch/python-pytorch-rocm)
+4. 🗣 Commented on [#4](https://github.com/acxz/flightgear-arch/issues/4) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+5. ❗️ Closed issue [#42](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/42) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
 <!--END_SECTION:activity-->
 
 <p align="center">
