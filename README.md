@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41](https://github.com/acxz/gazebo-arch/issues/41) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-2. 🎉 Merged PR [#40](https://github.com/acxz/gazebo-arch/pull/40) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 💪 Opened PR [#40](https://github.com/acxz/gazebo-arch/pull/40) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. 💪 Opened PR [#39](https://github.com/acxz/gazebo-arch/pull/39) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. ❗️ Closed issue [#183](https://github.com/acxz/pkgbuilds/issues/183) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗️ Reopened issue [#41](https://github.com/acxz/gazebo-arch/issues/41) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+3. 🗣 Commented on [#41](https://github.com/acxz/gazebo-arch/issues/41) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. 🎉 Merged PR [#40](https://github.com/acxz/gazebo-arch/pull/40) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. 💪 Opened PR [#40](https://github.com/acxz/gazebo-arch/pull/40) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
