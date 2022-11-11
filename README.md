@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/acxz/pokeshell/issues/10) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-2. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-rosbag/issues/3) in [ros-noetic-arch/ros-noetic-rosbag](https://github.com/ros-noetic-arch/ros-noetic-rosbag)
-3. 🗣 Commented on [#172](https://github.com/acxz/pkgbuilds/issues/172) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🎉 Merged PR [#213](https://github.com/acxz/pkgbuilds/pull/213) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#213](https://github.com/acxz/pkgbuilds/issues/213) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#11](https://github.com/acxz/pokeshell/issues/11) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+2. 🗣 Commented on [#10](https://github.com/acxz/pokeshell/issues/10) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+3. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-rosbag/issues/3) in [ros-noetic-arch/ros-noetic-rosbag](https://github.com/ros-noetic-arch/ros-noetic-rosbag)
+4. 🗣 Commented on [#172](https://github.com/acxz/pkgbuilds/issues/172) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🎉 Merged PR [#213](https://github.com/acxz/pkgbuilds/pull/213) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
