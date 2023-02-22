@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#214](https://github.com/acxz/pkgbuilds/pull/214) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#214](https://github.com/acxz/pkgbuilds/issues/214) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Opened issue [#225](https://github.com/acxz/pkgbuilds/issues/225) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🎉 Merged PR [#217](https://github.com/acxz/pkgbuilds/pull/217) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🎉 Merged PR [#222](https://github.com/acxz/pkgbuilds/pull/222) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#216](https://github.com/acxz/pkgbuilds/issues/216) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🎉 Merged PR [#216](https://github.com/acxz/pkgbuilds/pull/216) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🎉 Merged PR [#214](https://github.com/acxz/pkgbuilds/pull/214) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#214](https://github.com/acxz/pkgbuilds/issues/214) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Opened issue [#225](https://github.com/acxz/pkgbuilds/issues/225) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
