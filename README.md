@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#215](https://github.com/acxz/pkgbuilds/issues/215) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#215](https://github.com/acxz/pkgbuilds/issues/215) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#187](https://github.com/acxz/pkgbuilds/issues/187) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Closed issue [#224](https://github.com/acxz/pkgbuilds/issues/224) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#224](https://github.com/acxz/pkgbuilds/issues/224) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. ❗️ Closed issue [#48](https://github.com/rocm-arch/tensorflow-rocm/issues/48) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#48](https://github.com/rocm-arch/tensorflow-rocm/issues/48) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+3. ❗️ Closed issue [#215](https://github.com/acxz/pkgbuilds/issues/215) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#215](https://github.com/acxz/pkgbuilds/issues/215) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#187](https://github.com/acxz/pkgbuilds/issues/187) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
