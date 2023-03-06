@@ -18,4 +18,4 @@
   <img src=https://github-profile-trophy.vercel.app/?username=acxz&row=2&column=4 />
 </p>
 
-![activity-graph](https://activity-graph.herokuapp.com/graph?username=acxz&theme=aqua)
+![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=acxz&theme=aqua)
