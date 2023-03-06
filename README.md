@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/acxz/gazebo-arch/issues/52) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-2. 🗣 Commented on [#51](https://github.com/acxz/gazebo-arch/issues/51) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. ❗️ Closed issue [#219](https://github.com/acxz/pkgbuilds/issues/219) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#219](https://github.com/acxz/pkgbuilds/issues/219) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#219](https://github.com/acxz/pkgbuilds/issues/219) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. ❗️ Closed issue [#795](https://github.com/rocm-arch/rocm-arch/issues/795) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#795](https://github.com/rocm-arch/rocm-arch/issues/795) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. ❗️ Closed issue [#760](https://github.com/rocm-arch/rocm-arch/issues/760) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🗣 Commented on [#760](https://github.com/rocm-arch/rocm-arch/issues/760) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#922](https://github.com/rocm-arch/rocm-arch/issues/922) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
