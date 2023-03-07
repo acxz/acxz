@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1603](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX/issues/1603) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)
-2. ❗️ Closed issue [#51](https://github.com/acxz/gazebo-arch/issues/51) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 🗣 Commented on [#51](https://github.com/acxz/gazebo-arch/issues/51) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. 🗣 Commented on [#1602](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX/issues/1602) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)
-5. 🗣 Commented on [#227](https://github.com/acxz/pkgbuilds/issues/227) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#1602](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX/issues/1602) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)
+2. 🗣 Commented on [#1603](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX/issues/1603) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)
+3. ❗️ Closed issue [#51](https://github.com/acxz/gazebo-arch/issues/51) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. 🗣 Commented on [#51](https://github.com/acxz/gazebo-arch/issues/51) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. 🗣 Commented on [#1602](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX/issues/1602) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)
 <!--END_SECTION:activity-->
 
 <p align="center">
