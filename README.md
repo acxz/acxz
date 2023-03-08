@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/acxz/pkgbuilds/issues/227) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#1603](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX/issues/1603) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)
-3. 🗣 Commented on [#1602](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX/issues/1602) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)
-4. 🗣 Commented on [#1603](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX/issues/1603) in [ROCmSoftwarePlatform/AMDMIGraphX](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)
-5. ❗️ Closed issue [#51](https://github.com/acxz/gazebo-arch/issues/51) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. ❗️ Closed issue [#36](https://github.com/rocm-arch/tensorflow-rocm/issues/36) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#36](https://github.com/rocm-arch/tensorflow-rocm/issues/36) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+3. ❗️ Closed issue [#33](https://github.com/rocm-arch/tensorflow-rocm/issues/33) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+4. 🗣 Commented on [#33](https://github.com/rocm-arch/tensorflow-rocm/issues/33) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. ❗️ Closed issue [#32](https://github.com/rocm-arch/tensorflow-rocm/issues/32) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
