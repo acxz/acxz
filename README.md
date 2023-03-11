@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/acxz/flightgear-arch/issues/7) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-2. ❗️ Closed issue [#6](https://github.com/acxz/flightgear-arch/issues/6) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-3. 🎉 Merged PR [#8](https://github.com/acxz/flightgear-arch/pull/8) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-4. 🗣 Commented on [#8](https://github.com/acxz/flightgear-arch/issues/8) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-5. ❗️ Closed issue [#40](https://github.com/rocm-arch/tensorflow-rocm/issues/40) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. 🗣 Commented on [#227](https://github.com/acxz/pkgbuilds/issues/227) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗️ Closed issue [#7](https://github.com/acxz/flightgear-arch/issues/7) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+3. ❗️ Closed issue [#6](https://github.com/acxz/flightgear-arch/issues/6) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+4. 🎉 Merged PR [#8](https://github.com/acxz/flightgear-arch/pull/8) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+5. 🗣 Commented on [#8](https://github.com/acxz/flightgear-arch/issues/8) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
