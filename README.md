@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#59](https://github.com/acxz/gazebo-arch/issues/59) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-2. 🗣 Commented on [#59](https://github.com/acxz/gazebo-arch/issues/59) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. ❗️ Closed issue [#220](https://github.com/acxz/pkgbuilds/issues/220) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#220](https://github.com/acxz/pkgbuilds/issues/220) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Closed issue [#9](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros/issues/9) in [ros-noetic-arch/ros-noetic-pcl-ros](https://github.com/ros-noetic-arch/ros-noetic-pcl-ros)
+1. 🎉 Merged PR [#60](https://github.com/acxz/gazebo-arch/pull/60) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. 🗣 Commented on [#60](https://github.com/acxz/gazebo-arch/issues/60) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+3. ❗️ Closed issue [#59](https://github.com/acxz/gazebo-arch/issues/59) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. 🗣 Commented on [#59](https://github.com/acxz/gazebo-arch/issues/59) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. ❗️ Closed issue [#220](https://github.com/acxz/pkgbuilds/issues/220) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
