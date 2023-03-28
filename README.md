@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/acxz/flightgear-arch/issues/5) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-2. ❗️ Closed issue [#5](https://github.com/acxz/flightgear-arch/issues/5) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-3. ❗️ Closed issue [#8](https://github.com/rocm-arch/hipmagma/issues/8) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-4. 🗣 Commented on [#8](https://github.com/rocm-arch/hipmagma/issues/8) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
-5. 🗣 Commented on [#7](https://github.com/rocm-arch/hipmagma/issues/7) in [rocm-arch/hipmagma](https://github.com/rocm-arch/hipmagma)
+1. 🗣 Commented on [#212](https://github.com/acxz/pkgbuilds/issues/212) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗️ Reopened issue [#212](https://github.com/acxz/pkgbuilds/issues/212) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. ❗️ Reopened issue [#228](https://github.com/acxz/pkgbuilds/issues/228) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#5](https://github.com/acxz/flightgear-arch/issues/5) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+5. ❗️ Closed issue [#5](https://github.com/acxz/flightgear-arch/issues/5) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
