@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#334](https://github.com/alandefreitas/matplotplusplus/issues/334) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-2. 🗣 Commented on [#774](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/774) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
-3. 🗣 Commented on [#212](https://github.com/acxz/pkgbuilds/issues/212) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Reopened issue [#212](https://github.com/acxz/pkgbuilds/issues/212) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Reopened issue [#228](https://github.com/acxz/pkgbuilds/issues/228) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#334](https://github.com/alandefreitas/matplotplusplus/issues/334) in [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+3. 🗣 Commented on [#774](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/issues/774) in [GPUOpen-ProfessionalCompute-Libraries/MIVisionX](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+4. 🗣 Commented on [#212](https://github.com/acxz/pkgbuilds/issues/212) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Reopened issue [#212](https://github.com/acxz/pkgbuilds/issues/212) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
