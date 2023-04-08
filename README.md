@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19394](https://github.com/ray-project/ray/issues/19394) in [ray-project/ray](https://github.com/ray-project/ray)
-2. ❗️ Reopened issue [#62](https://github.com/acxz/gazebo-arch/issues/62) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. ❗️ Closed issue [#64](https://github.com/acxz/gazebo-arch/issues/64) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. 🗣 Commented on [#64](https://github.com/acxz/gazebo-arch/issues/64) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 🗣 Commented on [#229](https://github.com/acxz/pkgbuilds/issues/229) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. ❗️ Opened issue [#9](https://github.com/acxz/gym-ccc/issues/9) in [acxz/gym-ccc](https://github.com/acxz/gym-ccc)
+2. 🗣 Commented on [#19394](https://github.com/ray-project/ray/issues/19394) in [ray-project/ray](https://github.com/ray-project/ray)
+3. ❗️ Reopened issue [#62](https://github.com/acxz/gazebo-arch/issues/62) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+4. ❗️ Closed issue [#64](https://github.com/acxz/gazebo-arch/issues/64) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+5. 🗣 Commented on [#64](https://github.com/acxz/gazebo-arch/issues/64) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
