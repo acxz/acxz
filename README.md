@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Closed issue [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❗️ Closed issue [#232](https://github.com/acxz/pkgbuilds/issues/232) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#232](https://github.com/acxz/pkgbuilds/issues/232) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🎉 Merged PR [#234](https://github.com/acxz/pkgbuilds/pull/234) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#871](https://github.com/vector-im/element-desktop/issues/871) in [vector-im/element-desktop](https://github.com/vector-im/element-desktop)
+2. 🗣 Commented on [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. ❗️ Closed issue [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. ❗️ Closed issue [#232](https://github.com/acxz/pkgbuilds/issues/232) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#232](https://github.com/acxz/pkgbuilds/issues/232) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
