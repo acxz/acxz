@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#871](https://github.com/vector-im/element-desktop/issues/871) in [vector-im/element-desktop](https://github.com/vector-im/element-desktop)
-3. 🗣 Commented on [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. ❗️ Closed issue [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. ❗️ Closed issue [#232](https://github.com/acxz/pkgbuilds/issues/232) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#871](https://github.com/vector-im/element-desktop/issues/871) in [vector-im/element-desktop](https://github.com/vector-im/element-desktop)
+4. 🗣 Commented on [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. ❗️ Closed issue [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
