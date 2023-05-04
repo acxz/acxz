@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2787](https://github.com/ROCm-Developer-Tools/HIP/issues/2787) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
-2. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#3145](https://github.com/ROCm-Developer-Tools/HIP/issues/3145) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
+2. 🗣 Commented on [#2787](https://github.com/ROCm-Developer-Tools/HIP/issues/2787) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
 3. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#871](https://github.com/vector-im/element-desktop/issues/871) in [vector-im/element-desktop](https://github.com/vector-im/element-desktop)
-5. 🗣 Commented on [#193](https://github.com/acxz/pkgbuilds/issues/193) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#871](https://github.com/vector-im/element-desktop/issues/871) in [vector-im/element-desktop](https://github.com/vector-im/element-desktop)
 <!--END_SECTION:activity-->
 
 <p align="center">
