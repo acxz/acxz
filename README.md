@@ -2,9 +2,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#3145](https://github.com/ROCm-Developer-Tools/HIP/issues/3145) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
-3. 🗣 Commented on [#2787](https://github.com/ROCm-Developer-Tools/HIP/issues/2787) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
-4. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#3145](https://github.com/ROCm-Developer-Tools/HIP/issues/3145) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
+4. 🗣 Commented on [#2787](https://github.com/ROCm-Developer-Tools/HIP/issues/2787) in [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP)
 5. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
