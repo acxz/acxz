@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/41) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-2. 🗣 Commented on [#41](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/41) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-3. 🗣 Commented on [#221](https://github.com/arch4edu/arch4edu/issues/221) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
-4. ❗️ Opened issue [#47](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/47) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
-5. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-tf/issues/3) in [ros-noetic-arch/ros-noetic-tf](https://github.com/ros-noetic-arch/ros-noetic-tf)
+2. ❗️ Closed issue [#41](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/41) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+3. 🗣 Commented on [#41](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/41) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+4. 🗣 Commented on [#221](https://github.com/arch4edu/arch4edu/issues/221) in [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu)
+5. ❗️ Opened issue [#47](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/47) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
 <!--END_SECTION:activity-->
 
 <p align="center">
