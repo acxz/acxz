@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#237](https://github.com/acxz/pkgbuilds/issues/237) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. ❗️ Opened issue [#237](https://github.com/acxz/pkgbuilds/issues/237) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-tf/issues/3) in [ros-noetic-arch/ros-noetic-tf](https://github.com/ros-noetic-arch/ros-noetic-tf)
-5. ❗️ Closed issue [#41](https://github.com/ros-noetic-arch/ros-noetic-desktop-full/issues/41) in [ros-noetic-arch/ros-noetic-desktop-full](https://github.com/ros-noetic-arch/ros-noetic-desktop-full)
+2. 🗣 Commented on [#237](https://github.com/acxz/pkgbuilds/issues/237) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. ❗️ Opened issue [#237](https://github.com/acxz/pkgbuilds/issues/237) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#718](https://github.com/rocm-arch/rocm-arch/issues/718) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-tf/issues/3) in [ros-noetic-arch/ros-noetic-tf](https://github.com/ros-noetic-arch/ros-noetic-tf)
 <!--END_SECTION:activity-->
 
 <p align="center">
