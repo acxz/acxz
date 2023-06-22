@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#150](https://github.com/acxz/pkgbuilds/issues/150) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#150](https://github.com/acxz/pkgbuilds/issues/150) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🗣 Commented on [#245](https://github.com/acxz/pkgbuilds/issues/245) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🔒 Reopened issue [#245](https://github.com/acxz/pkgbuilds/issues/245) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#245](https://github.com/acxz/pkgbuilds/issues/245) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#248](https://github.com/acxz/pkgbuilds/issues/248) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🔒 Closed issue [#227](https://github.com/acxz/pkgbuilds/issues/227) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#227](https://github.com/acxz/pkgbuilds/issues/227) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🔒 Closed issue [#150](https://github.com/acxz/pkgbuilds/issues/150) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#150](https://github.com/acxz/pkgbuilds/issues/150) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
