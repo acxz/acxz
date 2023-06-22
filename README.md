@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#231](https://github.com/acxz/pkgbuilds/pull/231) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#231](https://github.com/acxz/pkgbuilds/issues/231) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. ❌ Closed PR [#3735](https://github.com/ros2/ros2_documentation/pull/3735) in [ros2/ros2_documentation](https://github.com/ros2/ros2_documentation)
-4. 💪 Opened PR [#3735](https://github.com/ros2/ros2_documentation/pull/3735) in [ros2/ros2_documentation](https://github.com/ros2/ros2_documentation)
-5. 🗣 Commented on [#66](https://github.com/acxz/gazebo-arch/issues/66) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. 🗣 Commented on [#245](https://github.com/acxz/pkgbuilds/issues/245) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🔒 Reopened issue [#245](https://github.com/acxz/pkgbuilds/issues/245) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#245](https://github.com/acxz/pkgbuilds/issues/245) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🔒 Closed issue [#245](https://github.com/acxz/pkgbuilds/issues/245) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🎉 Merged PR [#247](https://github.com/acxz/pkgbuilds/pull/247) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
