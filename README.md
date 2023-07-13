@@ -2,10 +2,10 @@
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#42](https://github.com/rocm-arch/tensorflow-rocm/issues/42) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-2. 🗣 Commented on [#42](https://github.com/rocm-arch/tensorflow-rocm/issues/42) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#42](https://github.com/rocm-arch/tensorflow-rocm/issues/42#issuecomment-1616249132) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 3. 🔒 Closed issue [#51](https://github.com/rocm-arch/tensorflow-rocm/issues/51) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 4. 🎉 Merged PR [#54](https://github.com/rocm-arch/tensorflow-rocm/pull/54) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#54](https://github.com/rocm-arch/tensorflow-rocm/issues/54) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🗣 Commented on [#54](https://github.com/rocm-arch/tensorflow-rocm/pull/54#issuecomment-1615976911) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
