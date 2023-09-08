@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#253](https://github.com/acxz/pkgbuilds/issues/253) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🗣 Commented on [#253](https://github.com/acxz/pkgbuilds/issues/253#issuecomment-1710907920) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🔒 Closed issue [#42](https://github.com/rocm-arch/tensorflow-rocm/issues/42) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-4. 🗣 Commented on [#42](https://github.com/rocm-arch/tensorflow-rocm/issues/42#issuecomment-1616249132) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 🔒 Closed issue [#51](https://github.com/rocm-arch/tensorflow-rocm/issues/51) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. 🗣 Commented on [#236](https://github.com/gazebosim/gz-sensors/issues/236#issuecomment-1710929346) in [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors)
+2. 🗣 Commented on [#81](https://github.com/acxz/gazebo-arch/pull/81#issuecomment-1710928637) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+3. 🔒 Closed issue [#254](https://github.com/acxz/pkgbuilds/issues/254) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#254](https://github.com/acxz/pkgbuilds/issues/254#issuecomment-1710925906) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🔒 Closed issue [#253](https://github.com/acxz/pkgbuilds/issues/253) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
