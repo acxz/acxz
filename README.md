@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#61823](https://github.com/tensorflow/tensorflow/issues/61823) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-2. 🗣 Commented on [#412](https://github.com/rocm-arch/rocm-arch/issues/412#issuecomment-1712543295) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🔒 Closed issue [#968](https://github.com/rocm-arch/rocm-arch/issues/968) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#968](https://github.com/rocm-arch/rocm-arch/issues/968#issuecomment-1712542381) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-5. ❌ Closed PR [#958](https://github.com/rocm-arch/rocm-arch/pull/958) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+1. 💪 Opened PR [#61824](https://github.com/tensorflow/tensorflow/pull/61824) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+2. ❗ Opened issue [#61823](https://github.com/tensorflow/tensorflow/issues/61823) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+3. 🗣 Commented on [#412](https://github.com/rocm-arch/rocm-arch/issues/412#issuecomment-1712543295) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. 🔒 Closed issue [#968](https://github.com/rocm-arch/rocm-arch/issues/968) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#968](https://github.com/rocm-arch/rocm-arch/issues/968#issuecomment-1712542381) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
