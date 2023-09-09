@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/rocm-arch/tensorflow-rocm/pull/58#issuecomment-1712390548) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-2. 🗣 Commented on [#22](https://github.com/rocm-arch/tensorflow-rocm/issues/22#issuecomment-1712389073) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-3. 🎉 Merged PR [#55](https://github.com/rocm-arch/tensorflow-rocm/pull/55) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-4. 🗣 Commented on [#55](https://github.com/rocm-arch/tensorflow-rocm/pull/55#issuecomment-1712388549) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#2632](https://github.com/rust-lang/rust-bindgen/issues/2632#issuecomment-1712273004) in [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen)
+1. 🎉 Merged PR [#59](https://github.com/rocm-arch/tensorflow-rocm/pull/59) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#59](https://github.com/rocm-arch/tensorflow-rocm/pull/59#issuecomment-1712392536) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+3. 🗣 Commented on [#58](https://github.com/rocm-arch/tensorflow-rocm/pull/58#issuecomment-1712390548) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+4. 🗣 Commented on [#22](https://github.com/rocm-arch/tensorflow-rocm/issues/22#issuecomment-1712389073) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🎉 Merged PR [#55](https://github.com/rocm-arch/tensorflow-rocm/pull/55) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
