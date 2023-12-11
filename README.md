@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1395](https://github.com/melonDS-emu/melonDS/pull/1395#issuecomment-1849263588) in [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS)
-2. 🗣 Commented on [#1395](https://github.com/melonDS-emu/melonDS/pull/1395#issuecomment-1849262396) in [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS)
-3. 🗣 Commented on [#2](https://github.com/acxz/gazebo-arch/issues/2#issuecomment-1824957739) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. 🔒 Closed issue [#2](https://github.com/acxz/gazebo-arch/issues/2) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 🗣 Commented on [#87](https://github.com/acxz/gazebo-arch/issues/87#issuecomment-1824955030) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. ❌ Closed PR [#2849](https://github.com/ROCm/HIP/pull/2849) in [ROCm/HIP](https://github.com/ROCm/HIP)
+2. 🗣 Commented on [#2849](https://github.com/ROCm/HIP/pull/2849#issuecomment-1849278388) in [ROCm/HIP](https://github.com/ROCm/HIP)
+3. 💪 Opened PR [#145](https://github.com/ROCm/HIPCC/pull/145) in [ROCm/HIPCC](https://github.com/ROCm/HIPCC)
+4. 🗣 Commented on [#3](https://github.com/ros-arch/ros-build-tools/issues/3#issuecomment-1849272658) in [ros-arch/ros-build-tools](https://github.com/ros-arch/ros-build-tools)
+5. 🔒 Closed issue [#3](https://github.com/ros-arch/ros-build-tools/issues/3) in [ros-arch/ros-build-tools](https://github.com/ros-arch/ros-build-tools)
 <!--END_SECTION:activity-->
 
 <p align="center">
