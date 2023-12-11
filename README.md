@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2849](https://github.com/ROCm/HIP/pull/2849) in [ROCm/HIP](https://github.com/ROCm/HIP)
-2. 🗣 Commented on [#2849](https://github.com/ROCm/HIP/pull/2849#issuecomment-1849278388) in [ROCm/HIP](https://github.com/ROCm/HIP)
-3. 💪 Opened PR [#145](https://github.com/ROCm/HIPCC/pull/145) in [ROCm/HIPCC](https://github.com/ROCm/HIPCC)
-4. 🗣 Commented on [#3](https://github.com/ros-arch/ros-build-tools/issues/3#issuecomment-1849272658) in [ros-arch/ros-build-tools](https://github.com/ros-arch/ros-build-tools)
-5. 🔒 Closed issue [#3](https://github.com/ros-arch/ros-build-tools/issues/3) in [ros-arch/ros-build-tools](https://github.com/ros-arch/ros-build-tools)
+1. 🗣 Commented on [#145](https://github.com/ROCm/HIPCC/pull/145#issuecomment-1850147892) in [ROCm/HIPCC](https://github.com/ROCm/HIPCC)
+2. ❌ Closed PR [#2849](https://github.com/ROCm/HIP/pull/2849) in [ROCm/HIP](https://github.com/ROCm/HIP)
+3. 🗣 Commented on [#2849](https://github.com/ROCm/HIP/pull/2849#issuecomment-1849278388) in [ROCm/HIP](https://github.com/ROCm/HIP)
+4. 💪 Opened PR [#145](https://github.com/ROCm/HIPCC/pull/145) in [ROCm/HIPCC](https://github.com/ROCm/HIPCC)
+5. 🗣 Commented on [#3](https://github.com/ros-arch/ros-build-tools/issues/3#issuecomment-1849272658) in [ros-arch/ros-build-tools](https://github.com/ros-arch/ros-build-tools)
 <!--END_SECTION:activity-->
 
 <p align="center">
