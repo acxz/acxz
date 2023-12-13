@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#353](https://github.com/hsahovic/poke-env/issues/353#issuecomment-1852243775) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
-2. 🗣 Commented on [#145](https://github.com/ROCm/HIPCC/pull/145#issuecomment-1850343129) in [ROCm/HIPCC](https://github.com/ROCm/HIPCC)
-3. 🗣 Commented on [#81](https://github.com/acxz/gazebo-arch/pull/81#issuecomment-1850337425) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-4. ❌ Closed PR [#81](https://github.com/acxz/gazebo-arch/pull/81) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-5. 🗣 Commented on [#84](https://github.com/acxz/gazebo-arch/pull/84#issuecomment-1850333999) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. 🗣 Commented on [#1650](https://github.com/ROCm/HIP/issues/1650#issuecomment-1853980967) in [ROCm/HIP](https://github.com/ROCm/HIP)
+2. 🗣 Commented on [#353](https://github.com/hsahovic/poke-env/issues/353#issuecomment-1853964043) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
+3. 🗣 Commented on [#353](https://github.com/hsahovic/poke-env/issues/353#issuecomment-1852243775) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
+4. 🗣 Commented on [#145](https://github.com/ROCm/HIPCC/pull/145#issuecomment-1850343129) in [ROCm/HIPCC](https://github.com/ROCm/HIPCC)
+5. 🗣 Commented on [#81](https://github.com/acxz/gazebo-arch/pull/81#issuecomment-1850337425) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
