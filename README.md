@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ros-noetic-arch/ros-noetic-depth-image-proc/pull/2) in [ros-noetic-arch/ros-noetic-depth-image-proc](https://github.com/ros-noetic-arch/ros-noetic-depth-image-proc)
-2. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-robot-state-publisher/pull/2#issuecomment-1857296293) in [ros-noetic-arch/ros-noetic-robot-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-robot-state-publisher)
-3. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-rosbag/issues/4#issuecomment-1857286303) in [ros-noetic-arch/ros-noetic-rosbag](https://github.com/ros-noetic-arch/ros-noetic-rosbag)
-4. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-rosbag/pull/5#issuecomment-1857285310) in [ros-noetic-arch/ros-noetic-rosbag](https://github.com/ros-noetic-arch/ros-noetic-rosbag)
-5. ❌ Closed PR [#5](https://github.com/ros-noetic-arch/ros-noetic-rosbag/pull/5) in [ros-noetic-arch/ros-noetic-rosbag](https://github.com/ros-noetic-arch/ros-noetic-rosbag)
+1. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-robot-localization/pull/3#issuecomment-1857315241) in [ros-noetic-arch/ros-noetic-robot-localization](https://github.com/ros-noetic-arch/ros-noetic-robot-localization)
+2. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-laser-filters/pull/1#issuecomment-1857312238) in [ros-noetic-arch/ros-noetic-laser-filters](https://github.com/ros-noetic-arch/ros-noetic-laser-filters)
+3. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-laser-assembler/pull/1#issuecomment-1857309710) in [ros-noetic-arch/ros-noetic-laser-assembler](https://github.com/ros-noetic-arch/ros-noetic-laser-assembler)
+4. 🎉 Merged PR [#2](https://github.com/ros-noetic-arch/ros-noetic-depth-image-proc/pull/2) in [ros-noetic-arch/ros-noetic-depth-image-proc](https://github.com/ros-noetic-arch/ros-noetic-depth-image-proc)
+5. 🗣 Commented on [#2](https://github.com/ros-noetic-arch/ros-noetic-robot-state-publisher/pull/2#issuecomment-1857296293) in [ros-noetic-arch/ros-noetic-robot-state-publisher](https://github.com/ros-noetic-arch/ros-noetic-robot-state-publisher)
 <!--END_SECTION:activity-->
 
 <p align="center">
