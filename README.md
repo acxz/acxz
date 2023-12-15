@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/6#issuecomment-1858357825) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
-2. 🔒 Closed issue [#6](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/6) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
-3. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-robot-localization/pull/3#issuecomment-1857315241) in [ros-noetic-arch/ros-noetic-robot-localization](https://github.com/ros-noetic-arch/ros-noetic-robot-localization)
-4. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-laser-filters/pull/1#issuecomment-1857312238) in [ros-noetic-arch/ros-noetic-laser-filters](https://github.com/ros-noetic-arch/ros-noetic-laser-filters)
-5. 🗣 Commented on [#1](https://github.com/ros-noetic-arch/ros-noetic-laser-assembler/pull/1#issuecomment-1857309710) in [ros-noetic-arch/ros-noetic-laser-assembler](https://github.com/ros-noetic-arch/ros-noetic-laser-assembler)
+1. 🗣 Commented on [#260](https://github.com/acxz/pkgbuilds/issues/260#issuecomment-1858428304) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. ❗ Opened issue [#260](https://github.com/acxz/pkgbuilds/issues/260) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#6](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/6#issuecomment-1858357825) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
+4. 🔒 Closed issue [#6](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/6) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
+5. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-robot-localization/pull/3#issuecomment-1857315241) in [ros-noetic-arch/ros-noetic-robot-localization](https://github.com/ros-noetic-arch/ros-noetic-robot-localization)
 <!--END_SECTION:activity-->
 
 <p align="center">
