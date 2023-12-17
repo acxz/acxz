@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/5#issuecomment-1859052198) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
-2. 🔒 Closed issue [#5](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/5) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
-3. 🔒 Closed issue [#9](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/9) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
-4. 🗣 Commented on [#9](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/9#issuecomment-1859049053) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
-5. 🗣 Commented on [#83](https://github.com/acxz/gazebo-arch/issues/83#issuecomment-1859046117) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+1. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant/issues/3#issuecomment-1859186766) in [ros-noetic-arch/ros-noetic-moveit-setup-assistant](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant)
+2. 🔒 Closed issue [#3](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant/issues/3) in [ros-noetic-arch/ros-noetic-moveit-setup-assistant](https://github.com/ros-noetic-arch/ros-noetic-moveit-setup-assistant)
+3. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/5#issuecomment-1859052198) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
+4. 🔒 Closed issue [#5](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/5) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
+5. 🔒 Closed issue [#9](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/9) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
 <!--END_SECTION:activity-->
 
 <p align="center">
