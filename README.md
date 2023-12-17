@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/acxz/openfoam/issues/4#issuecomment-1859220480) in [acxz/openfoam](https://github.com/acxz/openfoam)
-2. 🗣 Commented on [#4](https://github.com/acxz/openfoam/issues/4#issuecomment-1859208205) in [acxz/openfoam](https://github.com/acxz/openfoam)
-3. 🗣 Commented on [#53](https://github.com/ROCm/rocminfo/pull/53#issuecomment-1859207144) in [ROCm/rocminfo](https://github.com/ROCm/rocminfo)
-4. ❌ Closed PR [#53](https://github.com/ROCm/rocminfo/pull/53) in [ROCm/rocminfo](https://github.com/ROCm/rocminfo)
-5. 🗣 Commented on [#56](https://github.com/ROCm/rocminfo/issues/56#issuecomment-1859207073) in [ROCm/rocminfo](https://github.com/ROCm/rocminfo)
+1. 🎉 Merged PR [#3](https://github.com/ros-noetic-arch/ros-noetic-depth-image-proc/pull/3) in [ros-noetic-arch/ros-noetic-depth-image-proc](https://github.com/ros-noetic-arch/ros-noetic-depth-image-proc)
+2. 🗣 Commented on [#4](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler/issues/4#issuecomment-1859248639) in [ros-noetic-arch/ros-noetic-plotjuggler](https://github.com/ros-noetic-arch/ros-noetic-plotjuggler)
+3. 🗣 Commented on [#13](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/13#issuecomment-1859248242) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
+4. 🗣 Commented on [#4](https://github.com/acxz/openfoam/issues/4#issuecomment-1859220480) in [acxz/openfoam](https://github.com/acxz/openfoam)
+5. 🗣 Commented on [#4](https://github.com/acxz/openfoam/issues/4#issuecomment-1859208205) in [acxz/openfoam](https://github.com/acxz/openfoam)
 <!--END_SECTION:activity-->
 
 <p align="center">
