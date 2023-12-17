@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#241](https://github.com/acxz/pkgbuilds/issues/241#issuecomment-1859030962) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🔒 Closed issue [#241](https://github.com/acxz/pkgbuilds/issues/241) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🔓 Reopened issue [#9](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/9) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
-4. 🗣 Commented on [#7](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding/issues/7#issuecomment-1859027772) in [ros-noetic-arch/ros-noetic-python-qt-binding](https://github.com/ros-noetic-arch/ros-noetic-python-qt-binding)
-5. 🗣 Commented on [#5](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp/issues/5#issuecomment-1859025537) in [ros-noetic-arch/ros-noetic-qt-gui-cpp](https://github.com/ros-noetic-arch/ros-noetic-qt-gui-cpp)
+1. 🗣 Commented on [#175](https://github.com/acxz/pkgbuilds/issues/175#issuecomment-1859039420) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🗣 Commented on [#242](https://github.com/acxz/pkgbuilds/issues/242#issuecomment-1859039217) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🔒 Closed issue [#242](https://github.com/acxz/pkgbuilds/issues/242) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#252](https://github.com/acxz/pkgbuilds/issues/252#issuecomment-1859039120) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#241](https://github.com/acxz/pkgbuilds/issues/241#issuecomment-1859030962) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
