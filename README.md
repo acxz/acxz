@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/3#issuecomment-1867739294) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
-2. 🔓 Reopened issue [#10](https://github.com/acxz/flightgear-arch/issues/10) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-3. 🗣 Commented on [#13](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/13#issuecomment-1861009036) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
-4. 🗣 Commented on [#3546](https://github.com/ros-planning/moveit/pull/3546#issuecomment-1860642618) in [ros-planning/moveit](https://github.com/ros-planning/moveit)
-5. 🎉 Merged PR [#3](https://github.com/ros-noetic-arch/ros-noetic-depth-image-proc/pull/3) in [ros-noetic-arch/ros-noetic-depth-image-proc](https://github.com/ros-noetic-arch/ros-noetic-depth-image-proc)
+1. 🔓 Reopened issue [#62](https://github.com/acxz/gazebo-arch/issues/62) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. 🗣 Commented on [#62](https://github.com/acxz/gazebo-arch/issues/62#issuecomment-1867997117) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+3. 🗣 Commented on [#3](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control/issues/3#issuecomment-1867739294) in [ros-noetic-arch/ros-noetic-gazebo-ros-control](https://github.com/ros-noetic-arch/ros-noetic-gazebo-ros-control)
+4. 🔓 Reopened issue [#10](https://github.com/acxz/flightgear-arch/issues/10) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+5. 🗣 Commented on [#13](https://github.com/ros-noetic-arch/ros-noetic-rviz/issues/13#issuecomment-1861009036) in [ros-noetic-arch/ros-noetic-rviz](https://github.com/ros-noetic-arch/ros-noetic-rviz)
 <!--END_SECTION:activity-->
 
 <p align="center">
