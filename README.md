@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/rocm-arch/python-jax-rocm/issues/1#issuecomment-1870612452) in [rocm-arch/python-jax-rocm](https://github.com/rocm-arch/python-jax-rocm)
-2. 🗣 Commented on [#57](https://github.com/rocm-arch/tensorflow-rocm/issues/57#issuecomment-1870526462) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-3. 🔒 Closed issue [#57](https://github.com/rocm-arch/tensorflow-rocm/issues/57) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-4. 🗣 Commented on [#44](https://github.com/rocm-arch/tensorflow-rocm/issues/44#issuecomment-1870523203) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 🔒 Closed issue [#44](https://github.com/rocm-arch/tensorflow-rocm/issues/44) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. 🗣 Commented on [#1](https://github.com/rocm-arch/python-jax-rocm/issues/1#issuecomment-1870654266) in [rocm-arch/python-jax-rocm](https://github.com/rocm-arch/python-jax-rocm)
+2. 🔒 Closed issue [#1](https://github.com/rocm-arch/python-jax-rocm/issues/1) in [rocm-arch/python-jax-rocm](https://github.com/rocm-arch/python-jax-rocm)
+3. 🗣 Commented on [#1](https://github.com/rocm-arch/python-jax-rocm/issues/1#issuecomment-1870612452) in [rocm-arch/python-jax-rocm](https://github.com/rocm-arch/python-jax-rocm)
+4. 🗣 Commented on [#57](https://github.com/rocm-arch/tensorflow-rocm/issues/57#issuecomment-1870526462) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🔒 Closed issue [#57](https://github.com/rocm-arch/tensorflow-rocm/issues/57) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
