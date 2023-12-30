@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/acxz/element-wal/issues/2#issuecomment-1872549148) in [acxz/element-wal](https://github.com/acxz/element-wal)
-2. 🔒 Closed issue [#2](https://github.com/acxz/element-wal/issues/2) in [acxz/element-wal](https://github.com/acxz/element-wal)
-3. 🔒 Closed issue [#4](https://github.com/acxz/ros-cudagl-container/issues/4) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
-4. 🗣 Commented on [#6](https://github.com/acxz/ros-cudagl-container/issues/6#issuecomment-1871781093) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
-5. 🔒 Closed issue [#6](https://github.com/acxz/ros-cudagl-container/issues/6) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
+1. 🗣 Commented on [#9](https://github.com/acxz/flightgear-arch/issues/9#issuecomment-1872625116) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+2. 🔒 Closed issue [#9](https://github.com/acxz/flightgear-arch/issues/9) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+3. 🗣 Commented on [#2](https://github.com/acxz/element-wal/issues/2#issuecomment-1872549148) in [acxz/element-wal](https://github.com/acxz/element-wal)
+4. 🔒 Closed issue [#2](https://github.com/acxz/element-wal/issues/2) in [acxz/element-wal](https://github.com/acxz/element-wal)
+5. 🔒 Closed issue [#4](https://github.com/acxz/ros-cudagl-container/issues/4) in [acxz/ros-cudagl-container](https://github.com/acxz/ros-cudagl-container)
 <!--END_SECTION:activity-->
 
 <p align="center">
