@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/acxz/gazebo-arch/issues/62#issuecomment-1874094775) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-2. 🔒 Closed issue [#62](https://github.com/acxz/gazebo-arch/issues/62) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-3. 🗣 Commented on [#10](https://github.com/acxz/flightgear-arch/issues/10#issuecomment-1873592557) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
-4. 🗣 Commented on [#261](https://github.com/acxz/pkgbuilds/issues/261#issuecomment-1873439000) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#261](https://github.com/acxz/pkgbuilds/issues/261#issuecomment-1873368734) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 🗣 Commented on [#14](https://github.com/acxz/flightgear-arch/issues/14#issuecomment-1905106568) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+2. 🗣 Commented on [#15](https://github.com/acxz/flightgear-arch/issues/15#issuecomment-1905106059) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+3. 🔒 Closed issue [#15](https://github.com/acxz/flightgear-arch/issues/15) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+4. 🗣 Commented on [#15](https://github.com/acxz/flightgear-arch/issues/15#issuecomment-1905105507) in [acxz/flightgear-arch](https://github.com/acxz/flightgear-arch)
+5. 🗣 Commented on [#62](https://github.com/acxz/gazebo-arch/issues/62#issuecomment-1874094775) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
