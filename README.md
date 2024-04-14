@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#142](https://github.com/PokeAPI/sprites/issues/142) in [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
-2. 💪 Opened PR [#141](https://github.com/PokeAPI/sprites/pull/141) in [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
-3. ❗ Opened issue [#140](https://github.com/PokeAPI/sprites/issues/140) in [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
-4. 🔒 Closed issue [#16](https://github.com/acxz/pokeshell/issues/16) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-5. 🗣 Commented on [#16](https://github.com/acxz/pokeshell/issues/16#issuecomment-2053746353) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. 💪 Opened PR [#143](https://github.com/PokeAPI/sprites/pull/143) in [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
+2. 🗣 Commented on [#142](https://github.com/PokeAPI/sprites/issues/142#issuecomment-2054215975) in [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
+3. 🗣 Commented on [#141](https://github.com/PokeAPI/sprites/pull/141#issuecomment-2054215511) in [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
+4. ❗ Opened issue [#142](https://github.com/PokeAPI/sprites/issues/142) in [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
+5. 💪 Opened PR [#141](https://github.com/PokeAPI/sprites/pull/141) in [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
 <!--END_SECTION:activity-->
 
 <p align="center">
