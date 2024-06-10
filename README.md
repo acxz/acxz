@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#560](https://github.com/hsahovic/poke-env/issues/560) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
-2. 🗣 Commented on [#133](https://github.com/typst/typst/issues/133#issuecomment-2155721370) in [typst/typst](https://github.com/typst/typst)
-3. 🗣 Commented on [#3343](https://github.com/AlexeyAB/darknet/issues/3343#issuecomment-2092569278) in [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-4. 🔒 Closed issue [#3343](https://github.com/AlexeyAB/darknet/issues/3343) in [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-5. 🗣 Commented on [#1553](https://github.com/melonDS-emu/melonDS/issues/1553#issuecomment-2076083519) in [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS)
+1. 🎉 Merged PR [#2](https://github.com/acxz/StringCases.jl/pull/2) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
+2. 🎉 Merged PR [#1](https://github.com/acxz/StringCases.jl/pull/1) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
+3. ❗ Opened issue [#560](https://github.com/hsahovic/poke-env/issues/560) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
+4. 🗣 Commented on [#133](https://github.com/typst/typst/issues/133#issuecomment-2155721370) in [typst/typst](https://github.com/typst/typst)
+5. 🗣 Commented on [#3343](https://github.com/AlexeyAB/darknet/issues/3343#issuecomment-2092569278) in [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 <!--END_SECTION:activity-->
 
 <p align="center">
