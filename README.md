@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#571](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/issues/571) in [Systems-Modeling/SysML-v2-Pilot-Implementation](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation)
-2. 🗣 Commented on [#3](https://github.com/acxz/python-jax-rocm/issues/3#issuecomment-2164331993) in [acxz/python-jax-rocm](https://github.com/acxz/python-jax-rocm)
-3. 🎉 Merged PR [#2](https://github.com/acxz/StringCases.jl/pull/2) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
-4. 🎉 Merged PR [#1](https://github.com/acxz/StringCases.jl/pull/1) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
-5. ❗ Opened issue [#560](https://github.com/hsahovic/poke-env/issues/560) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
+1. 🗣 Commented on [#571](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/issues/571#issuecomment-2165957546) in [Systems-Modeling/SysML-v2-Pilot-Implementation](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation)
+2. ❗ Opened issue [#571](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/issues/571) in [Systems-Modeling/SysML-v2-Pilot-Implementation](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation)
+3. 🗣 Commented on [#3](https://github.com/acxz/python-jax-rocm/issues/3#issuecomment-2164331993) in [acxz/python-jax-rocm](https://github.com/acxz/python-jax-rocm)
+4. 🎉 Merged PR [#2](https://github.com/acxz/StringCases.jl/pull/2) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
+5. 🎉 Merged PR [#1](https://github.com/acxz/StringCases.jl/pull/1) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
 <!--END_SECTION:activity-->
 
 <p align="center">
