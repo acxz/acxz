@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/acxz/StringCases.jl/issues/3#issuecomment-2170426947) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
-2. 🔒 Closed issue [#3](https://github.com/acxz/StringCases.jl/issues/3) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
-3. ❗ Opened issue [#3](https://github.com/acxz/StringCases.jl/issues/3) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
-4. 🗣 Commented on [#3942](https://github.com/plotly/plotly.js/issues/3942#issuecomment-2167939702) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
-5. ❗ Opened issue [#7025](https://github.com/plotly/plotly.js/issues/7025) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+1. 🗣 Commented on [#571](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/issues/571#issuecomment-2195872820) in [Systems-Modeling/SysML-v2-Pilot-Implementation](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation)
+2. 🗣 Commented on [#3](https://github.com/acxz/StringCases.jl/issues/3#issuecomment-2170426947) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
+3. 🔒 Closed issue [#3](https://github.com/acxz/StringCases.jl/issues/3) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
+4. ❗ Opened issue [#3](https://github.com/acxz/StringCases.jl/issues/3) in [acxz/StringCases.jl](https://github.com/acxz/StringCases.jl)
+5. 🗣 Commented on [#3942](https://github.com/plotly/plotly.js/issues/3942#issuecomment-2167939702) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
 <!--END_SECTION:activity-->
 
 <p align="center">
