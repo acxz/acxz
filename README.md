@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1779](https://github.com/borglab/gtsam/issues/1779) in [borglab/gtsam](https://github.com/borglab/gtsam)
-2. 🗣 Commented on [#2610](https://github.com/plotly/plotly.py/issues/2610#issuecomment-2209299656) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
-3. 💪 Opened PR [#1775](https://github.com/borglab/gtsam/pull/1775) in [borglab/gtsam](https://github.com/borglab/gtsam)
-4. 🗣 Commented on [#571](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/issues/571#issuecomment-2204798122) in [Systems-Modeling/SysML-v2-Pilot-Implementation](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation)
-5. 🗣 Commented on [#571](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/issues/571#issuecomment-2195872820) in [Systems-Modeling/SysML-v2-Pilot-Implementation](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation)
+1. 💪 Opened PR [#1780](https://github.com/borglab/gtsam/pull/1780) in [borglab/gtsam](https://github.com/borglab/gtsam)
+2. ❗ Opened issue [#1779](https://github.com/borglab/gtsam/issues/1779) in [borglab/gtsam](https://github.com/borglab/gtsam)
+3. 🗣 Commented on [#2610](https://github.com/plotly/plotly.py/issues/2610#issuecomment-2209299656) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
+4. 💪 Opened PR [#1775](https://github.com/borglab/gtsam/pull/1775) in [borglab/gtsam](https://github.com/borglab/gtsam)
+5. 🗣 Commented on [#571](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/issues/571#issuecomment-2204798122) in [Systems-Modeling/SysML-v2-Pilot-Implementation](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation)
 <!--END_SECTION:activity-->
 
 <p align="center">
