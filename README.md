@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2477](https://github.com/plotly/plotly.py/issues/2477#issuecomment-2224220919) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
-2. 🗣 Commented on [#1779](https://github.com/borglab/gtsam/issues/1779#issuecomment-2224218276) in [borglab/gtsam](https://github.com/borglab/gtsam)
-3. 💪 Opened PR [#1](https://github.com/borglab/docker-images/pull/1) in [borglab/docker-images](https://github.com/borglab/docker-images)
-4. 🗣 Commented on [#1779](https://github.com/borglab/gtsam/issues/1779#issuecomment-2224126437) in [borglab/gtsam](https://github.com/borglab/gtsam)
-5. 🗣 Commented on [#1780](https://github.com/borglab/gtsam/pull/1780#issuecomment-2222919565) in [borglab/gtsam](https://github.com/borglab/gtsam)
+1. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/pull/6223#issuecomment-2227473543) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+2. 🗣 Commented on [#2477](https://github.com/plotly/plotly.py/issues/2477#issuecomment-2224220919) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
+3. 🗣 Commented on [#1779](https://github.com/borglab/gtsam/issues/1779#issuecomment-2224218276) in [borglab/gtsam](https://github.com/borglab/gtsam)
+4. 💪 Opened PR [#1](https://github.com/borglab/docker-images/pull/1) in [borglab/docker-images](https://github.com/borglab/docker-images)
+5. 🗣 Commented on [#1779](https://github.com/borglab/gtsam/issues/1779#issuecomment-2224126437) in [borglab/gtsam](https://github.com/borglab/gtsam)
 <!--END_SECTION:activity-->
 
 <p align="center">
