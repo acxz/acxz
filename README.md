@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6223](https://github.com/plotly/plotly.js/pull/6223#issuecomment-2227473543) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
-2. 🗣 Commented on [#2477](https://github.com/plotly/plotly.py/issues/2477#issuecomment-2224220919) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
-3. 🗣 Commented on [#1779](https://github.com/borglab/gtsam/issues/1779#issuecomment-2224218276) in [borglab/gtsam](https://github.com/borglab/gtsam)
-4. 💪 Opened PR [#1](https://github.com/borglab/docker-images/pull/1) in [borglab/docker-images](https://github.com/borglab/docker-images)
-5. 🗣 Commented on [#1779](https://github.com/borglab/gtsam/issues/1779#issuecomment-2224126437) in [borglab/gtsam](https://github.com/borglab/gtsam)
+1. 🗣 Commented on [#264](https://github.com/acxz/pkgbuilds/issues/264#issuecomment-2240788939) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+2. 🔒 Closed issue [#264](https://github.com/acxz/pkgbuilds/issues/264) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🗣 Commented on [#264](https://github.com/acxz/pkgbuilds/issues/264#issuecomment-2240787231) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🗣 Commented on [#174](https://github.com/acxz/pkgbuilds/issues/174#issuecomment-2240785601) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#98](https://github.com/acxz/pkgbuilds/issues/98#issuecomment-2240783870) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
