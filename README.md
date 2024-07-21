@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#982](https://github.com/rocm-arch/rocm-arch/pull/982) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-2. 🗣 Commented on [#982](https://github.com/rocm-arch/rocm-arch/pull/982#issuecomment-2241339945) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-3. 🔒 Closed issue [#412](https://github.com/rocm-arch/rocm-arch/issues/412) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
-4. 🗣 Commented on [#221](https://github.com/OpenVSP/OpenVSP/pull/221#issuecomment-2241316395) in [OpenVSP/OpenVSP](https://github.com/OpenVSP/OpenVSP)
-5. 🗣 Commented on [#239](https://github.com/acxz/pkgbuilds/issues/239#issuecomment-2241292662) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+1. 💪 Opened PR [#990](https://github.com/rocm-arch/rocm-arch/pull/990) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. 🗣 Commented on [#1602](https://github.com/ROCm/AMDMIGraphX/issues/1602#issuecomment-2241451435) in [ROCm/AMDMIGraphX](https://github.com/ROCm/AMDMIGraphX)
+3. 💪 Opened PR [#3291](https://github.com/ROCm/AMDMIGraphX/pull/3291) in [ROCm/AMDMIGraphX](https://github.com/ROCm/AMDMIGraphX)
+4. 🎉 Merged PR [#982](https://github.com/rocm-arch/rocm-arch/pull/982) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+5. 🗣 Commented on [#982](https://github.com/rocm-arch/rocm-arch/pull/982#issuecomment-2241339945) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 <p align="center">
