@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/rocm-arch/tensorflow-rocm/issues/62#issuecomment-2241491547) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-2. ❗ Opened issue [#70](https://github.com/rocm-arch/tensorflow-rocm/issues/70) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-3. 🗣 Commented on [#56](https://github.com/rocm-arch/tensorflow-rocm/issues/56#issuecomment-2241490030) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-4. 🔒 Closed issue [#56](https://github.com/rocm-arch/tensorflow-rocm/issues/56) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
-5. 🗣 Commented on [#22](https://github.com/rocm-arch/tensorflow-rocm/issues/22#issuecomment-2241488920) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+1. 🔒 Closed issue [#66](https://github.com/rocm-arch/tensorflow-rocm/issues/66) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+2. 🗣 Commented on [#66](https://github.com/rocm-arch/tensorflow-rocm/issues/66#issuecomment-2241503155) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+3. 🗣 Commented on [#62](https://github.com/rocm-arch/tensorflow-rocm/issues/62#issuecomment-2241491547) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+4. ❗ Opened issue [#70](https://github.com/rocm-arch/tensorflow-rocm/issues/70) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
+5. 🗣 Commented on [#56](https://github.com/rocm-arch/tensorflow-rocm/issues/56#issuecomment-2241490030) in [rocm-arch/tensorflow-rocm](https://github.com/rocm-arch/tensorflow-rocm)
 <!--END_SECTION:activity-->
 
 <p align="center">
