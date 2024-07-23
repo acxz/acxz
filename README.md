@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/acxz/pkgbuilds/issues/240#issuecomment-2241734470) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-2. 🔒 Closed issue [#240](https://github.com/acxz/pkgbuilds/issues/240) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-3. 🔒 Closed issue [#79](https://github.com/acxz/pkgbuilds/issues/79) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-4. 🗣 Commented on [#79](https://github.com/acxz/pkgbuilds/issues/79#issuecomment-2241733773) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
-5. 🗣 Commented on [#1](https://github.com/borglab/docker-images/pull/1#issuecomment-2241714300) in [borglab/docker-images](https://github.com/borglab/docker-images)
+1. 🗣 Commented on [#4944](https://github.com/quarto-dev/quarto-cli/issues/4944#issuecomment-2243901156) in [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
+2. 🗣 Commented on [#240](https://github.com/acxz/pkgbuilds/issues/240#issuecomment-2241734470) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+3. 🔒 Closed issue [#240](https://github.com/acxz/pkgbuilds/issues/240) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+4. 🔒 Closed issue [#79](https://github.com/acxz/pkgbuilds/issues/79) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
+5. 🗣 Commented on [#79](https://github.com/acxz/pkgbuilds/issues/79#issuecomment-2241733773) in [acxz/pkgbuilds](https://github.com/acxz/pkgbuilds)
 <!--END_SECTION:activity-->
 
 <p align="center">
