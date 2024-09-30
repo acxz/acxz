@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1965](https://github.com/jgm/pandoc/issues/1965#issuecomment-2368345119) in [jgm/pandoc](https://github.com/jgm/pandoc)
-2. 🗣 Commented on [#1965](https://github.com/jgm/pandoc/issues/1965#issuecomment-2366999117) in [jgm/pandoc](https://github.com/jgm/pandoc)
-3. 🗣 Commented on [#10029](https://github.com/jgm/pandoc/pull/10029#issuecomment-2366992749) in [jgm/pandoc](https://github.com/jgm/pandoc)
-4. 🗣 Commented on [#10029](https://github.com/jgm/pandoc/pull/10029#issuecomment-2366843800) in [jgm/pandoc](https://github.com/jgm/pandoc)
-5. 🔒 Closed issue [#18](https://github.com/acxz/pokeshell/issues/18) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. ❗ Opened issue [#109](https://github.com/JuliaControl/ModelPredictiveControl.jl/issues/109) in [JuliaControl/ModelPredictiveControl.jl](https://github.com/JuliaControl/ModelPredictiveControl.jl)
+2. 🗣 Commented on [#1965](https://github.com/jgm/pandoc/issues/1965#issuecomment-2368345119) in [jgm/pandoc](https://github.com/jgm/pandoc)
+3. 🗣 Commented on [#1965](https://github.com/jgm/pandoc/issues/1965#issuecomment-2366999117) in [jgm/pandoc](https://github.com/jgm/pandoc)
+4. 🗣 Commented on [#10029](https://github.com/jgm/pandoc/pull/10029#issuecomment-2366992749) in [jgm/pandoc](https://github.com/jgm/pandoc)
+5. 🗣 Commented on [#10029](https://github.com/jgm/pandoc/pull/10029#issuecomment-2366843800) in [jgm/pandoc](https://github.com/jgm/pandoc)
 <!--END_SECTION:activity-->
 
 <p align="center">
