@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/JuliaControl/ModelPredictiveControl.jl/issues/109#issuecomment-2390322673) in [JuliaControl/ModelPredictiveControl.jl](https://github.com/JuliaControl/ModelPredictiveControl.jl)
-2. 🗣 Commented on [#109](https://github.com/JuliaControl/ModelPredictiveControl.jl/issues/109#issuecomment-2384731273) in [JuliaControl/ModelPredictiveControl.jl](https://github.com/JuliaControl/ModelPredictiveControl.jl)
-3. ❗ Opened issue [#109](https://github.com/JuliaControl/ModelPredictiveControl.jl/issues/109) in [JuliaControl/ModelPredictiveControl.jl](https://github.com/JuliaControl/ModelPredictiveControl.jl)
-4. 🗣 Commented on [#1965](https://github.com/jgm/pandoc/issues/1965#issuecomment-2368345119) in [jgm/pandoc](https://github.com/jgm/pandoc)
-5. 🗣 Commented on [#1965](https://github.com/jgm/pandoc/issues/1965#issuecomment-2366999117) in [jgm/pandoc](https://github.com/jgm/pandoc)
+1. ❗ Opened issue [#1](https://github.com/acxz/wallshell/issues/1) in [acxz/wallshell](https://github.com/acxz/wallshell)
+2. 🗣 Commented on [#109](https://github.com/JuliaControl/ModelPredictiveControl.jl/issues/109#issuecomment-2390322673) in [JuliaControl/ModelPredictiveControl.jl](https://github.com/JuliaControl/ModelPredictiveControl.jl)
+3. 🗣 Commented on [#109](https://github.com/JuliaControl/ModelPredictiveControl.jl/issues/109#issuecomment-2384731273) in [JuliaControl/ModelPredictiveControl.jl](https://github.com/JuliaControl/ModelPredictiveControl.jl)
+4. ❗ Opened issue [#109](https://github.com/JuliaControl/ModelPredictiveControl.jl/issues/109) in [JuliaControl/ModelPredictiveControl.jl](https://github.com/JuliaControl/ModelPredictiveControl.jl)
+5. 🗣 Commented on [#1965](https://github.com/jgm/pandoc/issues/1965#issuecomment-2368345119) in [jgm/pandoc](https://github.com/jgm/pandoc)
 <!--END_SECTION:activity-->
 
 <p align="center">
