@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2436579436) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-2. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2429184699) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-3. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2429053331) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-4. ❗ Opened issue [#1](https://github.com/acxz/wallshell/issues/1) in [acxz/wallshell](https://github.com/acxz/wallshell)
-5. 🗣 Commented on [#109](https://github.com/JuliaControl/ModelPredictiveControl.jl/issues/109#issuecomment-2390322673) in [JuliaControl/ModelPredictiveControl.jl](https://github.com/JuliaControl/ModelPredictiveControl.jl)
+1. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2439650283) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+2. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2436579436) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+3. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2429184699) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+4. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2429053331) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+5. ❗ Opened issue [#1](https://github.com/acxz/wallshell/issues/1) in [acxz/wallshell](https://github.com/acxz/wallshell)
 <!--END_SECTION:activity-->
 
 <p align="center">
