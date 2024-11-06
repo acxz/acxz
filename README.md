@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#818](https://github.com/PokeAPI/pokeapi/issues/818#issuecomment-2454683991) in [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi)
-2. 🗣 Commented on [#2383](https://github.com/saulpw/visidata/issues/2383#issuecomment-2451173257) in [saulpw/visidata](https://github.com/saulpw/visidata)
-3. ❗ Opened issue [#309](https://github.com/kayjan/bigtree/issues/309) in [kayjan/bigtree](https://github.com/kayjan/bigtree)
-4. 🗣 Commented on [#201](https://github.com/hpjansson/chafa/issues/201#issuecomment-2440249894) in [hpjansson/chafa](https://github.com/hpjansson/chafa)
-5. 🗣 Commented on [#15](https://github.com/talwat/pokeget-rs/pull/15#issuecomment-2440197821) in [talwat/pokeget-rs](https://github.com/talwat/pokeget-rs)
+1. 🗣 Commented on [#309](https://github.com/kayjan/bigtree/issues/309#issuecomment-2458137359) in [kayjan/bigtree](https://github.com/kayjan/bigtree)
+2. 🗣 Commented on [#818](https://github.com/PokeAPI/pokeapi/issues/818#issuecomment-2454683991) in [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi)
+3. 🗣 Commented on [#2383](https://github.com/saulpw/visidata/issues/2383#issuecomment-2451173257) in [saulpw/visidata](https://github.com/saulpw/visidata)
+4. ❗ Opened issue [#309](https://github.com/kayjan/bigtree/issues/309) in [kayjan/bigtree](https://github.com/kayjan/bigtree)
+5. 🗣 Commented on [#201](https://github.com/hpjansson/chafa/issues/201#issuecomment-2440249894) in [hpjansson/chafa](https://github.com/hpjansson/chafa)
 <!--END_SECTION:activity-->
 
 <p align="center">
