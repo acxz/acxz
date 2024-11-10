@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/mar10/nutree/issues/14#issuecomment-2465228175) in [mar10/nutree](https://github.com/mar10/nutree)
-2. 🗣 Commented on [#14](https://github.com/mar10/nutree/issues/14#issuecomment-2463595946) in [mar10/nutree](https://github.com/mar10/nutree)
-3. 🗣 Commented on [#309](https://github.com/kayjan/bigtree/issues/309#issuecomment-2463414434) in [kayjan/bigtree](https://github.com/kayjan/bigtree)
-4. 🗣 Commented on [#14](https://github.com/mar10/nutree/issues/14#issuecomment-2460015427) in [mar10/nutree](https://github.com/mar10/nutree)
-5. 🗣 Commented on [#309](https://github.com/kayjan/bigtree/issues/309#issuecomment-2458137359) in [kayjan/bigtree](https://github.com/kayjan/bigtree)
+1. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2466780954) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+2. 🔒 Closed issue [#23](https://github.com/acxz/pokeshell/issues/23) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+3. 🗣 Commented on [#9](https://github.com/acxz/pokeshell/issues/9#issuecomment-2466779604) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+4. 🗣 Commented on [#14](https://github.com/mar10/nutree/issues/14#issuecomment-2465228175) in [mar10/nutree](https://github.com/mar10/nutree)
+5. 🗣 Commented on [#14](https://github.com/mar10/nutree/issues/14#issuecomment-2463595946) in [mar10/nutree](https://github.com/mar10/nutree)
 <!--END_SECTION:activity-->
 
 <p align="center">
