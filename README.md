@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7#issuecomment-2467052990) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-2. 🗣 Commented on [#10](https://github.com/acxz/pokeshell/issues/10#issuecomment-2467035107) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-3. 🔒 Closed issue [#10](https://github.com/acxz/pokeshell/issues/10) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-4. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2466780954) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-5. 🔒 Closed issue [#23](https://github.com/acxz/pokeshell/issues/23) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. ❗ Opened issue [#24](https://github.com/acxz/pokeshell/issues/24) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+2. 🗣 Commented on [#7](https://github.com/acxz/pokeshell/issues/7#issuecomment-2467052990) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+3. 🗣 Commented on [#10](https://github.com/acxz/pokeshell/issues/10#issuecomment-2467035107) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+4. 🔒 Closed issue [#10](https://github.com/acxz/pokeshell/issues/10) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+5. 🗣 Commented on [#23](https://github.com/acxz/pokeshell/issues/23#issuecomment-2466780954) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
 <!--END_SECTION:activity-->
 
 <p align="center">
