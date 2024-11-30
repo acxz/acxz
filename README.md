@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#206](https://github.com/paulfitz/daff/issues/206) in [paulfitz/daff](https://github.com/paulfitz/daff)
-2. 🗣 Commented on [#9](https://github.com/acxz/pokeshell/issues/9#issuecomment-2496033194) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
-3. 🗣 Commented on [#8617](https://github.com/jgm/pandoc/pull/8617#issuecomment-2495503197) in [jgm/pandoc](https://github.com/jgm/pandoc)
-4. 🗣 Commented on [#4409](https://github.com/jgm/pandoc/issues/4409#issuecomment-2495389040) in [jgm/pandoc](https://github.com/jgm/pandoc)
-5. 🗣 Commented on [#9](https://github.com/acxz/pokeshell/issues/9#issuecomment-2491469331) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+1. 🗣 Commented on [#6](https://github.com/acxz/poke-ai/issues/6#issuecomment-2508976686) in [acxz/poke-ai](https://github.com/acxz/poke-ai)
+2. 🗣 Commented on [#1](https://github.com/acxz/poke-ai/issues/1#issuecomment-2508976523) in [acxz/poke-ai](https://github.com/acxz/poke-ai)
+3. ❗ Opened issue [#206](https://github.com/paulfitz/daff/issues/206) in [paulfitz/daff](https://github.com/paulfitz/daff)
+4. 🗣 Commented on [#9](https://github.com/acxz/pokeshell/issues/9#issuecomment-2496033194) in [acxz/pokeshell](https://github.com/acxz/pokeshell)
+5. 🗣 Commented on [#8617](https://github.com/jgm/pandoc/pull/8617#issuecomment-2495503197) in [jgm/pandoc](https://github.com/jgm/pandoc)
 <!--END_SECTION:activity-->
 
 <p align="center">
