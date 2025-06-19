@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#649](https://github.com/hsahovic/poke-env/pull/649#issuecomment-2558174254) in [hsahovic/poke-env](https://github.com/hsahovic/poke-env)
+1. 🗣 Commented on [#2227](https://github.com/jump-dev/JuMP.jl/issues/2227#issuecomment-2988092925) in [jump-dev/JuMP.jl](https://github.com/jump-dev/JuMP.jl)
 2. 🗣 Commented on [#1423](https://github.com/fastfetch-cli/fastfetch/issues/1423#issuecomment-2510384799) in [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 3. 🗣 Commented on [#1423](https://github.com/fastfetch-cli/fastfetch/issues/1423#issuecomment-2510383620) in [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 4. 🗣 Commented on [#1423](https://github.com/fastfetch-cli/fastfetch/issues/1423#issuecomment-2510380358) in [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
