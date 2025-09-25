@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/acxz/element-wal/issues/3#issuecomment-3306997366) in [acxz/element-wal](https://github.com/acxz/element-wal)
+1. 🗣 Commented on [#10016](https://github.com/nushell/nushell/issues/10016#issuecomment-3276519105) in [nushell/nushell](https://github.com/nushell/nushell)
 2. 💪 Opened PR [#2037](undefined) in [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)
 3. 🗣 Commented on [#10016](https://github.com/nushell/nushell/issues/10016#issuecomment-3276519105) in [nushell/nushell](https://github.com/nushell/nushell)
 4. 🗣 Commented on [#1423](https://github.com/fastfetch-cli/fastfetch/issues/1423#issuecomment-2510380358) in [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
