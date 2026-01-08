@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=AFFFA3&multiline=true&height=75&lines=contributing+to+robotics%2Fae%2Fml%2Fgpu;packaging+it+for+archlinux;ricer)](https://git.io/typing-svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1839](https://github.com/terrastruct/d2/issues/1839#issuecomment-3699545105) in [terrastruct/d2](https://github.com/terrastruct/d2)
-2. 💪 Opened PR [#245](https://github.com/coin-or/CppAD/pull/245) in [coin-or/CppAD](https://github.com/coin-or/CppAD)
-3. 🗣 Commented on [#1159](https://github.com/jmcnamara/XlsxWriter/issues/1159#issuecomment-3573385445) in [jmcnamara/XlsxWriter](https://github.com/jmcnamara/XlsxWriter)
+1. ❗ Opened issue [#2703](https://github.com/terrastruct/d2/issues/2703) in [terrastruct/d2](https://github.com/terrastruct/d2)
+2. 🗣 Commented on [#1839](https://github.com/terrastruct/d2/issues/1839#issuecomment-3699545105) in [terrastruct/d2](https://github.com/terrastruct/d2)
+3. 💪 Opened PR [#245](https://github.com/coin-or/CppAD/pull/245) in [coin-or/CppAD](https://github.com/coin-or/CppAD)
 4. 🗣 Commented on [#1027](https://github.com/nushell/nushell/issues/1027#issuecomment-3393645102) in [nushell/nushell](https://github.com/nushell/nushell)
 5. 🗣 Commented on [#3](https://github.com/acxz/element-wal/issues/3#issuecomment-3306997366) in [acxz/element-wal](https://github.com/acxz/element-wal)
 <!--END_SECTION:activity-->
